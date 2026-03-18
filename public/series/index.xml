@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on AlisonT Design</title>
-    <link>https://juzhyo.github.io/alisont/series/</link>
+    <link>http://localhost:45331/alisont/series/</link>
     <description>Recent content in Series on AlisonT Design</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>nuno@n9o.xyz (AlisonT Design)</managingEditor>
     <webMaster>nuno@n9o.xyz (AlisonT Design)</webMaster>
     <copyright>© 2026 AlisonT Design</copyright>
-    <atom:link href="https://juzhyo.github.io/alisont/series/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:45331/alisont/series/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Documentation</title>
-      <link>https://juzhyo.github.io/alisont/series/documentation/</link>
+      <link>http://localhost:45331/alisont/series/documentation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>nuno@n9o.xyz (AlisonT Design)</author>
-      <guid>https://juzhyo.github.io/alisont/series/documentation/</guid>
+      <guid>http://localhost:45331/alisont/series/documentation/</guid>
       <description></description>
       
     </item>

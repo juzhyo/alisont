@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Neu on Blowfish</title>
-    <link>https://juzhyo.github.io/alisont/de/tags/neu/</link>
+    <link>http://localhost:45331/alisont/de/tags/neu/</link>
     <description>Recent content in Neu on Blowfish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <copyright>© 2026 Blowfish</copyright>
-    <atom:link href="https://juzhyo.github.io/alisont/de/tags/neu/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:45331/alisont/de/tags/neu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Willkommen bei Blowfish</title>
-      <link>https://juzhyo.github.io/alisont/de/catalogue/flat-white/</link>
+      <link>http://localhost:45331/alisont/de/catalogue/flat-white/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://juzhyo.github.io/alisont/de/catalogue/flat-white/</guid>
+      <guid>http://localhost:45331/alisont/de/catalogue/flat-white/</guid>
       <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;&#xA;  Blowfish ist vollgepackt mit unzähligen Funktionen.&#xA;&lt;/div&gt;&#xA;&#xA;&lt;p&gt;Das ursprüngliche Ziel von Blowfish war es, ein Theme zu entwickeln, das einfach und leichtgewichtig ist. Das Theme ist ein Fork von &lt;a target=&#34;_blank&#34; href=&#34;https://github.com/nunocoracao/congo&#34;&gt;Congo&lt;/a&gt; und erweitert dessen ursprüngliche Vision.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://juzhyo.github.io/alisont/catalogue/flat-white/feature.JPG" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45331/alisont/catalogue/flat-white/feature.JPG" />
     </item>
     
     <item>
       <title>Willkommen bei Blowfish</title>
-      <link>https://juzhyo.github.io/alisont/de/catalogue/frosted/</link>
+      <link>http://localhost:45331/alisont/de/catalogue/frosted/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://juzhyo.github.io/alisont/de/catalogue/frosted/</guid>
+      <guid>http://localhost:45331/alisont/de/catalogue/frosted/</guid>
       <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;&#xA;  Blowfish ist vollgepackt mit unzähligen Funktionen.&#xA;&lt;/div&gt;&#xA;&#xA;&lt;p&gt;Das ursprüngliche Ziel von Blowfish war es, ein Theme zu entwickeln, das einfach und leichtgewichtig ist. Das Theme ist ein Fork von &lt;a target=&#34;_blank&#34; href=&#34;https://github.com/nunocoracao/congo&#34;&gt;Congo&lt;/a&gt; und erweitert dessen ursprüngliche Vision.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://juzhyo.github.io/alisont/catalogue/frosted/feature.JPG" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45331/alisont/catalogue/frosted/feature.JPG" />
     </item>
     
     <item>
       <title>Willkommen bei Blowfish</title>
-      <link>https://juzhyo.github.io/alisont/de/catalogue/glossy-white/</link>
+      <link>http://localhost:45331/alisont/de/catalogue/glossy-white/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://juzhyo.github.io/alisont/de/catalogue/glossy-white/</guid>
+      <guid>http://localhost:45331/alisont/de/catalogue/glossy-white/</guid>
       <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;&#xA;  Blowfish ist vollgepackt mit unzähligen Funktionen.&#xA;&lt;/div&gt;&#xA;&#xA;&lt;p&gt;Das ursprüngliche Ziel von Blowfish war es, ein Theme zu entwickeln, das einfach und leichtgewichtig ist. Das Theme ist ein Fork von &lt;a target=&#34;_blank&#34; href=&#34;https://github.com/nunocoracao/congo&#34;&gt;Congo&lt;/a&gt; und erweitert dessen ursprüngliche Vision.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://juzhyo.github.io/alisont/catalogue/glossy-white/feature.JPG" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45331/alisont/catalogue/glossy-white/feature.JPG" />
     </item>
     
     <item>
       <title>Willkommen bei Blowfish</title>
-      <link>https://juzhyo.github.io/alisont/de/catalogue/welcome/</link>
+      <link>http://localhost:45331/alisont/de/catalogue/welcome/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://juzhyo.github.io/alisont/de/catalogue/welcome/</guid>
+      <guid>http://localhost:45331/alisont/de/catalogue/welcome/</guid>
       <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;&#xA;  Blowfish ist vollgepackt mit unzähligen Funktionen.&#xA;&lt;/div&gt;&#xA;&#xA;&lt;p&gt;Das ursprüngliche Ziel von Blowfish war es, ein Theme zu entwickeln, das einfach und leichtgewichtig ist. Das Theme ist ein Fork von &lt;a target=&#34;_blank&#34; href=&#34;https://github.com/nunocoracao/congo&#34;&gt;Congo&lt;/a&gt; und erweitert dessen ursprüngliche Vision.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://juzhyo.github.io/alisont/catalogue/welcome/featured.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45331/alisont/catalogue/welcome/featured.svg" />
     </item>
     
     <item>
       <title>Willkommen bei Blowfish</title>
-      <link>https://juzhyo.github.io/alisont/de/docs/welcome/</link>
+      <link>http://localhost:45331/alisont/de/docs/welcome/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://juzhyo.github.io/alisont/de/docs/welcome/</guid>
+      <guid>http://localhost:45331/alisont/de/docs/welcome/</guid>
       <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;&#xA;  Blowfish ist vollgepackt mit unzähligen Funktionen.&#xA;&lt;/div&gt;&#xA;&#xA;&lt;p&gt;Das ursprüngliche Ziel von Blowfish war es, ein Theme zu entwickeln, das einfach und leichtgewichtig ist. Das Theme ist ein Fork von &lt;a target=&#34;_blank&#34; href=&#34;https://github.com/nunocoracao/congo&#34;&gt;Congo&lt;/a&gt; und erweitert dessen ursprüngliche Vision.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://juzhyo.github.io/alisont/docs/welcome/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45331/alisont/docs/welcome/feature.jpg" />
     </item>
     
   </channel>

@@ -2,989 +2,469 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Blowfish</title>
-    <link>https://juzhyo.github.io/alisont/es/tags/</link>
+    <link>http://localhost:45331/alisont/es/tags/</link>
     <description>Recent content in Tags on Blowfish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>© 2026 Blowfish</copyright>
-    <lastBuildDate>Wed, 04 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://juzhyo.github.io/alisont/es/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Blowfish</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/blowfish/</link>
-      <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://juzhyo.github.io/alisont/es/tags/blowfish/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Hugo</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/hugo/</link>
-      <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://juzhyo.github.io/alisont/es/tags/hugo/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Tutorial</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/tutorial/</link>
-      <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://juzhyo.github.io/alisont/es/tags/tutorial/</guid>
-      <description></description>
-      
-    </item>
+    <lastBuildDate>Wed, 12 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:45331/alisont/es/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Autores</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/autores/</link>
+      <link>http://localhost:45331/alisont/es/tags/autores/</link>
       <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://juzhyo.github.io/alisont/es/tags/autores/</guid>
+      <guid>http://localhost:45331/alisont/es/tags/autores/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Ejemplo</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/ejemplo/</link>
+      <link>http://localhost:45331/alisont/es/tags/ejemplo/</link>
       <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://juzhyo.github.io/alisont/es/tags/ejemplo/</guid>
+      <guid>http://localhost:45331/alisont/es/tags/ejemplo/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Miniatura</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/miniatura/</link>
+      <link>http://localhost:45331/alisont/es/tags/miniatura/</link>
       <pubDate>Mon, 26 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://juzhyo.github.io/alisont/es/tags/miniatura/</guid>
+      <guid>http://localhost:45331/alisont/es/tags/miniatura/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Iconos</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/iconos/</link>
+      <link>http://localhost:45331/alisont/es/tags/iconos/</link>
       <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://juzhyo.github.io/alisont/es/tags/iconos/</guid>
+      <guid>http://localhost:45331/alisont/es/tags/iconos/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Shortcodes</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/shortcodes/</link>
+      <link>http://localhost:45331/alisont/es/tags/shortcodes/</link>
       <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://juzhyo.github.io/alisont/es/tags/shortcodes/</guid>
+      <guid>http://localhost:45331/alisont/es/tags/shortcodes/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Css</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/css/</link>
+      <link>http://localhost:45331/alisont/es/tags/css/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://juzhyo.github.io/alisont/es/tags/css/</guid>
+      <guid>http://localhost:45331/alisont/es/tags/css/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Html</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/html/</link>
+      <link>http://localhost:45331/alisont/es/tags/html/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://juzhyo.github.io/alisont/es/tags/html/</guid>
+      <guid>http://localhost:45331/alisont/es/tags/html/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Markdown</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/markdown/</link>
+      <link>http://localhost:45331/alisont/es/tags/markdown/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://juzhyo.github.io/alisont/es/tags/markdown/</guid>
+      <guid>http://localhost:45331/alisont/es/tags/markdown/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Gist</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/gist/</link>
+      <link>http://localhost:45331/alisont/es/tags/gist/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://juzhyo.github.io/alisont/es/tags/gist/</guid>
+      <guid>http://localhost:45331/alisont/es/tags/gist/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Privacidad</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/privacidad/</link>
+      <link>http://localhost:45331/alisont/es/tags/privacidad/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://juzhyo.github.io/alisont/es/tags/privacidad/</guid>
+      <guid>http://localhost:45331/alisont/es/tags/privacidad/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Twitter</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/twitter/</link>
+      <link>http://localhost:45331/alisont/es/tags/twitter/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://juzhyo.github.io/alisont/es/tags/twitter/</guid>
+      <guid>http://localhost:45331/alisont/es/tags/twitter/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Vimeo</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/vimeo/</link>
+      <link>http://localhost:45331/alisont/es/tags/vimeo/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://juzhyo.github.io/alisont/es/tags/vimeo/</guid>
+      <guid>http://localhost:45331/alisont/es/tags/vimeo/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Youtube</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/youtube/</link>
+      <link>http://localhost:45331/alisont/es/tags/youtube/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://juzhyo.github.io/alisont/es/tags/youtube/</guid>
+      <guid>http://localhost:45331/alisont/es/tags/youtube/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Latín</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/lat%C3%ADn/</link>
+      <link>http://localhost:45331/alisont/es/tags/lat%C3%ADn/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://juzhyo.github.io/alisont/es/tags/lat%C3%ADn/</guid>
+      <guid>http://localhost:45331/alisont/es/tags/lat%C3%ADn/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Texto</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/texto/</link>
+      <link>http://localhost:45331/alisont/es/tags/texto/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://juzhyo.github.io/alisont/es/tags/texto/</guid>
+      <guid>http://localhost:45331/alisont/es/tags/texto/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Katex</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/katex/</link>
+      <link>http://localhost:45331/alisont/es/tags/katex/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://juzhyo.github.io/alisont/es/tags/katex/</guid>
+      <guid>http://localhost:45331/alisont/es/tags/katex/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Matemáticas</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/matem%C3%A1ticas/</link>
+      <link>http://localhost:45331/alisont/es/tags/matem%C3%A1ticas/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://juzhyo.github.io/alisont/es/tags/matem%C3%A1ticas/</guid>
+      <guid>http://localhost:45331/alisont/es/tags/matem%C3%A1ticas/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Diagrama</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/diagrama/</link>
+      <link>http://localhost:45331/alisont/es/tags/diagrama/</link>
       <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://juzhyo.github.io/alisont/es/tags/diagrama/</guid>
+      <guid>http://localhost:45331/alisont/es/tags/diagrama/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Gráfico</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/gr%C3%A1fico/</link>
+      <link>http://localhost:45331/alisont/es/tags/gr%C3%A1fico/</link>
       <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://juzhyo.github.io/alisont/es/tags/gr%C3%A1fico/</guid>
+      <guid>http://localhost:45331/alisont/es/tags/gr%C3%A1fico/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Mermaid</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/mermaid/</link>
+      <link>http://localhost:45331/alisont/es/tags/mermaid/</link>
       <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://juzhyo.github.io/alisont/es/tags/mermaid/</guid>
+      <guid>http://localhost:45331/alisont/es/tags/mermaid/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Emoji</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/emoji/</link>
+      <link>http://localhost:45331/alisont/es/tags/emoji/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://juzhyo.github.io/alisont/es/tags/emoji/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Plantilla</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/plantilla/</link>
-      <pubDate>Tue, 22 Dec 1987 00:00:00 +0000</pubDate>
-      
-      <guid>https://juzhyo.github.io/alisont/es/tags/plantilla/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Academia</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/academia/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juzhyo.github.io/alisont/es/tags/academia/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Administrador De Linux</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/administrador-de-linux/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juzhyo.github.io/alisont/es/tags/administrador-de-linux/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>AI</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/ai/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juzhyo.github.io/alisont/es/tags/ai/</guid>
+      <guid>http://localhost:45331/alisont/es/tags/emoji/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Alojamiento</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/alojamiento/</link>
+      <link>http://localhost:45331/alisont/es/tags/alojamiento/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://juzhyo.github.io/alisont/es/tags/alojamiento/</guid>
+      <guid>http://localhost:45331/alisont/es/tags/alojamiento/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Analytics</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/analytics/</link>
+      <link>http://localhost:45331/alisont/es/tags/analytics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://juzhyo.github.io/alisont/es/tags/analytics/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Aprendiendo</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/aprendiendo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juzhyo.github.io/alisont/es/tags/aprendiendo/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Autor Del Tema</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/autor-del-tema/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juzhyo.github.io/alisont/es/tags/autor-del-tema/</guid>
+      <guid>http://localhost:45331/alisont/es/tags/analytics/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Avanzado</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/advanced/</link>
+      <link>http://localhost:45331/alisont/es/tags/advanced/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://juzhyo.github.io/alisont/es/tags/advanced/</guid>
+      <guid>http://localhost:45331/alisont/es/tags/advanced/</guid>
       <description>&lt;p&gt;Esta es la etiqueta &amp;ldquo;Avanzado&amp;rdquo;. Al igual que otras páginas de listado en Blowfish, puedes agregar contenido personalizado a términos de taxonomía individuales y se mostrará en la parte superior del listado de términos.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Avanzado</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/avanzado/</link>
+      <link>http://localhost:45331/alisont/es/tags/avanzado/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://juzhyo.github.io/alisont/es/tags/avanzado/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blog</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/blog/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juzhyo.github.io/alisont/es/tags/blog/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blog Al Aire Libre</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/blog-al-aire-libre/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juzhyo.github.io/alisont/es/tags/blog-al-aire-libre/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blog De Recetas</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/blog-de-recetas/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juzhyo.github.io/alisont/es/tags/blog-de-recetas/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blog De Tecnología</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/blog-de-tecnolog%C3%ADa/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juzhyo.github.io/alisont/es/tags/blog-de-tecnolog%C3%ADa/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blog Personal</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/blog-personal/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juzhyo.github.io/alisont/es/tags/blog-personal/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Bricolaje</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/bricolaje/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juzhyo.github.io/alisont/es/tags/bricolaje/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>CANALLA</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/canalla/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juzhyo.github.io/alisont/es/tags/canalla/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Cartera</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/cartera/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juzhyo.github.io/alisont/es/tags/cartera/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Clase</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/clase/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juzhyo.github.io/alisont/es/tags/clase/</guid>
+      <guid>http://localhost:45331/alisont/es/tags/avanzado/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Comentarios</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/comentarios/</link>
+      <link>http://localhost:45331/alisont/es/tags/comentarios/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://juzhyo.github.io/alisont/es/tags/comentarios/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Comercio Electrónico</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/comercio-electr%C3%B3nico/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juzhyo.github.io/alisont/es/tags/comercio-electr%C3%B3nico/</guid>
+      <guid>http://localhost:45331/alisont/es/tags/comentarios/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Configuración</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/configuraci%C3%B3n/</link>
+      <link>http://localhost:45331/alisont/es/tags/configuraci%C3%B3n/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://juzhyo.github.io/alisont/es/tags/configuraci%C3%B3n/</guid>
+      <guid>http://localhost:45331/alisont/es/tags/configuraci%C3%B3n/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Contenido</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/contenido/</link>
+      <link>http://localhost:45331/alisont/es/tags/contenido/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://juzhyo.github.io/alisont/es/tags/contenido/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Dawel</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/dawel/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juzhyo.github.io/alisont/es/tags/dawel/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Desarrollador De Software</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/desarrollador-de-software/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juzhyo.github.io/alisont/es/tags/desarrollador-de-software/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Desarrollador De Videojuegos</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/desarrollador-de-videojuegos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juzhyo.github.io/alisont/es/tags/desarrollador-de-videojuegos/</guid>
+      <guid>http://localhost:45331/alisont/es/tags/contenido/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Despliegue</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/despliegue/</link>
+      <link>http://localhost:45331/alisont/es/tags/despliegue/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://juzhyo.github.io/alisont/es/tags/despliegue/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>DevOps</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/devops/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juzhyo.github.io/alisont/es/tags/devops/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Diseño Ambiental</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/dise%C3%B1o-ambiental/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juzhyo.github.io/alisont/es/tags/dise%C3%B1o-ambiental/</guid>
+      <guid>http://localhost:45331/alisont/es/tags/despliegue/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Diseños</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/dise%C3%B1os/</link>
+      <link>http://localhost:45331/alisont/es/tags/dise%C3%B1os/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://juzhyo.github.io/alisont/es/tags/dise%C3%B1os/</guid>
+      <guid>http://localhost:45331/alisont/es/tags/dise%C3%B1os/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Documentación</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/documentaci%C3%B3n/</link>
+      <link>http://localhost:45331/alisont/es/tags/documentaci%C3%B3n/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://juzhyo.github.io/alisont/es/tags/documentaci%C3%B3n/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Domótica</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/dom%C3%B3tica/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juzhyo.github.io/alisont/es/tags/dom%C3%B3tica/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>DwKDE</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/dwkde/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juzhyo.github.io/alisont/es/tags/dwkde/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>DwOS</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/dwos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juzhyo.github.io/alisont/es/tags/dwos/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>ÉL</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/%C3%A9l/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juzhyo.github.io/alisont/es/tags/%C3%A9l/</guid>
+      <guid>http://localhost:45331/alisont/es/tags/documentaci%C3%B3n/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Favicons</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/favicons/</link>
+      <link>http://localhost:45331/alisont/es/tags/favicons/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://juzhyo.github.io/alisont/es/tags/favicons/</guid>
+      <guid>http://localhost:45331/alisont/es/tags/favicons/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Firebase</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/firebase/</link>
+      <link>http://localhost:45331/alisont/es/tags/firebase/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://juzhyo.github.io/alisont/es/tags/firebase/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Fotografía De Muñecas</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/fotograf%C3%ADa-de-mu%C3%B1ecas/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juzhyo.github.io/alisont/es/tags/fotograf%C3%ADa-de-mu%C3%B1ecas/</guid>
+      <guid>http://localhost:45331/alisont/es/tags/firebase/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Front Matter</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/front-matter/</link>
+      <link>http://localhost:45331/alisont/es/tags/front-matter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://juzhyo.github.io/alisont/es/tags/front-matter/</guid>
+      <guid>http://localhost:45331/alisont/es/tags/front-matter/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Github</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/github/</link>
+      <link>http://localhost:45331/alisont/es/tags/github/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://juzhyo.github.io/alisont/es/tags/github/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Guau</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/guau/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juzhyo.github.io/alisont/es/tags/guau/</guid>
+      <guid>http://localhost:45331/alisont/es/tags/github/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Icon</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/icon/</link>
+      <link>http://localhost:45331/alisont/es/tags/icon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://juzhyo.github.io/alisont/es/tags/icon/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Ingeniería De Software</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/ingenier%C3%ADa-de-software/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juzhyo.github.io/alisont/es/tags/ingenier%C3%ADa-de-software/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Ingeniería Mecánica</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/ingenier%C3%ADa-mec%C3%A1nica/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juzhyo.github.io/alisont/es/tags/ingenier%C3%ADa-mec%C3%A1nica/</guid>
+      <guid>http://localhost:45331/alisont/es/tags/icon/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Instalación</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/instalaci%C3%B3n/</link>
+      <link>http://localhost:45331/alisont/es/tags/instalaci%C3%B3n/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://juzhyo.github.io/alisont/es/tags/instalaci%C3%B3n/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Inteligencia Artificial</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/inteligencia-artificial/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juzhyo.github.io/alisont/es/tags/inteligencia-artificial/</guid>
+      <guid>http://localhost:45331/alisont/es/tags/instalaci%C3%B3n/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Lead</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/lead/</link>
+      <link>http://localhost:45331/alisont/es/tags/lead/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://juzhyo.github.io/alisont/es/tags/lead/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Libro</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/libro/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juzhyo.github.io/alisont/es/tags/libro/</guid>
+      <guid>http://localhost:45331/alisont/es/tags/lead/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Likes</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/likes/</link>
+      <link>http://localhost:45331/alisont/es/tags/likes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://juzhyo.github.io/alisont/es/tags/likes/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Mundo De Warcraft</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/mundo-de-warcraft/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juzhyo.github.io/alisont/es/tags/mundo-de-warcraft/</guid>
+      <guid>http://localhost:45331/alisont/es/tags/likes/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Netlify</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/netlify/</link>
+      <link>http://localhost:45331/alisont/es/tags/netlify/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://juzhyo.github.io/alisont/es/tags/netlify/</guid>
+      <guid>http://localhost:45331/alisont/es/tags/netlify/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Nuevo</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/nuevo/</link>
+      <link>http://localhost:45331/alisont/es/tags/nuevo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://juzhyo.github.io/alisont/es/tags/nuevo/</guid>
+      <guid>http://localhost:45331/alisont/es/tags/nuevo/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Página De Inicio</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/p%C3%A1gina-de-inicio/</link>
+      <link>http://localhost:45331/alisont/es/tags/p%C3%A1gina-de-inicio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://juzhyo.github.io/alisont/es/tags/p%C3%A1gina-de-inicio/</guid>
+      <guid>http://localhost:45331/alisont/es/tags/p%C3%A1gina-de-inicio/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Partials</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/partials/</link>
+      <link>http://localhost:45331/alisont/es/tags/partials/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://juzhyo.github.io/alisont/es/tags/partials/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Programación</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/programaci%C3%B3n/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juzhyo.github.io/alisont/es/tags/programaci%C3%B3n/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Proyecto Divertido</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/proyecto-divertido/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juzhyo.github.io/alisont/es/tags/proyecto-divertido/</guid>
+      <guid>http://localhost:45331/alisont/es/tags/partials/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Render</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/render/</link>
+      <link>http://localhost:45331/alisont/es/tags/render/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://juzhyo.github.io/alisont/es/tags/render/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Seminarios</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/seminarios/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juzhyo.github.io/alisont/es/tags/seminarios/</guid>
+      <guid>http://localhost:45331/alisont/es/tags/render/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Series</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/series/</link>
+      <link>http://localhost:45331/alisont/es/tags/series/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://juzhyo.github.io/alisont/es/tags/series/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Sitio De Cartera</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/sitio-de-cartera/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juzhyo.github.io/alisont/es/tags/sitio-de-cartera/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Sitio De Cómics</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/sitio-de-c%C3%B3mics/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juzhyo.github.io/alisont/es/tags/sitio-de-c%C3%B3mics/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Sitio De Juegos</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/sitio-de-juegos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juzhyo.github.io/alisont/es/tags/sitio-de-juegos/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Sitio De La Aplicación</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/sitio-de-la-aplicaci%C3%B3n/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juzhyo.github.io/alisont/es/tags/sitio-de-la-aplicaci%C3%B3n/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Sitio De La Empresa</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/sitio-de-la-empresa/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juzhyo.github.io/alisont/es/tags/sitio-de-la-empresa/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Sitio De La Organización</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/sitio-de-la-organizaci%C3%B3n/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juzhyo.github.io/alisont/es/tags/sitio-de-la-organizaci%C3%B3n/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Sitio De Negocios</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/sitio-de-negocios/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juzhyo.github.io/alisont/es/tags/sitio-de-negocios/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Sitio Del Autor</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/sitio-del-autor/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juzhyo.github.io/alisont/es/tags/sitio-del-autor/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Sitio Del Club Universitario</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/sitio-del-club-universitario/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juzhyo.github.io/alisont/es/tags/sitio-del-club-universitario/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Sitio Del Proyecto</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/sitio-del-proyecto/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juzhyo.github.io/alisont/es/tags/sitio-del-proyecto/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Sitio Personal</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/sitio-personal/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juzhyo.github.io/alisont/es/tags/sitio-personal/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Sitio Web Personal</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/sitio-web-personal/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juzhyo.github.io/alisont/es/tags/sitio-web-personal/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Tecnología</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/tecnolog%C3%ADa/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juzhyo.github.io/alisont/es/tags/tecnolog%C3%ADa/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Usuarios</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/usuarios/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://juzhyo.github.io/alisont/es/tags/usuarios/</guid>
+      <guid>http://localhost:45331/alisont/es/tags/series/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Vistas</title>
-      <link>https://juzhyo.github.io/alisont/es/tags/vistas/</link>
+      <link>http://localhost:45331/alisont/es/tags/vistas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://juzhyo.github.io/alisont/es/tags/vistas/</guid>
+      <guid>http://localhost:45331/alisont/es/tags/vistas/</guid>
       <description></description>
       
     </item>

@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Blowfish</title>
-    <link>https://juzhyo.github.io/alisont/pt-pt/series/</link>
+    <link>http://localhost:45331/alisont/pt-pt/series/</link>
     <description>Recent content in Series on Blowfish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
     <copyright>© 2026 Blowfish</copyright>
-    <atom:link href="https://juzhyo.github.io/alisont/pt-pt/series/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:45331/alisont/pt-pt/series/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Documentação</title>
-      <link>https://juzhyo.github.io/alisont/pt-pt/series/documenta%C3%A7%C3%A3o/</link>
+      <link>http://localhost:45331/alisont/pt-pt/series/documenta%C3%A7%C3%A3o/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://juzhyo.github.io/alisont/pt-pt/series/documenta%C3%A7%C3%A3o/</guid>
+      <guid>http://localhost:45331/alisont/pt-pt/series/documenta%C3%A7%C3%A3o/</guid>
       <description></description>
       
     </item>

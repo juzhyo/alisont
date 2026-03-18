@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Emoji on AlisonT Design</title>
-    <link>https://juzhyo.github.io/alisont/tags/emoji/</link>
+    <link>http://localhost:45331/alisont/tags/emoji/</link>
     <description>Recent content in Emoji on AlisonT Design</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>nuno@n9o.xyz (AlisonT Design)</managingEditor>
     <webMaster>nuno@n9o.xyz (AlisonT Design)</webMaster>
     <copyright>© 2026 AlisonT Design</copyright>
-    <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://juzhyo.github.io/alisont/tags/emoji/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:45331/alisont/tags/emoji/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Emoji :parachute:</title>
-      <link>https://juzhyo.github.io/alisont/samples/emoji/</link>
+      <link>http://localhost:45331/alisont/samples/emoji/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       <author>nuno@n9o.xyz (AlisonT Design)</author>
-      <guid>https://juzhyo.github.io/alisont/samples/emoji/</guid>
+      <guid>http://localhost:45331/alisont/samples/emoji/</guid>
       <description>📖🏞️🧗🏽🐉🧙🏽‍♂️🧚🏽👸</description>
       
     </item>

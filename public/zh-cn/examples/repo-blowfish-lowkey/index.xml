@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blowfish Lowkey - Repo on Blowfish</title>
-    <link>https://juzhyo.github.io/alisont/zh-cn/examples/repo-blowfish-lowkey/</link>
+    <link>http://localhost:45331/alisont/zh-cn/examples/repo-blowfish-lowkey/</link>
     <description>Recent content in Blowfish Lowkey - Repo on Blowfish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2026 Blowfish</copyright>
-    <lastBuildDate></lastBuildDate><atom:link href="https://juzhyo.github.io/alisont/zh-cn/examples/repo-blowfish-lowkey/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate></lastBuildDate><atom:link href="http://localhost:45331/alisont/zh-cn/examples/repo-blowfish-lowkey/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>

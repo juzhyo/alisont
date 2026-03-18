@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homepage on AlisonT Design</title>
-    <link>https://juzhyo.github.io/alisont/tags/homepage/</link>
+    <link>http://localhost:45331/alisont/tags/homepage/</link>
     <description>Recent content in Homepage on AlisonT Design</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>nuno@n9o.xyz (AlisonT Design)</managingEditor>
     <webMaster>nuno@n9o.xyz (AlisonT Design)</webMaster>
     <copyright>© 2026 AlisonT Design</copyright>
-    <atom:link href="https://juzhyo.github.io/alisont/tags/homepage/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:45331/alisont/tags/homepage/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Homepage Layout</title>
-      <link>https://juzhyo.github.io/alisont/catalogue/homepage-layout/</link>
+      <link>http://localhost:45331/alisont/catalogue/homepage-layout/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>nuno@n9o.xyz (AlisonT Design)</author>
-      <guid>https://juzhyo.github.io/alisont/catalogue/homepage-layout/</guid>
+      <guid>http://localhost:45331/alisont/catalogue/homepage-layout/</guid>
       <description>&lt;p&gt;Blowfish provides a fully flexible homepage layout. There are two main templates to choose from with additional settings to adjust the design. Alternatively, you can also provide your own template and have complete control over the homepage content.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://juzhyo.github.io/alisont/catalogue/homepage-layout/featured.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45331/alisont/catalogue/homepage-layout/featured.svg" />
     </item>
     
     <item>
       <title>Homepage Layout</title>
-      <link>https://juzhyo.github.io/alisont/docs/homepage-layout/</link>
+      <link>http://localhost:45331/alisont/docs/homepage-layout/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>nuno@n9o.xyz (AlisonT Design)</author>
-      <guid>https://juzhyo.github.io/alisont/docs/homepage-layout/</guid>
+      <guid>http://localhost:45331/alisont/docs/homepage-layout/</guid>
       <description>&lt;p&gt;Blowfish provides a fully flexible homepage layout. There are two main templates to choose from with additional settings to adjust the design. Alternatively, you can also provide your own template and have complete control over the homepage content.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://juzhyo.github.io/alisont/docs/homepage-layout/featured.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45331/alisont/docs/homepage-layout/featured.svg" />
     </item>
     
   </channel>

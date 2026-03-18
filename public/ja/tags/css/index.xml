@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Css on Blowfish</title>
-    <link>https://juzhyo.github.io/alisont/ja/tags/css/</link>
+    <link>http://localhost:45331/alisont/ja/tags/css/</link>
     <description>Recent content in Css on Blowfish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <managingEditor>nuno@n9o.xyz (Blowfish)</managingEditor>
     <webMaster>nuno@n9o.xyz (Blowfish)</webMaster>
     <copyright>© 2026 Blowfish</copyright>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://juzhyo.github.io/alisont/ja/tags/css/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:45331/alisont/ja/tags/css/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>高度なカスタマイズ</title>
-      <link>https://juzhyo.github.io/alisont/ja/catalogue/advanced-customisation/</link>
+      <link>http://localhost:45331/alisont/ja/catalogue/advanced-customisation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>https://juzhyo.github.io/alisont/ja/catalogue/advanced-customisation/</guid>
+      <guid>http://localhost:45331/alisont/ja/catalogue/advanced-customisation/</guid>
       <description>&lt;p&gt;Blowfish には高度な変更を加えるための多くの方法があります。カスタマイズできる内容や、希望する結果を得るための最良の方法については、以下をご覧ください。&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://juzhyo.github.io/alisont/catalogue/advanced-customisation/featured.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45331/alisont/catalogue/advanced-customisation/featured.svg" />
     </item>
     
     <item>
       <title>高度なカスタマイズ</title>
-      <link>https://juzhyo.github.io/alisont/ja/docs/advanced-customisation/</link>
+      <link>http://localhost:45331/alisont/ja/docs/advanced-customisation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>https://juzhyo.github.io/alisont/ja/docs/advanced-customisation/</guid>
+      <guid>http://localhost:45331/alisont/ja/docs/advanced-customisation/</guid>
       <description>&lt;p&gt;Blowfish には高度な変更を加えるための多くの方法があります。カスタマイズできる内容や、希望する結果を得るための最良の方法については、以下をご覧ください。&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://juzhyo.github.io/alisont/docs/advanced-customisation/featured.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45331/alisont/docs/advanced-customisation/featured.svg" />
     </item>
     
     <item>
       <title>Markdown</title>
-      <link>https://juzhyo.github.io/alisont/ja/samples/markdown/</link>
+      <link>http://localhost:45331/alisont/ja/samples/markdown/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>https://juzhyo.github.io/alisont/ja/samples/markdown/</guid>
+      <guid>http://localhost:45331/alisont/ja/samples/markdown/</guid>
       <description>&lt;p&gt;この記事は Blowfish を利用した基本的な Markdown フォーマットのサンプルを提供し、また基本的な HTML 要素がどのように装飾できるのかを示しています。&lt;/p&gt;</description>
       
     </item>

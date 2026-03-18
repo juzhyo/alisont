@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gráfico on Blowfish</title>
-    <link>https://juzhyo.github.io/alisont/es/tags/gr%C3%A1fico/</link>
+    <link>http://localhost:45331/alisont/es/tags/gr%C3%A1fico/</link>
     <description>Recent content in Gráfico on Blowfish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>© 2026 Blowfish</copyright>
-    <lastBuildDate>Wed, 06 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://juzhyo.github.io/alisont/es/tags/gr%C3%A1fico/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:45331/alisont/es/tags/gr%C3%A1fico/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Gráficos</title>
-      <link>https://juzhyo.github.io/alisont/es/samples/charts/</link>
+      <link>http://localhost:45331/alisont/es/samples/charts/</link>
       <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://juzhyo.github.io/alisont/es/samples/charts/</guid>
+      <guid>http://localhost:45331/alisont/es/samples/charts/</guid>
       <description>Blowfish incluye Chart.js para gráficos y visualizaciones de datos potentes.</description>
       
     </item>
