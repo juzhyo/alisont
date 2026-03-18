@@ -9,14 +9,14 @@ title = "AlisonT Design"
   rtl = false
   dateFormat = "2 January 2006"
   logo = "img/alisont_logo.png"
-  description = "🇸🇬 Singapore's First 3D-Printed Number Plates!"
+  description = "🇸🇬 Singapore's First 3D-Printed Number Plates🇸🇬"
 
 [params.author]
   name = "AlisonT Design"
-  email = "nuno@n9o.xyz"
+  email = "alisontdesign@gmail.com"
 #  image = "img/alisont_logo.png"
-  headline = "🇸🇬 Singapore's First 3D-Printed Number Plates!"
-  bio = "A powerful, lightweight theme for Hugo."
+  headline = "🇸🇬 Singapore's First 3D-Printed Number Plates 🇸🇬"
+  bio = "🇸🇬 Singapore's First 3D-Printed Number Plates 🇸🇬"
   links = [
     { facebook = "https://www.facebook.com/p/Alisont-Design-61557131876996/" },
     { instagram = "https://www.instagram.com/alisontdesign/" },

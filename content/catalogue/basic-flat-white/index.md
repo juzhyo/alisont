@@ -25,24 +25,11 @@ cascade:
   <img src="img/IMG_4774.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 {{< /gallery >}}
 
-**PRODUCT DETAILS**
+## PRODUCT DETAILS
 * Solid block Alphabet. (3D-Printed)
-* Clearly visible at all Distance and Angles.
-* VEP/ANPR Friendly (Readable by camera systems at customs and condominium gantries).
+* Clearly visible at all Distance and Angles
+* VEP/ANPR Friendly (Readable by camera systems at customs and condominium gantries)f
 * UV and chemical resistant
-* Adhesive bonded (No gap between alphabets and baseplate).
-* 3mm thick Glossy or Matt Satin Casted Acrylic (Laser-cut) (Not laminated).
-* Crafted locally in Singapore.
-
-**FAQ**\
-**Q: How long does it take to produce our basic flat white?**
-
-A: Typically, production takes less then 1 business days. We will provide an estimated delivery date when you place your order.
-
-**Q: Is it approved?**
-
-A: Regulatory does not issue Certificate of Approval. Our alphabets dimension are according to One Motoring Compliant Standards, 70mm by 50mm by 10mm. (Unless specify customization)
-
-**Q: What if I’m not satisfied with my order?**
-
-A: Customer satisfaction is our priority. If you are not completely satisfied with your number plates, please contact us after receiving your order, and we will work with you to resolve any issues.
+* Adhesive bonded (No gap between alphabets and baseplate)
+* 3mm thick Glossy or Matt Satin Casted Acrylic (Laser-cut) (Not laminated)
+* Crafted locally in Singapore
