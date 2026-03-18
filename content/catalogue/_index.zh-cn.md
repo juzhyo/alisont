@@ -1,5 +1,5 @@
 ---
-title: "产品目录"
+title: "产品"
 
 cascade:
   showDate: false

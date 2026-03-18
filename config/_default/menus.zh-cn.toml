@@ -16,7 +16,7 @@
   weight = 10
 
 [[main]]
-  name = "产品目录"
+  name = "产品"
   pageRef = "catalogue"
   weight = 15
 
