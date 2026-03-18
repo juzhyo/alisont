@@ -1,0 +1,23 @@
+languageCode = "zh-cn"
+languageName = "中文"
+weight = 9
+title = "AlisonT Design"
+
+[params]
+  displayName = "简体中文"
+  isoCode = "zh-cn"
+  rtl = false
+  dateFormat = "2006-01-02"
+  logo = "img/alisont_logo.png"
+  description = "一个强大、轻量级的 Hugo 主题。"
+
+[params.author]
+  name = "AlisonT Design"
+  #image = "img/blowfish_logo.png"
+  headline = "🇸🇬 新加坡首家3D打印车牌 🇸🇬"
+  bio = "一个强大、轻量级的 Hugo 主题。"
+  links = [
+    { facebook = "https://www.facebook.com/p/Alisont-Design-61557131876996/" },
+    { instagram = "https://www.instagram.com/alisontdesign/" },
+    { tiktok = "https://www.tiktok.com/@alisontdesign" },
+  ]
