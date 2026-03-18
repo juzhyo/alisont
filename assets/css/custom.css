@@ -15,7 +15,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /* 2. Lock the video to the screen */
-#jzy-video-bg {
+#video-bg {
     position: fixed;
     top: 0;
     left: 0;
@@ -26,7 +26,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /* 3. Add the dark tint */
-#jzy-video-overlay {
+#video-overlay {
     position: fixed;
     top: 0;
     left: 0;
