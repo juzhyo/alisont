@@ -8,22 +8,22 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/alisont/catalogue/basic-black-euro/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/alisont/catalogue/frosted/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/alisont/catalogue/glossy-black-euro/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/alisont/catalogue/glossy-white/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/alisont/catalogue/type3/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/alisont/catalogue/type4/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
