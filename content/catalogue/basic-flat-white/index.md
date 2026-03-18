@@ -18,8 +18,14 @@ cascade:
 ---
 
 {{< carousel images="img/*" aspectRatio="3-4" interval="3000">}}
+{{< gallery >}}
+  <img src="img/IMG_4770.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img src="img/IMG_4772.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img src="img/IMG_4773.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img src="img/IMG_4774.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+{{< /gallery >}}
 
-**DESCRIPTION**
+**PRODUCT DETAILS**
 * Solid block Alphabet. (3D-Printed)
 * Clearly visible at all Distance and Angles.
 * VEP/ANPR Friendly (Readable by camera systems at customs and condominium gantries).
@@ -28,7 +34,7 @@ cascade:
 * 3mm thick Glossy or Matt Satin Casted Acrylic (Laser-cut) (Not laminated).
 * Crafted locally in Singapore.
 
-FAQ:
+**FAQ**\
 **Q: How long does it take to produce our basic flat white?**
 
 A: Typically, production takes less then 1 business days. We will provide an estimated delivery date when you place your order.
