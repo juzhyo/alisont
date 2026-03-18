@@ -1,6 +1,5 @@
 ---
 title: "Contact Us"
-description: ""
 
 cascade:
   showReadingTime: false

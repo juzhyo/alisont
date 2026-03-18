@@ -14,6 +14,7 @@ cascade:
   invertPagination: true
     
 ---
+<!--
 {{< lead >}}
 {{< typeit
   speed=50
@@ -22,5 +23,5 @@ cascade:
 How we started, and what we strive for.
 {{< /typeit >}}
 {{< /lead >}}
-
+-->
 We strive to produce quality car plates.

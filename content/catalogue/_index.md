@@ -8,6 +8,7 @@ cascade:
   invertPagination: true
 ---
 
+<!--
 {{< lead >}}
 {{< typeit
   speed=50
@@ -16,4 +17,4 @@ cascade:
 Our range of car plates.
 {{< /typeit >}}
 {{< /lead >}}
-
+-->
