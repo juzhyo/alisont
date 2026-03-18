@@ -2,33 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Front Matter on AlisonT Design</title>
-    <link>http://localhost:37487/alisont/tags/front-matter/</link>
+    <link>http://localhost:1313/alisont/tags/front-matter/</link>
     <description>Recent content in Front Matter on AlisonT Design</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>nuno@n9o.xyz (AlisonT Design)</managingEditor>
     <webMaster>nuno@n9o.xyz (AlisonT Design)</webMaster>
     <copyright>© 2026 AlisonT Design Pte. Ltd. | [WhatsApp: (&#43;65) 8826 1189](https://wa.me/6588261189)</copyright>
-    <atom:link href="http://localhost:37487/alisont/tags/front-matter/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/alisont/tags/front-matter/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Front Matter</title>
-      <link>http://localhost:37487/alisont/catalogue/front-matter/</link>
+      <link>http://localhost:1313/alisont/docs/front-matter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>nuno@n9o.xyz (AlisonT Design)</author>
-      <guid>http://localhost:37487/alisont/catalogue/front-matter/</guid>
+      <guid>http://localhost:1313/alisont/docs/front-matter/</guid>
       <description>&lt;p&gt;In addition to the &lt;a href=&#34;https://gohugo.io/content-management/front-matter/#front-matter-variables&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;default Hugo front matter parameters&lt;/a&gt;, Blowfish adds a number of additional options to customise the presentation of individual articles. All the available theme front matter parameters are listed below.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37487/alisont/catalogue/front-matter/featured.svg" />
-    </item>
-    
-    <item>
-      <title>Front Matter</title>
-      <link>http://localhost:37487/alisont/docs/front-matter/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (AlisonT Design)</author>
-      <guid>http://localhost:37487/alisont/docs/front-matter/</guid>
-      <description>&lt;p&gt;In addition to the &lt;a href=&#34;https://gohugo.io/content-management/front-matter/#front-matter-variables&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;default Hugo front matter parameters&lt;/a&gt;, Blowfish adds a number of additional options to customise the presentation of individual articles. All the available theme front matter parameters are listed below.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37487/alisont/docs/front-matter/featured.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/alisont/docs/front-matter/featured.svg" />
     </item>
     
   </channel>

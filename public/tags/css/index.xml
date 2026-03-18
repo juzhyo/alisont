@@ -2,41 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Css on AlisonT Design</title>
-    <link>http://localhost:37487/alisont/tags/css/</link>
+    <link>http://localhost:1313/alisont/tags/css/</link>
     <description>Recent content in Css on AlisonT Design</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>nuno@n9o.xyz (AlisonT Design)</managingEditor>
     <webMaster>nuno@n9o.xyz (AlisonT Design)</webMaster>
     <copyright>© 2026 AlisonT Design Pte. Ltd. | [WhatsApp: (&#43;65) 8826 1189](https://wa.me/6588261189)</copyright>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:37487/alisont/tags/css/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/alisont/tags/css/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Advanced Customisation</title>
-      <link>http://localhost:37487/alisont/catalogue/advanced-customisation/</link>
+      <link>http://localhost:1313/alisont/docs/advanced-customisation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>nuno@n9o.xyz (AlisonT Design)</author>
-      <guid>http://localhost:37487/alisont/catalogue/advanced-customisation/</guid>
+      <guid>http://localhost:1313/alisont/docs/advanced-customisation/</guid>
       <description>&lt;p&gt;There are many ways you can make advanced changes to Blowfish. Read below to learn more about what can be customised and the best way of achieving your desired result.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37487/alisont/catalogue/advanced-customisation/featured.svg" />
-    </item>
-    
-    <item>
-      <title>Advanced Customisation</title>
-      <link>http://localhost:37487/alisont/docs/advanced-customisation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (AlisonT Design)</author>
-      <guid>http://localhost:37487/alisont/docs/advanced-customisation/</guid>
-      <description>&lt;p&gt;There are many ways you can make advanced changes to Blowfish. Read below to learn more about what can be customised and the best way of achieving your desired result.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37487/alisont/docs/advanced-customisation/featured.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/alisont/docs/advanced-customisation/featured.svg" />
     </item>
     
     <item>
       <title>Markdown</title>
-      <link>http://localhost:37487/alisont/samples/markdown/</link>
+      <link>http://localhost:1313/alisont/samples/markdown/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       <author>nuno@n9o.xyz (AlisonT Design)</author>
-      <guid>http://localhost:37487/alisont/samples/markdown/</guid>
+      <guid>http://localhost:1313/alisont/samples/markdown/</guid>
       <description>&lt;p&gt;This article offers a sample of basic Markdown formatting that can be used in Blowfish, also it shows how some basic HTML elements are decorated.&lt;/p&gt;</description>
       
     </item>
