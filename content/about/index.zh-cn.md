@@ -1,5 +1,5 @@
 ---
-title: "关于"
+title: "关于我们"
 #description: "Learn how to use Blowfish and its features."
 
 cascade:
