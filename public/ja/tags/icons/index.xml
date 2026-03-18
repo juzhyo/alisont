@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Icons on Blowfish</title>
+    <title>Icons on </title>
     <link>http://localhost:1313/alisont/ja/tags/icons/</link>
-    <description>Recent content in Icons on Blowfish</description>
+    <description>Recent content in Icons on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <managingEditor>nuno@n9o.xyz (Blowfish)</managingEditor>
-    <webMaster>nuno@n9o.xyz (Blowfish)</webMaster>
     <copyright>© 2026 AlisonT Design Pte. Ltd. | [WhatsApp: (&#43;65) 8826 1189](https://wa.me/6588261189)</copyright>
     <lastBuildDate>Wed, 09 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/alisont/ja/tags/icons/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +13,7 @@
       <title>アイコン</title>
       <link>http://localhost:1313/alisont/ja/samples/icons/</link>
       <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
+      
       <guid>http://localhost:1313/alisont/ja/samples/icons/</guid>
       <description>&lt;p&gt;Blowfish はいくつもの &lt;a href=&#34;https://fontawesome.com/icons&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;FontAwesome 6&lt;/a&gt; のアイコンを組み込み、サポートしています。これらは&lt;a href=&#34;http://localhost:1313/alisont/ja/docs/partials/#icon&#34; &gt;アイコンパーシャル&lt;/a&gt;または&lt;a href=&#34;http://localhost:1313/alisont/ja/docs/shortcodes/#icon&#34; &gt;アイコンショートコード&lt;/a&gt;のどちらかを利用してウェブサイトに含めることが出来ます。&lt;/p&gt;</description>
       

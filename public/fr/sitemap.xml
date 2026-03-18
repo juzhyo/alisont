@@ -13,13 +13,8 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="de"
-      href="http://localhost:1313/alisont/de/docs/welcome/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="http://localhost:1313/alisont/it/docs/welcome/"
+      hreflang="pt-br"
+      href="http://localhost:1313/alisont/pt-br/docs/welcome/"
     />
     <xhtml:link
       rel="alternate"
@@ -28,8 +23,8 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-br"
-      href="http://localhost:1313/alisont/pt-br/docs/welcome/"
+      hreflang="it"
+      href="http://localhost:1313/alisont/it/docs/welcome/"
     />
     <xhtml:link
       rel="alternate"
@@ -40,6 +35,11 @@
       rel="alternate"
       hreflang="ja"
       href="http://localhost:1313/alisont/ja/docs/welcome/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="http://localhost:1313/alisont/de/docs/welcome/"
     />
     <xhtml:link
       rel="alternate"
@@ -63,13 +63,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="de"
-      href="http://localhost:1313/alisont/de/docs/installation/"
+      hreflang="es"
+      href="http://localhost:1313/alisont/es/docs/installation/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="it"
-      href="http://localhost:1313/alisont/it/docs/installation/"
+      hreflang="pt-br"
+      href="http://localhost:1313/alisont/pt-br/docs/installation/"
     />
     <xhtml:link
       rel="alternate"
@@ -78,13 +78,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="es"
-      href="http://localhost:1313/alisont/es/docs/installation/"
+      hreflang="de"
+      href="http://localhost:1313/alisont/de/docs/installation/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-br"
-      href="http://localhost:1313/alisont/pt-br/docs/installation/"
+      hreflang="it"
+      href="http://localhost:1313/alisont/it/docs/installation/"
     />
     <xhtml:link
       rel="alternate"
@@ -123,13 +123,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-pt"
-      href="http://localhost:1313/alisont/pt-pt/docs/getting-started/"
+      hreflang="pt-br"
+      href="http://localhost:1313/alisont/pt-br/docs/getting-started/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-br"
-      href="http://localhost:1313/alisont/pt-br/docs/getting-started/"
+      hreflang="pt-pt"
+      href="http://localhost:1313/alisont/pt-pt/docs/getting-started/"
     />
     <xhtml:link
       rel="alternate"
@@ -138,13 +138,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja"
-      href="http://localhost:1313/alisont/ja/docs/getting-started/"
+      hreflang="zh-cn"
+      href="http://localhost:1313/alisont/zh-cn/docs/getting-started/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="zh-cn"
-      href="http://localhost:1313/alisont/zh-cn/docs/getting-started/"
+      hreflang="ja"
+      href="http://localhost:1313/alisont/ja/docs/getting-started/"
     />
     <xhtml:link
       rel="alternate"
@@ -163,18 +163,8 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="de"
-      href="http://localhost:1313/alisont/de/docs/configuration/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="it"
       href="http://localhost:1313/alisont/it/docs/configurazioni/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt-pt"
-      href="http://localhost:1313/alisont/pt-pt/docs/configuration/"
     />
     <xhtml:link
       rel="alternate"
@@ -185,6 +175,16 @@
       rel="alternate"
       hreflang="pt-br"
       href="http://localhost:1313/alisont/pt-br/docs/configuration/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-pt"
+      href="http://localhost:1313/alisont/pt-pt/docs/configuration/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="http://localhost:1313/alisont/de/docs/configuration/"
     />
     <xhtml:link
       rel="alternate"
@@ -213,8 +213,8 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="de"
-      href="http://localhost:1313/alisont/de/docs/homepage-layout/"
+      hreflang="es"
+      href="http://localhost:1313/alisont/es/docs/homepage-layout/"
     />
     <xhtml:link
       rel="alternate"
@@ -223,18 +223,18 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-pt"
-      href="http://localhost:1313/alisont/pt-pt/docs/homepage-layout/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="http://localhost:1313/alisont/es/docs/homepage-layout/"
+      hreflang="de"
+      href="http://localhost:1313/alisont/de/docs/homepage-layout/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt-br"
       href="http://localhost:1313/alisont/pt-br/docs/homepage-layout/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-pt"
+      href="http://localhost:1313/alisont/pt-pt/docs/homepage-layout/"
     />
     <xhtml:link
       rel="alternate"
@@ -268,23 +268,23 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="it"
-      href="http://localhost:1313/alisont/it/docs/shortcodes/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt-pt"
-      href="http://localhost:1313/alisont/pt-pt/docs/shortcodes/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="es"
       href="http://localhost:1313/alisont/es/docs/shortcodes/"
     />
     <xhtml:link
       rel="alternate"
+      hreflang="it"
+      href="http://localhost:1313/alisont/it/docs/shortcodes/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="pt-br"
       href="http://localhost:1313/alisont/pt-br/docs/shortcodes/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-pt"
+      href="http://localhost:1313/alisont/pt-pt/docs/shortcodes/"
     />
     <xhtml:link
       rel="alternate"
@@ -318,18 +318,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="it"
-      href="http://localhost:1313/alisont/it/docs/front-matter/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt-pt"
-      href="http://localhost:1313/alisont/pt-pt/docs/front-matter/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="es"
       href="http://localhost:1313/alisont/es/docs/front-matter/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="http://localhost:1313/alisont/it/docs/front-matter/"
     />
     <xhtml:link
       rel="alternate"
@@ -338,13 +333,18 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja"
-      href="http://localhost:1313/alisont/ja/docs/front-matter/"
+      hreflang="pt-pt"
+      href="http://localhost:1313/alisont/pt-pt/docs/front-matter/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
       href="http://localhost:1313/alisont/zh-cn/docs/front-matter/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="http://localhost:1313/alisont/ja/docs/front-matter/"
     />
     <xhtml:link
       rel="alternate"
@@ -373,11 +373,6 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-pt"
-      href="http://localhost:1313/alisont/pt-pt/docs/multi-author/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="es"
       href="http://localhost:1313/alisont/es/docs/multi-author/"
     />
@@ -388,13 +383,18 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja"
-      href="http://localhost:1313/alisont/ja/docs/multi-author/"
+      hreflang="pt-pt"
+      href="http://localhost:1313/alisont/pt-pt/docs/multi-author/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
       href="http://localhost:1313/alisont/zh-cn/docs/multi-author/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="http://localhost:1313/alisont/ja/docs/multi-author/"
     />
     <xhtml:link
       rel="alternate"
@@ -418,23 +418,23 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="it"
-      href="http://localhost:1313/alisont/it/docs/partials/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt-pt"
-      href="http://localhost:1313/alisont/pt-pt/docs/partials/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="es"
       href="http://localhost:1313/alisont/es/docs/partials/"
     />
     <xhtml:link
       rel="alternate"
+      hreflang="it"
+      href="http://localhost:1313/alisont/it/docs/partials/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="pt-br"
       href="http://localhost:1313/alisont/pt-br/docs/partials/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-pt"
+      href="http://localhost:1313/alisont/pt-pt/docs/partials/"
     />
     <xhtml:link
       rel="alternate"
@@ -463,13 +463,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="de"
-      href="http://localhost:1313/alisont/de/docs/thumbnails/"
+      hreflang="es"
+      href="http://localhost:1313/alisont/es/docs/thumbnails/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="it"
-      href="http://localhost:1313/alisont/it/docs/thumbnails/"
+      hreflang="pt-br"
+      href="http://localhost:1313/alisont/pt-br/docs/thumbnails/"
     />
     <xhtml:link
       rel="alternate"
@@ -478,13 +478,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="es"
-      href="http://localhost:1313/alisont/es/docs/thumbnails/"
+      hreflang="it"
+      href="http://localhost:1313/alisont/it/docs/thumbnails/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-br"
-      href="http://localhost:1313/alisont/pt-br/docs/thumbnails/"
+      hreflang="de"
+      href="http://localhost:1313/alisont/de/docs/thumbnails/"
     />
     <xhtml:link
       rel="alternate"
@@ -513,18 +513,8 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="de"
-      href="http://localhost:1313/alisont/de/docs/content-examples/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="it"
       href="http://localhost:1313/alisont/it/docs/content-examples/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt-pt"
-      href="http://localhost:1313/alisont/pt-pt/docs/content-examples/"
     />
     <xhtml:link
       rel="alternate"
@@ -535,6 +525,16 @@
       rel="alternate"
       hreflang="pt-br"
       href="http://localhost:1313/alisont/pt-br/docs/content-examples/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-pt"
+      href="http://localhost:1313/alisont/pt-pt/docs/content-examples/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="http://localhost:1313/alisont/de/docs/content-examples/"
     />
     <xhtml:link
       rel="alternate"
@@ -568,23 +568,23 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="it"
-      href="http://localhost:1313/alisont/it/docs/series/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt-pt"
-      href="http://localhost:1313/alisont/pt-pt/docs/series/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="es"
       href="http://localhost:1313/alisont/es/docs/series/"
     />
     <xhtml:link
       rel="alternate"
+      hreflang="it"
+      href="http://localhost:1313/alisont/it/docs/series/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="pt-br"
       href="http://localhost:1313/alisont/pt-br/docs/series/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-pt"
+      href="http://localhost:1313/alisont/pt-pt/docs/series/"
     />
     <xhtml:link
       rel="alternate"
@@ -613,18 +613,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="de"
-      href="http://localhost:1313/alisont/de/docs/advanced-customisation/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="it"
       href="http://localhost:1313/alisont/it/docs/advanced-customisation/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-pt"
-      href="http://localhost:1313/alisont/pt-pt/docs/advanced-customisation/"
+      hreflang="de"
+      href="http://localhost:1313/alisont/de/docs/advanced-customisation/"
     />
     <xhtml:link
       rel="alternate"
@@ -638,13 +633,18 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja"
-      href="http://localhost:1313/alisont/ja/docs/advanced-customisation/"
+      hreflang="pt-pt"
+      href="http://localhost:1313/alisont/pt-pt/docs/advanced-customisation/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
       href="http://localhost:1313/alisont/zh-cn/docs/advanced-customisation/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="http://localhost:1313/alisont/ja/docs/advanced-customisation/"
     />
     <xhtml:link
       rel="alternate"
@@ -663,16 +663,6 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="de"
-      href="http://localhost:1313/alisont/de/docs/hosting-deployment/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="http://localhost:1313/alisont/it/docs/hosting-deployment/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="pt-pt"
       href="http://localhost:1313/alisont/pt-pt/docs/hosting-deployment/"
     />
@@ -685,6 +675,16 @@
       rel="alternate"
       hreflang="pt-br"
       href="http://localhost:1313/alisont/pt-br/docs/hosting-deployment/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="http://localhost:1313/alisont/de/docs/hosting-deployment/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="http://localhost:1313/alisont/it/docs/hosting-deployment/"
     />
     <xhtml:link
       rel="alternate"
@@ -723,11 +723,6 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-pt"
-      href="http://localhost:1313/alisont/pt-pt/docs/firebase-views/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="es"
       href="http://localhost:1313/alisont/es/docs/firebase-views/"
     />
@@ -735,6 +730,11 @@
       rel="alternate"
       hreflang="pt-br"
       href="http://localhost:1313/alisont/pt-br/docs/firebase-views/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-pt"
+      href="http://localhost:1313/alisont/pt-pt/docs/firebase-views/"
     />
     <xhtml:link
       rel="alternate"
@@ -769,23 +769,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="it"
-      href="http://localhost:1313/alisont/it/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt-pt"
-      href="http://localhost:1313/alisont/pt-pt/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt-br"
-      href="http://localhost:1313/alisont/pt-br/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="es"
       href="http://localhost:1313/alisont/es/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="http://localhost:1313/alisont/it/"
     />
     <xhtml:link
       rel="alternate"
@@ -794,8 +784,18 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="pt-pt"
+      href="http://localhost:1313/alisont/pt-pt/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="zh-cn"
       href="http://localhost:1313/alisont/zh-cn/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-br"
+      href="http://localhost:1313/alisont/pt-br/"
     />
     <xhtml:link
       rel="alternate"
@@ -815,13 +815,8 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="de"
-      href="http://localhost:1313/alisont/de/examples/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="http://localhost:1313/alisont/it/examples/"
+      hreflang="pt-br"
+      href="http://localhost:1313/alisont/pt-br/examples/"
     />
     <xhtml:link
       rel="alternate"
@@ -830,8 +825,8 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-br"
-      href="http://localhost:1313/alisont/pt-br/examples/"
+      hreflang="de"
+      href="http://localhost:1313/alisont/de/examples/"
     />
     <xhtml:link
       rel="alternate"
@@ -840,13 +835,18 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja"
-      href="http://localhost:1313/alisont/ja/examples/"
+      hreflang="it"
+      href="http://localhost:1313/alisont/it/examples/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
       href="http://localhost:1313/alisont/zh-cn/examples/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="http://localhost:1313/alisont/ja/examples/"
     />
     <xhtml:link
       rel="alternate"
@@ -882,11 +882,6 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-pt"
-      href="http://localhost:1313/alisont/pt-pt/samples/multiple-authors/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="es"
       href="http://localhost:1313/alisont/es/samples/multiple-authors/"
     />
@@ -897,13 +892,18 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja"
-      href="http://localhost:1313/alisont/ja/samples/multiple-authors/"
+      hreflang="pt-pt"
+      href="http://localhost:1313/alisont/pt-pt/samples/multiple-authors/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
       href="http://localhost:1313/alisont/zh-cn/samples/multiple-authors/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="http://localhost:1313/alisont/ja/samples/multiple-authors/"
     />
     <xhtml:link
       rel="alternate"
@@ -928,16 +928,6 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="it"
-      href="http://localhost:1313/alisont/it/authors/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt-pt"
-      href="http://localhost:1313/alisont/pt-pt/authors/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="es"
       href="http://localhost:1313/alisont/es/authors/"
     />
@@ -948,13 +938,23 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja"
-      href="http://localhost:1313/alisont/ja/authors/"
+      hreflang="pt-pt"
+      href="http://localhost:1313/alisont/pt-pt/authors/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="http://localhost:1313/alisont/it/authors/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
       href="http://localhost:1313/alisont/zh-cn/authors/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="http://localhost:1313/alisont/ja/authors/"
     />
     <xhtml:link
       rel="alternate"
@@ -974,18 +974,13 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="ja"
+      href="http://localhost:1313/alisont/ja/authors/secondauthor/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="de"
       href="http://localhost:1313/alisont/de/authors/secondauthor/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="http://localhost:1313/alisont/it/authors/secondauthor/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt-pt"
-      href="http://localhost:1313/alisont/pt-pt/authors/secondauthor/"
     />
     <xhtml:link
       rel="alternate"
@@ -999,13 +994,18 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja"
-      href="http://localhost:1313/alisont/ja/authors/secondauthor/"
+      hreflang="pt-pt"
+      href="http://localhost:1313/alisont/pt-pt/authors/secondauthor/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
       href="http://localhost:1313/alisont/zh-cn/authors/secondauthor/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="http://localhost:1313/alisont/it/authors/secondauthor/"
     />
     <xhtml:link
       rel="alternate"
@@ -1025,13 +1025,8 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="de"
-      href="http://localhost:1313/alisont/de/samples/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="http://localhost:1313/alisont/it/samples/"
+      hreflang="pt-br"
+      href="http://localhost:1313/alisont/pt-br/samples/"
     />
     <xhtml:link
       rel="alternate"
@@ -1040,8 +1035,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-br"
-      href="http://localhost:1313/alisont/pt-br/samples/"
+      hreflang="de"
+      href="http://localhost:1313/alisont/de/samples/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="http://localhost:1313/alisont/it/samples/"
     />
     <xhtml:link
       rel="alternate"
@@ -1082,18 +1082,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="de"
-      href="http://localhost:1313/alisont/de/authors/nunocoracao/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="it"
       href="http://localhost:1313/alisont/it/authors/nunocoracao/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-pt"
-      href="http://localhost:1313/alisont/pt-pt/authors/nunocoracao/"
+      hreflang="de"
+      href="http://localhost:1313/alisont/de/authors/nunocoracao/"
     />
     <xhtml:link
       rel="alternate"
@@ -1102,13 +1097,18 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="ja"
+      href="http://localhost:1313/alisont/ja/authors/nunocoracao/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="pt-br"
       href="http://localhost:1313/alisont/pt-br/authors/nunocoracao/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja"
-      href="http://localhost:1313/alisont/ja/authors/nunocoracao/"
+      hreflang="pt-pt"
+      href="http://localhost:1313/alisont/pt-pt/authors/nunocoracao/"
     />
     <xhtml:link
       rel="alternate"
@@ -1133,18 +1133,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="de"
-      href="http://localhost:1313/alisont/de/tags/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="it"
       href="http://localhost:1313/alisont/it/tags/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-pt"
-      href="http://localhost:1313/alisont/pt-pt/tags/"
+      hreflang="de"
+      href="http://localhost:1313/alisont/de/tags/"
     />
     <xhtml:link
       rel="alternate"
@@ -1155,6 +1150,11 @@
       rel="alternate"
       hreflang="pt-br"
       href="http://localhost:1313/alisont/pt-br/tags/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-pt"
+      href="http://localhost:1313/alisont/pt-pt/tags/"
     />
     <xhtml:link
       rel="alternate"
@@ -1190,13 +1190,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="de"
-      href="http://localhost:1313/alisont/de/samples/thumbnail_sample/"
+      hreflang="es"
+      href="http://localhost:1313/alisont/es/samples/thumbnail_sample/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="it"
-      href="http://localhost:1313/alisont/it/samples/thumbnail_sample/"
+      hreflang="pt-br"
+      href="http://localhost:1313/alisont/pt-br/samples/thumbnail_sample/"
     />
     <xhtml:link
       rel="alternate"
@@ -1205,13 +1205,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="es"
-      href="http://localhost:1313/alisont/es/samples/thumbnail_sample/"
+      hreflang="de"
+      href="http://localhost:1313/alisont/de/samples/thumbnail_sample/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-br"
-      href="http://localhost:1313/alisont/pt-br/samples/thumbnail_sample/"
+      hreflang="it"
+      href="http://localhost:1313/alisont/it/samples/thumbnail_sample/"
     />
     <xhtml:link
       rel="alternate"
@@ -1241,6 +1241,11 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="es"
+      href="http://localhost:1313/alisont/es/samples/icons/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="de"
       href="http://localhost:1313/alisont/de/samples/icons/"
     />
@@ -1251,18 +1256,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-pt"
-      href="http://localhost:1313/alisont/pt-pt/samples/icons/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="http://localhost:1313/alisont/es/samples/icons/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="pt-br"
       href="http://localhost:1313/alisont/pt-br/samples/icons/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-pt"
+      href="http://localhost:1313/alisont/pt-pt/samples/icons/"
     />
     <xhtml:link
       rel="alternate"
@@ -1303,18 +1303,18 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="es"
+      href="http://localhost:1313/alisont/es/tags/shortcodes/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="it"
       href="http://localhost:1313/alisont/it/tags/shortcodes/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-pt"
-      href="http://localhost:1313/alisont/pt-pt/tags/shortcodes/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="http://localhost:1313/alisont/es/tags/shortcodes/"
+      hreflang="ja"
+      href="http://localhost:1313/alisont/ja/tags/shortcodes/"
     />
     <xhtml:link
       rel="alternate"
@@ -1323,8 +1323,8 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja"
-      href="http://localhost:1313/alisont/ja/tags/shortcodes/"
+      hreflang="pt-pt"
+      href="http://localhost:1313/alisont/pt-pt/tags/shortcodes/"
     />
     <xhtml:link
       rel="alternate"
@@ -1349,18 +1349,18 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="es"
+      href="http://localhost:1313/alisont/es/tags/css/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="it"
       href="http://localhost:1313/alisont/it/tags/css/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-pt"
-      href="http://localhost:1313/alisont/pt-pt/tags/css/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="http://localhost:1313/alisont/es/tags/css/"
+      hreflang="ja"
+      href="http://localhost:1313/alisont/ja/tags/css/"
     />
     <xhtml:link
       rel="alternate"
@@ -1369,8 +1369,8 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja"
-      href="http://localhost:1313/alisont/ja/tags/css/"
+      hreflang="pt-pt"
+      href="http://localhost:1313/alisont/pt-pt/tags/css/"
     />
     <xhtml:link
       rel="alternate"
@@ -1400,18 +1400,18 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="es"
+      href="http://localhost:1313/alisont/es/tags/html/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="it"
       href="http://localhost:1313/alisont/it/tags/html/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-pt"
-      href="http://localhost:1313/alisont/pt-pt/tags/html/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="http://localhost:1313/alisont/es/tags/html/"
+      hreflang="ja"
+      href="http://localhost:1313/alisont/ja/tags/html/"
     />
     <xhtml:link
       rel="alternate"
@@ -1420,8 +1420,8 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja"
-      href="http://localhost:1313/alisont/ja/tags/html/"
+      hreflang="pt-pt"
+      href="http://localhost:1313/alisont/pt-pt/tags/html/"
     />
     <xhtml:link
       rel="alternate"
@@ -1451,18 +1451,18 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="es"
+      href="http://localhost:1313/alisont/es/samples/markdown/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="it"
       href="http://localhost:1313/alisont/it/samples/markdown/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-pt"
-      href="http://localhost:1313/alisont/pt-pt/samples/markdown/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="http://localhost:1313/alisont/es/samples/markdown/"
+      hreflang="ja"
+      href="http://localhost:1313/alisont/ja/samples/markdown/"
     />
     <xhtml:link
       rel="alternate"
@@ -1471,8 +1471,8 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja"
-      href="http://localhost:1313/alisont/ja/samples/markdown/"
+      hreflang="pt-pt"
+      href="http://localhost:1313/alisont/pt-pt/samples/markdown/"
     />
     <xhtml:link
       rel="alternate"
@@ -1502,18 +1502,18 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="es"
+      href="http://localhost:1313/alisont/es/tags/markdown/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="it"
       href="http://localhost:1313/alisont/it/tags/markdown/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-pt"
-      href="http://localhost:1313/alisont/pt-pt/tags/markdown/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="http://localhost:1313/alisont/es/tags/markdown/"
+      hreflang="ja"
+      href="http://localhost:1313/alisont/ja/tags/markdown/"
     />
     <xhtml:link
       rel="alternate"
@@ -1522,8 +1522,8 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja"
-      href="http://localhost:1313/alisont/ja/tags/markdown/"
+      hreflang="pt-pt"
+      href="http://localhost:1313/alisont/pt-pt/tags/markdown/"
     />
     <xhtml:link
       rel="alternate"
@@ -1554,13 +1554,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="de"
-      href="http://localhost:1313/alisont/de/samples/rich-content/"
+      hreflang="es"
+      href="http://localhost:1313/alisont/es/samples/rich-content/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="it"
-      href="http://localhost:1313/alisont/it/samples/rich-content/"
+      hreflang="pt-br"
+      href="http://localhost:1313/alisont/pt-br/samples/rich-content/"
     />
     <xhtml:link
       rel="alternate"
@@ -1569,13 +1569,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="es"
-      href="http://localhost:1313/alisont/es/samples/rich-content/"
+      hreflang="de"
+      href="http://localhost:1313/alisont/de/samples/rich-content/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-br"
-      href="http://localhost:1313/alisont/pt-br/samples/rich-content/"
+      hreflang="it"
+      href="http://localhost:1313/alisont/it/samples/rich-content/"
     />
     <xhtml:link
       rel="alternate"
@@ -1610,18 +1610,18 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="es"
+      href="http://localhost:1313/alisont/es/tags/gist/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="it"
       href="http://localhost:1313/alisont/it/tags/gist/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-pt"
-      href="http://localhost:1313/alisont/pt-pt/tags/gist/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="http://localhost:1313/alisont/es/tags/gist/"
+      hreflang="ja"
+      href="http://localhost:1313/alisont/ja/tags/gist/"
     />
     <xhtml:link
       rel="alternate"
@@ -1630,8 +1630,8 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja"
-      href="http://localhost:1313/alisont/ja/tags/gist/"
+      hreflang="pt-pt"
+      href="http://localhost:1313/alisont/pt-pt/tags/gist/"
     />
     <xhtml:link
       rel="alternate"
@@ -1661,18 +1661,18 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="es"
+      href="http://localhost:1313/alisont/es/tags/twitter/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="it"
       href="http://localhost:1313/alisont/it/tags/twitter/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-pt"
-      href="http://localhost:1313/alisont/pt-pt/tags/twitter/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="http://localhost:1313/alisont/es/tags/twitter/"
+      hreflang="ja"
+      href="http://localhost:1313/alisont/ja/tags/twitter/"
     />
     <xhtml:link
       rel="alternate"
@@ -1681,8 +1681,8 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja"
-      href="http://localhost:1313/alisont/ja/tags/twitter/"
+      hreflang="pt-pt"
+      href="http://localhost:1313/alisont/pt-pt/tags/twitter/"
     />
     <xhtml:link
       rel="alternate"
@@ -1712,18 +1712,18 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="es"
+      href="http://localhost:1313/alisont/es/tags/vimeo/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="it"
       href="http://localhost:1313/alisont/it/tags/vimeo/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-pt"
-      href="http://localhost:1313/alisont/pt-pt/tags/vimeo/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="http://localhost:1313/alisont/es/tags/vimeo/"
+      hreflang="ja"
+      href="http://localhost:1313/alisont/ja/tags/vimeo/"
     />
     <xhtml:link
       rel="alternate"
@@ -1732,8 +1732,8 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja"
-      href="http://localhost:1313/alisont/ja/tags/vimeo/"
+      hreflang="pt-pt"
+      href="http://localhost:1313/alisont/pt-pt/tags/vimeo/"
     />
     <xhtml:link
       rel="alternate"
@@ -1763,18 +1763,18 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="es"
+      href="http://localhost:1313/alisont/es/tags/youtube/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="it"
       href="http://localhost:1313/alisont/it/tags/youtube/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-pt"
-      href="http://localhost:1313/alisont/pt-pt/tags/youtube/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="http://localhost:1313/alisont/es/tags/youtube/"
+      hreflang="ja"
+      href="http://localhost:1313/alisont/ja/tags/youtube/"
     />
     <xhtml:link
       rel="alternate"
@@ -1783,8 +1783,8 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja"
-      href="http://localhost:1313/alisont/ja/tags/youtube/"
+      hreflang="pt-pt"
+      href="http://localhost:1313/alisont/pt-pt/tags/youtube/"
     />
     <xhtml:link
       rel="alternate"
@@ -1846,18 +1846,18 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="es"
+      href="http://localhost:1313/alisont/es/tags/katex/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="it"
       href="http://localhost:1313/alisont/it/tags/katex/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-pt"
-      href="http://localhost:1313/alisont/pt-pt/tags/katex/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="http://localhost:1313/alisont/es/tags/katex/"
+      hreflang="ja"
+      href="http://localhost:1313/alisont/ja/tags/katex/"
     />
     <xhtml:link
       rel="alternate"
@@ -1866,8 +1866,8 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja"
-      href="http://localhost:1313/alisont/ja/tags/katex/"
+      hreflang="pt-pt"
+      href="http://localhost:1313/alisont/pt-pt/tags/katex/"
     />
     <xhtml:link
       rel="alternate"
@@ -1918,18 +1918,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="de"
-      href="http://localhost:1313/alisont/de/samples/mathematical-notation/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="it"
       href="http://localhost:1313/alisont/it/samples/mathematical-notation/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-pt"
-      href="http://localhost:1313/alisont/pt-pt/samples/mathematical-notation/"
+      hreflang="de"
+      href="http://localhost:1313/alisont/de/samples/mathematical-notation/"
     />
     <xhtml:link
       rel="alternate"
@@ -1940,6 +1935,11 @@
       rel="alternate"
       hreflang="pt-br"
       href="http://localhost:1313/alisont/pt-br/samples/mathematical-notation/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-pt"
+      href="http://localhost:1313/alisont/pt-pt/samples/mathematical-notation/"
     />
     <xhtml:link
       rel="alternate"
@@ -1975,13 +1975,8 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="de"
-      href="http://localhost:1313/alisont/de/samples/diagrams-flowcharts/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="http://localhost:1313/alisont/it/samples/diagrams-flowcharts/"
+      hreflang="pt-br"
+      href="http://localhost:1313/alisont/pt-br/samples/diagrams-flowcharts/"
     />
     <xhtml:link
       rel="alternate"
@@ -1990,13 +1985,18 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-br"
-      href="http://localhost:1313/alisont/pt-br/samples/diagrams-flowcharts/"
+      hreflang="es"
+      href="http://localhost:1313/alisont/es/samples/diagrams-flowcharts/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="es"
-      href="http://localhost:1313/alisont/es/samples/diagrams-flowcharts/"
+      hreflang="de"
+      href="http://localhost:1313/alisont/de/samples/diagrams-flowcharts/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="http://localhost:1313/alisont/it/samples/diagrams-flowcharts/"
     />
     <xhtml:link
       rel="alternate"
@@ -2032,18 +2032,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="de"
-      href="http://localhost:1313/alisont/de/samples/charts/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="it"
       href="http://localhost:1313/alisont/it/samples/charts/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-pt"
-      href="http://localhost:1313/alisont/pt-pt/samples/charts/"
+      hreflang="de"
+      href="http://localhost:1313/alisont/de/samples/charts/"
     />
     <xhtml:link
       rel="alternate"
@@ -2054,6 +2049,11 @@
       rel="alternate"
       hreflang="pt-br"
       href="http://localhost:1313/alisont/pt-br/samples/charts/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-pt"
+      href="http://localhost:1313/alisont/pt-pt/samples/charts/"
     />
     <xhtml:link
       rel="alternate"
@@ -2088,18 +2088,18 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="es"
+      href="http://localhost:1313/alisont/es/tags/mermaid/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="it"
       href="http://localhost:1313/alisont/it/tags/mermaid/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-pt"
-      href="http://localhost:1313/alisont/pt-pt/tags/mermaid/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="http://localhost:1313/alisont/es/tags/mermaid/"
+      hreflang="ja"
+      href="http://localhost:1313/alisont/ja/tags/mermaid/"
     />
     <xhtml:link
       rel="alternate"
@@ -2108,8 +2108,8 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja"
-      href="http://localhost:1313/alisont/ja/tags/mermaid/"
+      hreflang="pt-pt"
+      href="http://localhost:1313/alisont/pt-pt/tags/mermaid/"
     />
     <xhtml:link
       rel="alternate"
@@ -2139,18 +2139,18 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="es"
+      href="http://localhost:1313/alisont/es/tags/emoji/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="it"
       href="http://localhost:1313/alisont/it/tags/emoji/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-pt"
-      href="http://localhost:1313/alisont/pt-pt/tags/emoji/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="http://localhost:1313/alisont/es/tags/emoji/"
+      hreflang="ja"
+      href="http://localhost:1313/alisont/ja/tags/emoji/"
     />
     <xhtml:link
       rel="alternate"
@@ -2159,8 +2159,8 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja"
-      href="http://localhost:1313/alisont/ja/tags/emoji/"
+      hreflang="pt-pt"
+      href="http://localhost:1313/alisont/pt-pt/tags/emoji/"
     />
     <xhtml:link
       rel="alternate"
@@ -2190,18 +2190,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="it"
-      href="http://localhost:1313/alisont/it/samples/emoji/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt-pt"
-      href="http://localhost:1313/alisont/pt-pt/samples/emoji/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="es"
       href="http://localhost:1313/alisont/es/samples/emoji/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="http://localhost:1313/alisont/it/samples/emoji/"
     />
     <xhtml:link
       rel="alternate"
@@ -2210,13 +2205,18 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja"
-      href="http://localhost:1313/alisont/ja/samples/emoji/"
+      hreflang="pt-pt"
+      href="http://localhost:1313/alisont/pt-pt/samples/emoji/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
       href="http://localhost:1313/alisont/zh-cn/samples/emoji/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="http://localhost:1313/alisont/ja/samples/emoji/"
     />
     <xhtml:link
       rel="alternate"
@@ -2240,18 +2240,18 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="es"
+      href="http://localhost:1313/alisont/es/tags/analytics/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="it"
       href="http://localhost:1313/alisont/it/tags/analytics/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-pt"
-      href="http://localhost:1313/alisont/pt-pt/tags/analytics/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="http://localhost:1313/alisont/es/tags/analytics/"
+      hreflang="ja"
+      href="http://localhost:1313/alisont/ja/tags/analytics/"
     />
     <xhtml:link
       rel="alternate"
@@ -2260,8 +2260,8 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja"
-      href="http://localhost:1313/alisont/ja/tags/analytics/"
+      hreflang="pt-pt"
+      href="http://localhost:1313/alisont/pt-pt/tags/analytics/"
     />
     <xhtml:link
       rel="alternate"
@@ -2280,18 +2280,8 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="de"
-      href="http://localhost:1313/alisont/de/tags/advanced/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="it"
       href="http://localhost:1313/alisont/it/tags/advanced/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt-pt"
-      href="http://localhost:1313/alisont/pt-pt/tags/advanced/"
     />
     <xhtml:link
       rel="alternate"
@@ -2302,6 +2292,16 @@
       rel="alternate"
       hreflang="pt-br"
       href="http://localhost:1313/alisont/pt-br/tags/advanced/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-pt"
+      href="http://localhost:1313/alisont/pt-pt/tags/advanced/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="http://localhost:1313/alisont/de/tags/advanced/"
     />
     <xhtml:link
       rel="alternate"
@@ -2340,18 +2340,18 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="es"
+      href="http://localhost:1313/alisont/es/categories/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="it"
       href="http://localhost:1313/alisont/it/categories/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-pt"
-      href="http://localhost:1313/alisont/pt-pt/categories/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="http://localhost:1313/alisont/es/categories/"
+      hreflang="ja"
+      href="http://localhost:1313/alisont/ja/categories/"
     />
     <xhtml:link
       rel="alternate"
@@ -2360,8 +2360,8 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja"
-      href="http://localhost:1313/alisont/ja/categories/"
+      hreflang="pt-pt"
+      href="http://localhost:1313/alisont/pt-pt/categories/"
     />
     <xhtml:link
       rel="alternate"
@@ -2405,18 +2405,8 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="de"
-      href="http://localhost:1313/alisont/de/docs/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="it"
       href="http://localhost:1313/alisont/it/docs/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt-pt"
-      href="http://localhost:1313/alisont/pt-pt/docs/"
     />
     <xhtml:link
       rel="alternate"
@@ -2427,6 +2417,16 @@
       rel="alternate"
       hreflang="pt-br"
       href="http://localhost:1313/alisont/pt-br/docs/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-pt"
+      href="http://localhost:1313/alisont/pt-pt/docs/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="http://localhost:1313/alisont/de/docs/"
     />
     <xhtml:link
       rel="alternate"
@@ -2490,18 +2490,18 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="es"
+      href="http://localhost:1313/alisont/es/tags/favicons/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="it"
       href="http://localhost:1313/alisont/it/tags/favicons/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-pt"
-      href="http://localhost:1313/alisont/pt-pt/tags/favicons/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="http://localhost:1313/alisont/es/tags/favicons/"
+      hreflang="ja"
+      href="http://localhost:1313/alisont/ja/tags/favicons/"
     />
     <xhtml:link
       rel="alternate"
@@ -2510,8 +2510,8 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja"
-      href="http://localhost:1313/alisont/ja/tags/favicons/"
+      hreflang="pt-pt"
+      href="http://localhost:1313/alisont/pt-pt/tags/favicons/"
     />
     <xhtml:link
       rel="alternate"
@@ -2535,18 +2535,18 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="es"
+      href="http://localhost:1313/alisont/es/tags/firebase/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="it"
       href="http://localhost:1313/alisont/it/tags/firebase/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-pt"
-      href="http://localhost:1313/alisont/pt-pt/tags/firebase/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="http://localhost:1313/alisont/es/tags/firebase/"
+      hreflang="ja"
+      href="http://localhost:1313/alisont/ja/tags/firebase/"
     />
     <xhtml:link
       rel="alternate"
@@ -2555,8 +2555,8 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja"
-      href="http://localhost:1313/alisont/ja/tags/firebase/"
+      hreflang="pt-pt"
+      href="http://localhost:1313/alisont/pt-pt/tags/firebase/"
     />
     <xhtml:link
       rel="alternate"
@@ -2585,18 +2585,18 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="es"
+      href="http://localhost:1313/alisont/es/tags/front-matter/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="it"
       href="http://localhost:1313/alisont/it/tags/front-matter/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-pt"
-      href="http://localhost:1313/alisont/pt-pt/tags/front-matter/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="http://localhost:1313/alisont/es/tags/front-matter/"
+      hreflang="ja"
+      href="http://localhost:1313/alisont/ja/tags/front-matter/"
     />
     <xhtml:link
       rel="alternate"
@@ -2605,8 +2605,8 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja"
-      href="http://localhost:1313/alisont/ja/tags/front-matter/"
+      hreflang="pt-pt"
+      href="http://localhost:1313/alisont/pt-pt/tags/front-matter/"
     />
     <xhtml:link
       rel="alternate"
@@ -2635,18 +2635,18 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="es"
+      href="http://localhost:1313/alisont/es/tags/github/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="it"
       href="http://localhost:1313/alisont/it/tags/github/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-pt"
-      href="http://localhost:1313/alisont/pt-pt/tags/github/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="http://localhost:1313/alisont/es/tags/github/"
+      hreflang="ja"
+      href="http://localhost:1313/alisont/ja/tags/github/"
     />
     <xhtml:link
       rel="alternate"
@@ -2655,8 +2655,8 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja"
-      href="http://localhost:1313/alisont/ja/tags/github/"
+      hreflang="pt-pt"
+      href="http://localhost:1313/alisont/pt-pt/tags/github/"
     />
     <xhtml:link
       rel="alternate"
@@ -2690,18 +2690,18 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="es"
+      href="http://localhost:1313/alisont/es/tags/icon/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="it"
       href="http://localhost:1313/alisont/it/tags/icon/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-pt"
-      href="http://localhost:1313/alisont/pt-pt/tags/icon/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="http://localhost:1313/alisont/es/tags/icon/"
+      hreflang="ja"
+      href="http://localhost:1313/alisont/ja/tags/icon/"
     />
     <xhtml:link
       rel="alternate"
@@ -2710,8 +2710,8 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja"
-      href="http://localhost:1313/alisont/ja/tags/icon/"
+      hreflang="pt-pt"
+      href="http://localhost:1313/alisont/pt-pt/tags/icon/"
     />
     <xhtml:link
       rel="alternate"
@@ -2760,18 +2760,18 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="es"
+      href="http://localhost:1313/alisont/es/tags/lead/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="it"
       href="http://localhost:1313/alisont/it/tags/lead/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-pt"
-      href="http://localhost:1313/alisont/pt-pt/tags/lead/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="http://localhost:1313/alisont/es/tags/lead/"
+      hreflang="ja"
+      href="http://localhost:1313/alisont/ja/tags/lead/"
     />
     <xhtml:link
       rel="alternate"
@@ -2780,8 +2780,8 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja"
-      href="http://localhost:1313/alisont/ja/tags/lead/"
+      hreflang="pt-pt"
+      href="http://localhost:1313/alisont/pt-pt/tags/lead/"
     />
     <xhtml:link
       rel="alternate"
@@ -2810,13 +2810,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="it"
-      href="http://localhost:1313/alisont/it/tags/likes/"
+      hreflang="es"
+      href="http://localhost:1313/alisont/es/tags/likes/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="es"
-      href="http://localhost:1313/alisont/es/tags/likes/"
+      hreflang="it"
+      href="http://localhost:1313/alisont/it/tags/likes/"
     />
     <xhtml:link
       rel="alternate"
@@ -2850,18 +2850,18 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="es"
+      href="http://localhost:1313/alisont/es/tags/netlify/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="it"
       href="http://localhost:1313/alisont/it/tags/netlify/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-pt"
-      href="http://localhost:1313/alisont/pt-pt/tags/netlify/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="http://localhost:1313/alisont/es/tags/netlify/"
+      hreflang="ja"
+      href="http://localhost:1313/alisont/ja/tags/netlify/"
     />
     <xhtml:link
       rel="alternate"
@@ -2870,8 +2870,8 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja"
-      href="http://localhost:1313/alisont/ja/tags/netlify/"
+      hreflang="pt-pt"
+      href="http://localhost:1313/alisont/pt-pt/tags/netlify/"
     />
     <xhtml:link
       rel="alternate"
@@ -2910,18 +2910,18 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="es"
+      href="http://localhost:1313/alisont/es/tags/partials/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="it"
       href="http://localhost:1313/alisont/it/tags/partials/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-pt"
-      href="http://localhost:1313/alisont/pt-pt/tags/partials/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="http://localhost:1313/alisont/es/tags/partials/"
+      hreflang="ja"
+      href="http://localhost:1313/alisont/ja/tags/partials/"
     />
     <xhtml:link
       rel="alternate"
@@ -2930,8 +2930,8 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja"
-      href="http://localhost:1313/alisont/ja/tags/partials/"
+      hreflang="pt-pt"
+      href="http://localhost:1313/alisont/pt-pt/tags/partials/"
     />
     <xhtml:link
       rel="alternate"
@@ -2960,18 +2960,18 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="es"
+      href="http://localhost:1313/alisont/es/tags/render/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="it"
       href="http://localhost:1313/alisont/it/tags/render/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-pt"
-      href="http://localhost:1313/alisont/pt-pt/tags/render/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="http://localhost:1313/alisont/es/tags/render/"
+      hreflang="ja"
+      href="http://localhost:1313/alisont/ja/tags/render/"
     />
     <xhtml:link
       rel="alternate"
@@ -2980,8 +2980,8 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja"
-      href="http://localhost:1313/alisont/ja/tags/render/"
+      hreflang="pt-pt"
+      href="http://localhost:1313/alisont/pt-pt/tags/render/"
     />
     <xhtml:link
       rel="alternate"
@@ -3000,18 +3000,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="de"
-      href="http://localhost:1313/alisont/de/series/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="it"
       href="http://localhost:1313/alisont/it/series/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-pt"
-      href="http://localhost:1313/alisont/pt-pt/series/"
+      hreflang="de"
+      href="http://localhost:1313/alisont/de/series/"
     />
     <xhtml:link
       rel="alternate"
@@ -3020,13 +3015,18 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="ja"
+      href="http://localhost:1313/alisont/ja/series/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="pt-br"
       href="http://localhost:1313/alisont/pt-br/series/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja"
-      href="http://localhost:1313/alisont/ja/series/"
+      hreflang="pt-pt"
+      href="http://localhost:1313/alisont/pt-pt/series/"
     />
     <xhtml:link
       rel="alternate"
@@ -3045,13 +3045,13 @@
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="pt-pt"
-      href="http://localhost:1313/alisont/pt-pt/tags/s%C3%A9ries/"
+      hreflang="pt-br"
+      href="http://localhost:1313/alisont/pt-br/tags/s%C3%A9ries/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-br"
-      href="http://localhost:1313/alisont/pt-br/tags/s%C3%A9ries/"
+      hreflang="pt-pt"
+      href="http://localhost:1313/alisont/pt-pt/tags/s%C3%A9ries/"
     />
     <xhtml:link
       rel="alternate"
