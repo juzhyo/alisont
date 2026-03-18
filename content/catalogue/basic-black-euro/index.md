@@ -17,7 +17,7 @@ cascade:
   showZenMode: false
 ---
 
-{{< carousel images="img/*" aspectRatio="3-4" interval="3000">}}
+{{< carousel images="img/*" aspectRatio="3-4" interval="0">}}
 
 
 ## PRODUCT DETAILS

@@ -17,7 +17,7 @@ cascade:
   showZenMode: false
 ---
 
-{{< carousel images="img/*" aspectRatio="3-4" interval="3000">}}
+{{< carousel images="img/*" aspectRatio="3-4" interval="0">}}
 {{< gallery >}}
   <img src="img/IMG_4122.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
   <img src="img/IMG_4123.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
