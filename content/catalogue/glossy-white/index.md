@@ -1,9 +1,9 @@
 ---
-title: "Glossy White (with Clearcoat)"
+title: "Glossy White"
 weight: 1
 draft: false
-description: "Discover what's new in Blowfish version 2.0."
-tags: ["3D-Printed"]
+description: ""
+tags: ["Clearcoated"]
 series_order: 1
 
 cascade:

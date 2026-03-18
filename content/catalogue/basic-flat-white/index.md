@@ -1,9 +1,9 @@
 ---
-title: "3D Basic Flat White (without Clearcoat)"
+title: "Basic Flat White"
 weight: 1
 draft: false
 description: "Discover what's new in Blowfish version 2.0."
-tags: ["3D-Printed"]
+# tags: ["3D-Printed"]
 series_order: 1
 
 cascade:

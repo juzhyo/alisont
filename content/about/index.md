@@ -25,14 +25,14 @@ How we started, and what we strive for.
 {{< /typeit >}}
 {{< /lead >}}
 -->
-Welcome to AlisonT Design, where automotive styling meets precision engineering.
+Welcome to AlisonT Design, where automotive styling meets advanced manufacturing.
 
-Based in Singapore, we specialize in crafting premium, custom 3D-printed car plates. We know that for car enthusiasts, the details matter. A license plate shouldn't just be an afterthought—it should complement your vehicle's aesthetic. By leveraging advanced 3D printing technology, we create dimensional, high-quality plates that stand out from the standard flat acrylics.
+Based in Singapore, we specialize in crafting premium, custom 3D-printed car plates. We know that for car enthusiasts, the details matter. A license plate shouldn't just be an afterthought — it should complement your vehicle's aesthetic. By leveraging advanced 3D printing technology, we create dimensional, high-quality plates that stand out from the traditional.
 
 Standard plates fade, peel, and lack character. At AlisonT Design, we build plates with physical depth, distinct textures, and weather-resistant finishes tailored to your ride.
 
 
-Engineered for the Road
+## Engineered for the Road
 
 An exterior car part needs to be tough. We don't just print; we post-process. Our use of premium materials and protective clearcoats ensures that your 3D-printed plates are built to endure daily driving, UV exposure, and weather conditions without losing their edge.
 Proudly Local

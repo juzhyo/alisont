@@ -2,8 +2,8 @@
 title: "Basic Black Euro"
 weight: 1
 draft: false
-description: "Discover what's new in Blowfish version 2.0."
-tags: ["3D-Printed"]
+description: ""
+# tags: ["3D-Printed"]
 series_order: 1
 
 cascade:
