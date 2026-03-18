@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>分布式操作系统 on Blowfish</title>
+    <link>https://juzhyo.github.io/JZ/zh-cn/tags/%E5%88%86%E5%B8%83%E5%BC%8F%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/</link>
+    <description>Recent content in 分布式操作系统 on Blowfish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2026 Blowfish</copyright>
+    <atom:link href="https://juzhyo.github.io/JZ/zh-cn/tags/%E5%88%86%E5%B8%83%E5%BC%8F%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>alst.ovh</title>
+      <link>https://juzhyo.github.io/JZ/zh-cn/users/113-578198405817d000a9b09d08fe594b1f/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://juzhyo.github.io/JZ/zh-cn/users/113-578198405817d000a9b09d08fe594b1f/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://juzhyo.github.io/JZ/users/113-578198405817d000a9b09d08fe594b1f/feature.webp" />
+    </item>
+    
+  </channel>
+</rss>

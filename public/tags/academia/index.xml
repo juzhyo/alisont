@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Academia on AlisonT Design</title>
+    <link>https://juzhyo.github.io/JZ/tags/academia/</link>
+    <description>Recent content in Academia on AlisonT Design</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>nuno@n9o.xyz (AlisonT Design)</managingEditor>
+    <webMaster>nuno@n9o.xyz (AlisonT Design)</webMaster>
+    <copyright>© 2026 AlisonT Design</copyright>
+    <atom:link href="https://juzhyo.github.io/JZ/tags/academia/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>michaeldorner.de</title>
+      <link>https://juzhyo.github.io/JZ/users/60-d965f981aa39336ef7be5efac83c96b2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (AlisonT Design)</author>
+      <guid>https://juzhyo.github.io/JZ/users/60-d965f981aa39336ef7be5efac83c96b2/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://juzhyo.github.io/JZ/users/60-d965f981aa39336ef7be5efac83c96b2/feature.webp" />
+    </item>
+    
+    <item>
+      <title>Handbook on Teaching Empirical Software Engineering: Online Materials</title>
+      <link>https://juzhyo.github.io/JZ/users/71-54b73306674ec7e6778b54a0a8b18b36/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (AlisonT Design)</author>
+      <guid>https://juzhyo.github.io/JZ/users/71-54b73306674ec7e6778b54a0a8b18b36/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://juzhyo.github.io/JZ/users/71-54b73306674ec7e6778b54a0a8b18b36/feature.webp" />
+    </item>
+    
+  </channel>
+</rss>

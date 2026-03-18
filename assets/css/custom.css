@@ -1,0 +1,43 @@
+/* 1. Import the JDM Fonts from Google */
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&family=Michroma:wght@700;900&display=swap');
+
+/* 2. Apply JetBrains Mono to all the regular text */
+html, body, p, a {
+  font-family: 'JetBrains Mono', monospace !important;
+}
+
+/* 3. Apply Orbitron to all your Headings */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Michroma', sans-serif !important;
+  text-transform: uppercase;
+  font-style: italic; /* Forces that forward-leaning speed */
+  letter-spacing: 2px;
+}
+
+/* 2. Lock the video to the screen */
+#jzy-video-bg {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+    z-index: -2;
+}
+
+/* 3. Add the dark tint */
+#jzy-video-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: rgba(0, 0, 0, 0.7); /* Change 0.7 to adjust darkness */
+    z-index: -1;
+}
+
+/* Force the body and main theme wrappers to be completely transparent */
+body, html, .dark body, .bg-neutral, .dark .bg-neutral-800, #site-main {
+    background-color: transparent !important;
+    background: transparent !important;
+}
