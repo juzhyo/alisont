@@ -1,9 +1,9 @@
 ---
-title: "Frosted"
+title: "磨砂白"
 weight: 1
 draft: false
 description: ""
-tags: ["Signature"]
+tags: ["招牌"]
 series_order: 1
 
 cascade:
@@ -25,12 +25,12 @@ cascade:
   <img src="img/8DDF82BD-F590-4E4E-A8A5-F6AFE26889DF.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 {{< /gallery >}}
 
-## PRODUCT DETAILS
-* 3D-printed, solid block characters
-* MIPA 2K-HS-Klarlack CS95 clearcoat (Germany)
-* UV, Chemical resistant
-* Adhesive bonded (No gap between alphabets and baseplate)
-* 3mm thick Glossy or Matt Satin Casted Acrylic (Laser-cut) (Not laminated)
-* Clearly visible at all Distance and Angles
-* VEP/ANPR Friendly (readable by camera systems at customs and condominium gantries)
-* Crafted locally in Singapore
+## 产品详情
+* 3D打印，实心立体字符
+* 采用德国 MIPA 2K-HS-Klarlack CS95 高级清漆
+* 防UV，耐化学腐蚀
+* 强力粘合（字母与底板之间无缝隙）
+* 3毫米厚亮面或哑面浇注亚克力（激光切割工艺，非普通覆膜）
+* 在任何距离与角度下均清晰可见
+* 完美兼容 VEP/ANPR 自动车牌识别系统（海关及公寓闸机摄像头可轻松读取）
+* 新加坡本地制造
