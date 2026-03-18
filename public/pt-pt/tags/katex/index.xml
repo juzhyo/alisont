@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Katex on Blowfish</title>
-    <link>http://localhost:45331/alisont/pt-pt/tags/katex/</link>
+    <link>http://localhost:37487/alisont/pt-pt/tags/katex/</link>
     <description>Recent content in Katex on Blowfish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
-    <copyright>© 2026 Blowfish</copyright>
-    <lastBuildDate>Fri, 08 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:45331/alisont/pt-pt/tags/katex/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2026 AlisonT Design Pte. Ltd. | [WhatsApp: (&#43;65) 8826 1189](https://wa.me/6588261189)</copyright>
+    <lastBuildDate>Fri, 08 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:37487/alisont/pt-pt/tags/katex/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Notação matemática</title>
-      <link>http://localhost:45331/alisont/pt-pt/samples/mathematical-notation/</link>
+      <link>http://localhost:37487/alisont/pt-pt/samples/mathematical-notation/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:45331/alisont/pt-pt/samples/mathematical-notation/</guid>
+      <guid>http://localhost:37487/alisont/pt-pt/samples/mathematical-notation/</guid>
       <description>&lt;p&gt;O KaTeX pode ser utilizado para renderizar notação matemática dentro dos artigos.&lt;/p&gt;</description>
       
     </item>

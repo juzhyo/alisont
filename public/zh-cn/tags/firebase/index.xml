@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Firebase on Blowfish</title>
-    <link>http://localhost:45331/alisont/zh-cn/tags/firebase/</link>
+    <link>http://localhost:37487/alisont/zh-cn/tags/firebase/</link>
     <description>Recent content in Firebase on Blowfish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <copyright>© 2026 Blowfish</copyright>
-    <atom:link href="http://localhost:45331/alisont/zh-cn/tags/firebase/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2026 AlisonT Design Pte. Ltd. | [WhatsApp: (&#43;65) 8826 1189](https://wa.me/6588261189)</copyright>
+    <atom:link href="http://localhost:37487/alisont/zh-cn/tags/firebase/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Firebase: 阅读量 &amp; 点赞量</title>
-      <link>http://localhost:45331/alisont/zh-cn/catalogue/firebase-views/</link>
+      <link>http://localhost:37487/alisont/zh-cn/catalogue/firebase-views/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:45331/alisont/zh-cn/catalogue/firebase-views/</guid>
+      <guid>http://localhost:37487/alisont/zh-cn/catalogue/firebase-views/</guid>
       <description>&lt;p&gt;为了能够在网站中获取动态数据，我们支持了对 Firebase 的集成。这将允许你在列表和文章中使用阅读量功能。&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45331/alisont/catalogue/firebase-views/featured.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37487/alisont/catalogue/firebase-views/featured.svg" />
     </item>
     
     <item>
       <title>Firebase: 阅读量 &amp; 点赞量</title>
-      <link>http://localhost:45331/alisont/zh-cn/docs/firebase-views/</link>
+      <link>http://localhost:37487/alisont/zh-cn/docs/firebase-views/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:45331/alisont/zh-cn/docs/firebase-views/</guid>
+      <guid>http://localhost:37487/alisont/zh-cn/docs/firebase-views/</guid>
       <description>&lt;p&gt;为了能够在网站中获取动态数据，我们支持了对 Firebase 的集成。这将允许你在列表和文章中使用阅读量功能。&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45331/alisont/docs/firebase-views/featured.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37487/alisont/docs/firebase-views/featured.svg" />
     </item>
     
   </channel>

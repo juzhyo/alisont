@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Séries on Blowfish</title>
-    <link>http://localhost:45331/alisont/fr/tags/s%C3%A9ries/</link>
+    <link>http://localhost:37487/alisont/fr/tags/s%C3%A9ries/</link>
     <description>Recent content in Séries on Blowfish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <copyright>© 2026 Blowfish</copyright>
-    <atom:link href="http://localhost:45331/alisont/fr/tags/s%C3%A9ries/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2026 AlisonT Design Pte. Ltd. | [WhatsApp: (&#43;65) 8826 1189](https://wa.me/6588261189)</copyright>
+    <atom:link href="http://localhost:37487/alisont/fr/tags/s%C3%A9ries/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Séries</title>
-      <link>http://localhost:45331/alisont/fr/catalogue/series/</link>
+      <link>http://localhost:37487/alisont/fr/catalogue/series/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:45331/alisont/fr/catalogue/series/</guid>
+      <guid>http://localhost:37487/alisont/fr/catalogue/series/</guid>
       <description>&lt;p&gt;Blowfish propose une fonctionnalité permettant de regrouper un ensemble d&amp;rsquo;articles sous une &amp;ldquo;série&amp;rdquo;. Placer un article dans une série affichera les autres articles de la série sur chaque page individuelle et permettra une navigation rapide entre eux. Vous pouvez voir un exemple ci-dessus.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45331/alisont/catalogue/series/featured.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37487/alisont/catalogue/series/featured.svg" />
     </item>
     
     <item>
       <title>Séries</title>
-      <link>http://localhost:45331/alisont/fr/docs/series/</link>
+      <link>http://localhost:37487/alisont/fr/docs/series/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:45331/alisont/fr/docs/series/</guid>
+      <guid>http://localhost:37487/alisont/fr/docs/series/</guid>
       <description>&lt;p&gt;Blowfish propose une fonctionnalité permettant de regrouper un ensemble d&amp;rsquo;articles sous une &amp;ldquo;série&amp;rdquo;. Placer un article dans une série affichera les autres articles de la série sur chaque page individuelle et permettra une navigation rapide entre eux. Vous pouvez voir un exemple ci-dessus.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45331/alisont/docs/series/featured.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37487/alisont/docs/series/featured.svg" />
     </item>
     
   </channel>

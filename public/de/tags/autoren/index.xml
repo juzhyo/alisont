@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Autoren on Blowfish</title>
-    <link>http://localhost:45331/alisont/de/tags/autoren/</link>
+    <link>http://localhost:37487/alisont/de/tags/autoren/</link>
     <description>Recent content in Autoren on Blowfish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <copyright>© 2026 Blowfish</copyright>
-    <lastBuildDate>Wed, 12 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:45331/alisont/de/tags/autoren/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2026 AlisonT Design Pte. Ltd. | [WhatsApp: (&#43;65) 8826 1189](https://wa.me/6588261189)</copyright>
+    <lastBuildDate>Wed, 12 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:37487/alisont/de/tags/autoren/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Mehrere Autoren</title>
-      <link>http://localhost:45331/alisont/de/catalogue/multi-author/</link>
+      <link>http://localhost:37487/alisont/de/catalogue/multi-author/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:45331/alisont/de/catalogue/multi-author/</guid>
+      <guid>http://localhost:37487/alisont/de/catalogue/multi-author/</guid>
       <description>&lt;p&gt;Einige Websites haben mehr als einen Autor, der Inhalte beisteuert, und benötigen daher mehr als einen einzelnen Standardautor für die gesamte Website. Für diese Anwendungsfälle ermöglicht Blowfish den Benutzern, die Liste der Autoren mithilfe der Funktion für mehrere Autoren zu erweitern.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45331/alisont/catalogue/multi-author/featured.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37487/alisont/catalogue/multi-author/featured.svg" />
     </item>
     
     <item>
       <title>Mehrere Autoren</title>
-      <link>http://localhost:45331/alisont/de/docs/multi-author/</link>
+      <link>http://localhost:37487/alisont/de/docs/multi-author/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:45331/alisont/de/docs/multi-author/</guid>
+      <guid>http://localhost:37487/alisont/de/docs/multi-author/</guid>
       <description>&lt;p&gt;Einige Websites haben mehr als einen Autor, der Inhalte beisteuert, und benötigen daher mehr als einen einzelnen Standardautor für die gesamte Website. Für diese Anwendungsfälle ermöglicht Blowfish den Benutzern, die Liste der Autoren mithilfe der Funktion für mehrere Autoren zu erweitern.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45331/alisont/docs/multi-author/featured.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37487/alisont/docs/multi-author/featured.svg" />
     </item>
     
     <item>
       <title>Mehrere Autoren</title>
-      <link>http://localhost:45331/alisont/de/samples/multiple-authors/</link>
+      <link>http://localhost:37487/alisont/de/samples/multiple-authors/</link>
       <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:45331/alisont/de/samples/multiple-authors/</guid>
+      <guid>http://localhost:37487/alisont/de/samples/multiple-authors/</guid>
       <description>Ein kurzes Beispiel, wie mehrere Autoren verwendet werden können.</description>
       
     </item>

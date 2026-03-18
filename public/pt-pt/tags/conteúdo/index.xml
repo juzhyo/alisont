@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Conteúdo on Blowfish</title>
-    <link>http://localhost:45331/alisont/pt-pt/tags/conte%C3%BAdo/</link>
+    <link>http://localhost:37487/alisont/pt-pt/tags/conte%C3%BAdo/</link>
     <description>Recent content in Conteúdo on Blowfish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
-    <copyright>© 2026 Blowfish</copyright>
-    <atom:link href="http://localhost:45331/alisont/pt-pt/tags/conte%C3%BAdo/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2026 AlisonT Design Pte. Ltd. | [WhatsApp: (&#43;65) 8826 1189](https://wa.me/6588261189)</copyright>
+    <atom:link href="http://localhost:37487/alisont/pt-pt/tags/conte%C3%BAdo/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Exemplos de conteúdo</title>
-      <link>http://localhost:45331/alisont/pt-pt/catalogue/content-examples/</link>
+      <link>http://localhost:37487/alisont/pt-pt/catalogue/content-examples/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:45331/alisont/pt-pt/catalogue/content-examples/</guid>
+      <guid>http://localhost:37487/alisont/pt-pt/catalogue/content-examples/</guid>
       <description>&lt;p&gt;Se tem lido a documentação por ordem, agora deverá conhecer todas as funcionalidades e configurações disponíveis no Blowfish. Esta página foi concebida para reunir tudo e oferecer alguns exemplos práticos que poderá querer utilizar no seu projeto Hugo.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45331/alisont/catalogue/content-examples/featured.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37487/alisont/catalogue/content-examples/featured.svg" />
     </item>
     
     <item>
       <title>Exemplos de conteúdo</title>
-      <link>http://localhost:45331/alisont/pt-pt/docs/content-examples/</link>
+      <link>http://localhost:37487/alisont/pt-pt/docs/content-examples/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:45331/alisont/pt-pt/docs/content-examples/</guid>
+      <guid>http://localhost:37487/alisont/pt-pt/docs/content-examples/</guid>
       <description>&lt;p&gt;Se tem lido a documentação por ordem, agora deverá conhecer todas as funcionalidades e configurações disponíveis no Blowfish. Esta página foi concebida para reunir tudo e oferecer alguns exemplos práticos que poderá querer utilizar no seu projeto Hugo.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45331/alisont/docs/content-examples/featured.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37487/alisont/docs/content-examples/featured.svg" />
     </item>
     
   </channel>

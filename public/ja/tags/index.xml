@@ -2,481 +2,481 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>タグ on Blowfish</title>
-    <link>http://localhost:45331/alisont/ja/tags/</link>
+    <link>http://localhost:37487/alisont/ja/tags/</link>
     <description>Recent content in タグ on Blowfish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <managingEditor>nuno@n9o.xyz (Blowfish)</managingEditor>
     <webMaster>nuno@n9o.xyz (Blowfish)</webMaster>
-    <copyright>© 2026 Blowfish</copyright>
-    <lastBuildDate>Wed, 12 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:45331/alisont/ja/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2026 AlisonT Design Pte. Ltd. | [WhatsApp: (&#43;65) 8826 1189](https://wa.me/6588261189)</copyright>
+    <lastBuildDate>Wed, 12 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:37487/alisont/ja/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Authors</title>
-      <link>http://localhost:45331/alisont/ja/tags/authors/</link>
+      <link>http://localhost:37487/alisont/ja/tags/authors/</link>
       <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
       <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:45331/alisont/ja/tags/authors/</guid>
+      <guid>http://localhost:37487/alisont/ja/tags/authors/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Sample</title>
-      <link>http://localhost:45331/alisont/ja/tags/sample/</link>
+      <link>http://localhost:37487/alisont/ja/tags/sample/</link>
       <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
       <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:45331/alisont/ja/tags/sample/</guid>
+      <guid>http://localhost:37487/alisont/ja/tags/sample/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Thumbnail</title>
-      <link>http://localhost:45331/alisont/ja/tags/thumbnail/</link>
+      <link>http://localhost:37487/alisont/ja/tags/thumbnail/</link>
       <pubDate>Mon, 26 Sep 2022 00:00:00 +0000</pubDate>
       <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:45331/alisont/ja/tags/thumbnail/</guid>
+      <guid>http://localhost:37487/alisont/ja/tags/thumbnail/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Icons</title>
-      <link>http://localhost:45331/alisont/ja/tags/icons/</link>
+      <link>http://localhost:37487/alisont/ja/tags/icons/</link>
       <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
       <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:45331/alisont/ja/tags/icons/</guid>
+      <guid>http://localhost:37487/alisont/ja/tags/icons/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Shortcodes</title>
-      <link>http://localhost:45331/alisont/ja/tags/shortcodes/</link>
+      <link>http://localhost:37487/alisont/ja/tags/shortcodes/</link>
       <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
       <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:45331/alisont/ja/tags/shortcodes/</guid>
+      <guid>http://localhost:37487/alisont/ja/tags/shortcodes/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Css</title>
-      <link>http://localhost:45331/alisont/ja/tags/css/</link>
+      <link>http://localhost:37487/alisont/ja/tags/css/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:45331/alisont/ja/tags/css/</guid>
+      <guid>http://localhost:37487/alisont/ja/tags/css/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Html</title>
-      <link>http://localhost:45331/alisont/ja/tags/html/</link>
+      <link>http://localhost:37487/alisont/ja/tags/html/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:45331/alisont/ja/tags/html/</guid>
+      <guid>http://localhost:37487/alisont/ja/tags/html/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Markdown</title>
-      <link>http://localhost:45331/alisont/ja/tags/markdown/</link>
+      <link>http://localhost:37487/alisont/ja/tags/markdown/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:45331/alisont/ja/tags/markdown/</guid>
+      <guid>http://localhost:37487/alisont/ja/tags/markdown/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Gist</title>
-      <link>http://localhost:45331/alisont/ja/tags/gist/</link>
+      <link>http://localhost:37487/alisont/ja/tags/gist/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:45331/alisont/ja/tags/gist/</guid>
+      <guid>http://localhost:37487/alisont/ja/tags/gist/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Privacy</title>
-      <link>http://localhost:45331/alisont/ja/tags/privacy/</link>
+      <link>http://localhost:37487/alisont/ja/tags/privacy/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:45331/alisont/ja/tags/privacy/</guid>
+      <guid>http://localhost:37487/alisont/ja/tags/privacy/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Twitter</title>
-      <link>http://localhost:45331/alisont/ja/tags/twitter/</link>
+      <link>http://localhost:37487/alisont/ja/tags/twitter/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:45331/alisont/ja/tags/twitter/</guid>
+      <guid>http://localhost:37487/alisont/ja/tags/twitter/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Vimeo</title>
-      <link>http://localhost:45331/alisont/ja/tags/vimeo/</link>
+      <link>http://localhost:37487/alisont/ja/tags/vimeo/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:45331/alisont/ja/tags/vimeo/</guid>
+      <guid>http://localhost:37487/alisont/ja/tags/vimeo/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Youtube</title>
-      <link>http://localhost:45331/alisont/ja/tags/youtube/</link>
+      <link>http://localhost:37487/alisont/ja/tags/youtube/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:45331/alisont/ja/tags/youtube/</guid>
+      <guid>http://localhost:37487/alisont/ja/tags/youtube/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Latin</title>
-      <link>http://localhost:45331/alisont/ja/tags/latin/</link>
+      <link>http://localhost:37487/alisont/ja/tags/latin/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:45331/alisont/ja/tags/latin/</guid>
+      <guid>http://localhost:37487/alisont/ja/tags/latin/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Text</title>
-      <link>http://localhost:45331/alisont/ja/tags/text/</link>
+      <link>http://localhost:37487/alisont/ja/tags/text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:45331/alisont/ja/tags/text/</guid>
+      <guid>http://localhost:37487/alisont/ja/tags/text/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Katex</title>
-      <link>http://localhost:45331/alisont/ja/tags/katex/</link>
+      <link>http://localhost:37487/alisont/ja/tags/katex/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:45331/alisont/ja/tags/katex/</guid>
+      <guid>http://localhost:37487/alisont/ja/tags/katex/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Maths</title>
-      <link>http://localhost:45331/alisont/ja/tags/maths/</link>
+      <link>http://localhost:37487/alisont/ja/tags/maths/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:45331/alisont/ja/tags/maths/</guid>
+      <guid>http://localhost:37487/alisont/ja/tags/maths/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Chart</title>
-      <link>http://localhost:45331/alisont/ja/tags/chart/</link>
+      <link>http://localhost:37487/alisont/ja/tags/chart/</link>
       <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
       <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:45331/alisont/ja/tags/chart/</guid>
+      <guid>http://localhost:37487/alisont/ja/tags/chart/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Diagram</title>
-      <link>http://localhost:45331/alisont/ja/tags/diagram/</link>
+      <link>http://localhost:37487/alisont/ja/tags/diagram/</link>
       <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
       <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:45331/alisont/ja/tags/diagram/</guid>
+      <guid>http://localhost:37487/alisont/ja/tags/diagram/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Graph</title>
-      <link>http://localhost:45331/alisont/ja/tags/graph/</link>
+      <link>http://localhost:37487/alisont/ja/tags/graph/</link>
       <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
       <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:45331/alisont/ja/tags/graph/</guid>
+      <guid>http://localhost:37487/alisont/ja/tags/graph/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Mermaid</title>
-      <link>http://localhost:45331/alisont/ja/tags/mermaid/</link>
+      <link>http://localhost:37487/alisont/ja/tags/mermaid/</link>
       <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
       <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:45331/alisont/ja/tags/mermaid/</guid>
+      <guid>http://localhost:37487/alisont/ja/tags/mermaid/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Emoji</title>
-      <link>http://localhost:45331/alisont/ja/tags/emoji/</link>
+      <link>http://localhost:37487/alisont/ja/tags/emoji/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:45331/alisont/ja/tags/emoji/</guid>
+      <guid>http://localhost:37487/alisont/ja/tags/emoji/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Analytics</title>
-      <link>http://localhost:45331/alisont/ja/tags/analytics/</link>
+      <link>http://localhost:37487/alisont/ja/tags/analytics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:45331/alisont/ja/tags/analytics/</guid>
+      <guid>http://localhost:37487/alisont/ja/tags/analytics/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Comments</title>
-      <link>http://localhost:45331/alisont/ja/tags/comments/</link>
+      <link>http://localhost:37487/alisont/ja/tags/comments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:45331/alisont/ja/tags/comments/</guid>
+      <guid>http://localhost:37487/alisont/ja/tags/comments/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Config</title>
-      <link>http://localhost:45331/alisont/ja/tags/config/</link>
+      <link>http://localhost:37487/alisont/ja/tags/config/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:45331/alisont/ja/tags/config/</guid>
+      <guid>http://localhost:37487/alisont/ja/tags/config/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Content</title>
-      <link>http://localhost:45331/alisont/ja/tags/content/</link>
+      <link>http://localhost:37487/alisont/ja/tags/content/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:45331/alisont/ja/tags/content/</guid>
+      <guid>http://localhost:37487/alisont/ja/tags/content/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Deployment</title>
-      <link>http://localhost:45331/alisont/ja/tags/deployment/</link>
+      <link>http://localhost:37487/alisont/ja/tags/deployment/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:45331/alisont/ja/tags/deployment/</guid>
+      <guid>http://localhost:37487/alisont/ja/tags/deployment/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Docs</title>
-      <link>http://localhost:45331/alisont/ja/tags/docs/</link>
+      <link>http://localhost:37487/alisont/ja/tags/docs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:45331/alisont/ja/tags/docs/</guid>
+      <guid>http://localhost:37487/alisont/ja/tags/docs/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Example</title>
-      <link>http://localhost:45331/alisont/ja/tags/example/</link>
+      <link>http://localhost:37487/alisont/ja/tags/example/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:45331/alisont/ja/tags/example/</guid>
+      <guid>http://localhost:37487/alisont/ja/tags/example/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Favicons</title>
-      <link>http://localhost:45331/alisont/ja/tags/favicons/</link>
+      <link>http://localhost:37487/alisont/ja/tags/favicons/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:45331/alisont/ja/tags/favicons/</guid>
+      <guid>http://localhost:37487/alisont/ja/tags/favicons/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Firebase</title>
-      <link>http://localhost:45331/alisont/ja/tags/firebase/</link>
+      <link>http://localhost:37487/alisont/ja/tags/firebase/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:45331/alisont/ja/tags/firebase/</guid>
+      <guid>http://localhost:37487/alisont/ja/tags/firebase/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Front Matter</title>
-      <link>http://localhost:45331/alisont/ja/tags/front-matter/</link>
+      <link>http://localhost:37487/alisont/ja/tags/front-matter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:45331/alisont/ja/tags/front-matter/</guid>
+      <guid>http://localhost:37487/alisont/ja/tags/front-matter/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Github</title>
-      <link>http://localhost:45331/alisont/ja/tags/github/</link>
+      <link>http://localhost:37487/alisont/ja/tags/github/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:45331/alisont/ja/tags/github/</guid>
+      <guid>http://localhost:37487/alisont/ja/tags/github/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Homepage</title>
-      <link>http://localhost:45331/alisont/ja/tags/homepage/</link>
+      <link>http://localhost:37487/alisont/ja/tags/homepage/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:45331/alisont/ja/tags/homepage/</guid>
+      <guid>http://localhost:37487/alisont/ja/tags/homepage/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Hosting</title>
-      <link>http://localhost:45331/alisont/ja/tags/hosting/</link>
+      <link>http://localhost:37487/alisont/ja/tags/hosting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:45331/alisont/ja/tags/hosting/</guid>
+      <guid>http://localhost:37487/alisont/ja/tags/hosting/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Icon</title>
-      <link>http://localhost:45331/alisont/ja/tags/icon/</link>
+      <link>http://localhost:37487/alisont/ja/tags/icon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:45331/alisont/ja/tags/icon/</guid>
+      <guid>http://localhost:37487/alisont/ja/tags/icon/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Installation</title>
-      <link>http://localhost:45331/alisont/ja/tags/installation/</link>
+      <link>http://localhost:37487/alisont/ja/tags/installation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:45331/alisont/ja/tags/installation/</guid>
+      <guid>http://localhost:37487/alisont/ja/tags/installation/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Layouts</title>
-      <link>http://localhost:45331/alisont/ja/tags/layouts/</link>
+      <link>http://localhost:37487/alisont/ja/tags/layouts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:45331/alisont/ja/tags/layouts/</guid>
+      <guid>http://localhost:37487/alisont/ja/tags/layouts/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Lead</title>
-      <link>http://localhost:45331/alisont/ja/tags/lead/</link>
+      <link>http://localhost:37487/alisont/ja/tags/lead/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:45331/alisont/ja/tags/lead/</guid>
+      <guid>http://localhost:37487/alisont/ja/tags/lead/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Likes</title>
-      <link>http://localhost:45331/alisont/ja/tags/likes/</link>
+      <link>http://localhost:37487/alisont/ja/tags/likes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:45331/alisont/ja/tags/likes/</guid>
+      <guid>http://localhost:37487/alisont/ja/tags/likes/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Netlify</title>
-      <link>http://localhost:45331/alisont/ja/tags/netlify/</link>
+      <link>http://localhost:37487/alisont/ja/tags/netlify/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:45331/alisont/ja/tags/netlify/</guid>
+      <guid>http://localhost:37487/alisont/ja/tags/netlify/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>New</title>
-      <link>http://localhost:45331/alisont/ja/tags/new/</link>
+      <link>http://localhost:37487/alisont/ja/tags/new/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:45331/alisont/ja/tags/new/</guid>
+      <guid>http://localhost:37487/alisont/ja/tags/new/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Partials</title>
-      <link>http://localhost:45331/alisont/ja/tags/partials/</link>
+      <link>http://localhost:37487/alisont/ja/tags/partials/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:45331/alisont/ja/tags/partials/</guid>
+      <guid>http://localhost:37487/alisont/ja/tags/partials/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Render</title>
-      <link>http://localhost:45331/alisont/ja/tags/render/</link>
+      <link>http://localhost:37487/alisont/ja/tags/render/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:45331/alisont/ja/tags/render/</guid>
+      <guid>http://localhost:37487/alisont/ja/tags/render/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Series</title>
-      <link>http://localhost:45331/alisont/ja/tags/series/</link>
+      <link>http://localhost:37487/alisont/ja/tags/series/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:45331/alisont/ja/tags/series/</guid>
+      <guid>http://localhost:37487/alisont/ja/tags/series/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Views</title>
-      <link>http://localhost:45331/alisont/ja/tags/views/</link>
+      <link>http://localhost:37487/alisont/ja/tags/views/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:45331/alisont/ja/tags/views/</guid>
+      <guid>http://localhost:37487/alisont/ja/tags/views/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>高度なタグ</title>
-      <link>http://localhost:45331/alisont/ja/tags/advanced/</link>
+      <link>http://localhost:37487/alisont/ja/tags/advanced/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:45331/alisont/ja/tags/advanced/</guid>
+      <guid>http://localhost:37487/alisont/ja/tags/advanced/</guid>
       <description>&lt;p&gt;こちらは高度なタグです。 Blowfish の他のページの様に、個々の分類条項にカスタムコンテンツの追加やそれを条項リストの一番上に表示することが可能です。&amp;#x1f680;&lt;/p&gt;</description>
       
     </item>

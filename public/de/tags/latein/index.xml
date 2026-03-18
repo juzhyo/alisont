@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Latein on Blowfish</title>
-    <link>http://localhost:45331/alisont/de/tags/latein/</link>
+    <link>http://localhost:37487/alisont/de/tags/latein/</link>
     <description>Recent content in Latein on Blowfish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <copyright>© 2026 Blowfish</copyright>
-    <lastBuildDate>Mon, 24 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:45331/alisont/de/tags/latein/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2026 AlisonT Design Pte. Ltd. | [WhatsApp: (&#43;65) 8826 1189](https://wa.me/6588261189)</copyright>
+    <lastBuildDate>Mon, 24 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:37487/alisont/de/tags/latein/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Platzhaltertext</title>
-      <link>http://localhost:45331/alisont/de/samples/placeholder-text/</link>
+      <link>http://localhost:37487/alisont/de/samples/placeholder-text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:45331/alisont/de/samples/placeholder-text/</guid>
+      <guid>http://localhost:37487/alisont/de/samples/placeholder-text/</guid>
       <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
       
     </item>

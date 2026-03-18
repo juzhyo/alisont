@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homepage on Blowfish</title>
-    <link>http://localhost:45331/alisont/de/tags/homepage/</link>
+    <link>http://localhost:37487/alisont/de/tags/homepage/</link>
     <description>Recent content in Homepage on Blowfish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <copyright>© 2026 Blowfish</copyright>
-    <atom:link href="http://localhost:45331/alisont/de/tags/homepage/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2026 AlisonT Design Pte. Ltd. | [WhatsApp: (&#43;65) 8826 1189](https://wa.me/6588261189)</copyright>
+    <atom:link href="http://localhost:37487/alisont/de/tags/homepage/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Homepage-Layout</title>
-      <link>http://localhost:45331/alisont/de/catalogue/homepage-layout/</link>
+      <link>http://localhost:37487/alisont/de/catalogue/homepage-layout/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:45331/alisont/de/catalogue/homepage-layout/</guid>
+      <guid>http://localhost:37487/alisont/de/catalogue/homepage-layout/</guid>
       <description>&lt;p&gt;Blowfish bietet ein vollständig flexibles Homepage-Layout. Es gibt zwei Hauptvorlagen zur Auswahl mit zusätzlichen Einstellungen zur Anpassung des Designs. Alternativ können Sie auch Ihre eigene Vorlage bereitstellen und die vollständige Kontrolle über den Homepage-Inhalt haben.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45331/alisont/catalogue/homepage-layout/featured.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37487/alisont/catalogue/homepage-layout/featured.svg" />
     </item>
     
     <item>
       <title>Homepage-Layout</title>
-      <link>http://localhost:45331/alisont/de/docs/homepage-layout/</link>
+      <link>http://localhost:37487/alisont/de/docs/homepage-layout/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:45331/alisont/de/docs/homepage-layout/</guid>
+      <guid>http://localhost:37487/alisont/de/docs/homepage-layout/</guid>
       <description>&lt;p&gt;Blowfish bietet ein vollständig flexibles Homepage-Layout. Es gibt zwei Hauptvorlagen zur Auswahl mit zusätzlichen Einstellungen zur Anpassung des Designs. Alternativ können Sie auch Ihre eigene Vorlage bereitstellen und die vollständige Kontrolle über den Homepage-Inhalt haben.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45331/alisont/docs/homepage-layout/featured.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:37487/alisont/docs/homepage-layout/featured.svg" />
     </item>
     
   </channel>

@@ -8,6 +8,7 @@
 colorScheme = "fire"
 defaultAppearance = "dark" # valid options: light or dark
 autoSwitchAppearance = true
+copyright = "© { year } AlisonT Design Pte. Ltd. | [WhatsApp: (+65) 8826 1189](https://wa.me/6588261189)"
 
 enableA11y = false
 enableSearch = true

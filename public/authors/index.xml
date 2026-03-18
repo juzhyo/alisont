@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors Taxonomy Listing Example on AlisonT Design</title>
-    <link>http://localhost:45331/alisont/authors/</link>
+    <link>http://localhost:37487/alisont/authors/</link>
     <description>Recent content in Authors Taxonomy Listing Example on AlisonT Design</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>nuno@n9o.xyz (AlisonT Design)</managingEditor>
     <webMaster>nuno@n9o.xyz (AlisonT Design)</webMaster>
-    <copyright>© 2026 AlisonT Design</copyright>
-    <lastBuildDate>Wed, 12 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:45331/alisont/authors/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2026 AlisonT Design Pte. Ltd. | [WhatsApp: (&#43;65) 8826 1189](https://wa.me/6588261189)</copyright>
+    <lastBuildDate>Wed, 12 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:37487/alisont/authors/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Dummy Second Author</title>
-      <link>http://localhost:45331/alisont/authors/secondauthor/</link>
+      <link>http://localhost:37487/alisont/authors/secondauthor/</link>
       <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
       <author>nuno@n9o.xyz (AlisonT Design)</author>
-      <guid>http://localhost:45331/alisont/authors/secondauthor/</guid>
+      <guid>http://localhost:37487/alisont/authors/secondauthor/</guid>
       <description>&lt;p&gt;Dummy Second Author&amp;rsquo;s awesome dummy bio.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Nuno Coração</title>
-      <link>http://localhost:45331/alisont/authors/nunocoracao/</link>
+      <link>http://localhost:37487/alisont/authors/nunocoracao/</link>
       <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
       <author>nuno@n9o.xyz (AlisonT Design)</author>
-      <guid>http://localhost:45331/alisont/authors/nunocoracao/</guid>
+      <guid>http://localhost:37487/alisont/authors/nunocoracao/</guid>
       <description>&lt;p&gt;Nuno&amp;rsquo;s awesome dummy bio.&lt;/p&gt;</description>
       
     </item>

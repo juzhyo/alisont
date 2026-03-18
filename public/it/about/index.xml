@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Esempio di elenco di tassonomia degli autori on Blowfish</title>
-    <link>http://localhost:45331/alisont/it/about/</link>
+    <link>http://localhost:37487/alisont/it/about/</link>
     <description>Recent content in Esempio di elenco di tassonomia degli autori on Blowfish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
-    <copyright>© 2026 Blowfish</copyright>
-    <atom:link href="http://localhost:45331/alisont/it/about/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2026 AlisonT Design Pte. Ltd. | [WhatsApp: (&#43;65) 8826 1189](https://wa.me/6588261189)</copyright>
+    <atom:link href="http://localhost:37487/alisont/it/about/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>

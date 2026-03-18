@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Html on Blowfish</title>
-    <link>http://localhost:45331/alisont/it/tags/html/</link>
+    <link>http://localhost:37487/alisont/it/tags/html/</link>
     <description>Recent content in Html on Blowfish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
-    <copyright>© 2026 Blowfish</copyright>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:45331/alisont/it/tags/html/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2026 AlisonT Design Pte. Ltd. | [WhatsApp: (&#43;65) 8826 1189](https://wa.me/6588261189)</copyright>
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:37487/alisont/it/tags/html/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Markdown</title>
-      <link>http://localhost:45331/alisont/it/samples/markdown/</link>
+      <link>http://localhost:37487/alisont/it/samples/markdown/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:45331/alisont/it/samples/markdown/</guid>
+      <guid>http://localhost:37487/alisont/it/samples/markdown/</guid>
       <description>&lt;p&gt;This article offers a sample of basic Markdown formatting that can be used in Blowfish, also it shows how some basic HTML elements are decorated.&lt;/p&gt;</description>
       
     </item>

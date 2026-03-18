@@ -23,4 +23,4 @@ How we started, and what we strive for.
 {{< /typeit >}}
 {{< /lead >}}
 
-We strive to be the best.
+We strive to produce quality car plates.
