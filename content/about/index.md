@@ -56,4 +56,4 @@ A: While the LTA does not issue official "Certificates of Approval" for any afte
 
 **Q: What if I’m not satisfied with my order?**
 
-A: We stand behind our craftsmanship. If our plates don't meet your exact specifications or our high-performance standards, contact us the moment you receive them. We will work with you to make it right.
+A: We stand behind our craftsmanship. If our plates don't meet your exact specifications or our high-performance standards, contact us the moment you receive them. We will work with you immediately to make it right.
