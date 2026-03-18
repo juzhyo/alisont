@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Katex on Blowfish</title>
-    <link>https://juzhyo.github.io/JZ/pt-br/tags/katex/</link>
+    <link>https://juzhyo.github.io/alisont/pt-br/tags/katex/</link>
     <description>Recent content in Katex on Blowfish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>© 2026 Blowfish</copyright>
-    <lastBuildDate>Fri, 08 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://juzhyo.github.io/JZ/pt-br/tags/katex/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://juzhyo.github.io/alisont/pt-br/tags/katex/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Notação matemática</title>
-      <link>https://juzhyo.github.io/JZ/pt-br/samples/mathematical-notation/</link>
+      <link>https://juzhyo.github.io/alisont/pt-br/samples/mathematical-notation/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://juzhyo.github.io/JZ/pt-br/samples/mathematical-notation/</guid>
+      <guid>https://juzhyo.github.io/alisont/pt-br/samples/mathematical-notation/</guid>
       <description>&lt;p&gt;KaTeX pode ser usado para renderizar notação matemática dentro dos artigos.&lt;/p&gt;</description>
       
     </item>

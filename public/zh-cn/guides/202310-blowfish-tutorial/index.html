@@ -28,7 +28,7 @@
   
   
   
-  <link rel="canonical" href="https://juzhyo.github.io/JZ/zh-cn/guides/202310-blowfish-tutorial/">
+  <link rel="canonical" href="https://juzhyo.github.io/alisont/zh-cn/guides/202310-blowfish-tutorial/">
   
 
   
@@ -52,7 +52,7 @@
   
 
   
-  <meta property="og:url" content="https://juzhyo.github.io/JZ/zh-cn/guides/202310-blowfish-tutorial/">
+  <meta property="og:url" content="https://juzhyo.github.io/alisont/zh-cn/guides/202310-blowfish-tutorial/">
   <meta property="og:site_name" content="Blowfish">
   <meta property="og:title" content="使用 Blowfish和 Hugo 构建你的主页">
   <meta property="og:description" content="一年前我创建了 Blowfish，这是一个为了打造我的个人主页而精心设计的 Hugo 主题。我决定将其作为一个开源项目。直到今天，Blowfish 已经变成了一个蓬勃发展的开源项目，在 GitHub 上拥有超过900个 star 和数百名用户。在本教程中，我向像你展示如何搭建并在几分钟内让你的网站运行起来。">
@@ -64,11 +64,11 @@
     <meta property="article:tag" content="指南">
     <meta property="article:tag" content="Blowfish">
     <meta property="article:tag" content="Hugo">
-    <meta property="og:image" content="https://juzhyo.github.io/JZ/guides/202310-blowfish-tutorial/featured.jpg">
+    <meta property="og:image" content="https://juzhyo.github.io/alisont/guides/202310-blowfish-tutorial/featured.jpg">
 
   
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:image" content="https://juzhyo.github.io/JZ/guides/202310-blowfish-tutorial/featured.jpg">
+  <meta name="twitter:image" content="https://juzhyo.github.io/alisont/guides/202310-blowfish-tutorial/featured.jpg">
   <meta name="twitter:title" content="使用 Blowfish和 Hugo 构建你的主页">
   <meta name="twitter:description" content="一年前我创建了 Blowfish，这是一个为了打造我的个人主页而精心设计的 Hugo 主题。我决定将其作为一个开源项目。直到今天，Blowfish 已经变成了一个蓬勃发展的开源项目，在 GitHub 上拥有超过900个 star 和数百名用户。在本教程中，我向像你展示如何搭建并在几分钟内让你的网站运行起来。">
 
@@ -111,14 +111,14 @@
   <link
     type="text/css"
     rel="stylesheet"
-    href="/JZ/css/main.bundle.min.8c7a1c9902b49a85f83f5cf77e131fcb40e345eef6766805700365037864e8f58f9afc355d28546011219df5375f8c97dd7af3186707b5cfa6de95d0b2149887.css"
+    href="/alisont/css/main.bundle.min.8c7a1c9902b49a85f83f5cf77e131fcb40e345eef6766805700365037864e8f58f9afc355d28546011219df5375f8c97dd7af3186707b5cfa6de95d0b2149887.css"
     integrity="sha512-jHocmQK0moX4P1z3fhMfy0DjRe72dmgFcANlA3hk6PWPmvw1XShUYBEhnfU3X4yX3XrzGGcHtc&#43;m3pXQshSYhw==">
 
   
   
   <script
     type="text/javascript"
-    src="/JZ/js/appearance.min.6f41174b3a05b680820fe08cadbfa5fb7a7ca347b76a0955cdc68b9d8aca1ce24f0547e138cea33bcc7904d551a90afcb1cc7f2d9fe8557075d501419046c08c.js"
+    src="/alisont/js/appearance.min.6f41174b3a05b680820fe08cadbfa5fb7a7ca347b76a0955cdc68b9d8aca1ce24f0547e138cea33bcc7904d551a90afcb1cc7f2d9fe8557075d501419046c08c.js"
     integrity="sha512-b0EXSzoFtoCCD&#43;CMrb&#43;l&#43;3p8o0e3aglVzcaLnYrKHOJPBUfhOM6jO8x5BNVRqQr8scx/LZ/oVXB11QFBkEbAjA=="></script>
   
   
@@ -128,12 +128,12 @@
     
     <script
       type="text/javascript"
-      src="/JZ/js/zen-mode.min.9814dee9614d32aeb56239d118edfe20acd6231424f9b19c2dd48835038414130a5e946c0d1c9087d60e60e31840c9babfd217e3d4b95643dc8d651a71ccdf4a.js"
+      src="/alisont/js/zen-mode.min.9814dee9614d32aeb56239d118edfe20acd6231424f9b19c2dd48835038414130a5e946c0d1c9087d60e60e31840c9babfd217e3d4b95643dc8d651a71ccdf4a.js"
       integrity="sha512-mBTe6WFNMq61YjnRGO3&#43;IKzWIxQk&#43;bGcLdSINQOEFBMKXpRsDRyQh9YOYOMYQMm6v9IX49S5VkPcjWUacczfSg=="></script>
   
   
     
-    <script src="/JZ/lib/zoom/zoom.min.umd.a527109b68c082a70f3697716dd72a9d5aa8b545cf800cecbbc7399f2ca6f6e0ce3e431f2062b48bbfa47c9ea42822714060bef309be073f49b9c0e30d318d7b.js" integrity="sha512-pScQm2jAgqcPNpdxbdcqnVqotUXPgAzsu8c5nyym9uDOPkMfIGK0i7&#43;kfJ6kKCJxQGC&#43;8wm&#43;Bz9JucDjDTGNew=="></script>
+    <script src="/alisont/lib/zoom/zoom.min.umd.a527109b68c082a70f3697716dd72a9d5aa8b545cf800cecbbc7399f2ca6f6e0ce3e431f2062b48bbfa47c9ea42822714060bef309be073f49b9c0e30d318d7b.js" integrity="sha512-pScQm2jAgqcPNpdxbdcqnVqotUXPgAzsu8c5nyym9uDOPkMfIGK0i7&#43;kfJ6kKCJxQGC&#43;8wm&#43;Bz9JucDjDTGNew=="></script>
   
 
   
@@ -157,7 +157,7 @@
       defer
       type="text/javascript"
       id="script-bundle"
-      src="/JZ/js/main.bundle.min.ddce0729419700936e0c03ec6f8766f25d6304e689ec0291bf18dfe90cf581a8b4d2f0136eae2dc6657f37ba9a194c38242716ed05cb312eb90715b367403743.js"
+      src="/alisont/js/main.bundle.min.ddce0729419700936e0c03ec6f8766f25d6304e689ec0291bf18dfe90cf581a8b4d2f0136eae2dc6657f37ba9a194c38242716ed05cb312eb90715b367403743.js"
       integrity="sha512-3c4HKUGXAJNuDAPsb4dm8l1jBOaJ7AKRvxjf6Qz1gai00vATbq4txmV/N7qaGUw4JCcW7QXLMS65BxWzZ0A3Qw=="
       data-copy="复制"
       data-copied="已复制"></script>
@@ -183,21 +183,21 @@
   <link
     type="text/css"
     rel="stylesheet"
-    href="/JZ/css/components/gallery.5ecf2cf593db008f5b1a9adc1bac0f07fd02452d9b9f3b024618673e799cb2090cbf655712937b710dfe6422e08e163234b64b43ddae4b41642e6b560c46418d.css"
+    href="/alisont/css/components/gallery.5ecf2cf593db008f5b1a9adc1bac0f07fd02452d9b9f3b024618673e799cb2090cbf655712937b710dfe6422e08e163234b64b43ddae4b41642e6b560c46418d.css"
     integrity="sha512-Xs8s9ZPbAI9bGprcG6wPB/0CRS2bnzsCRhhnPnmcsgkMv2VXEpN7cQ3&#43;ZCLgjhYyNLZLQ92uS0FkLmtWDEZBjQ==">
   
   
   <script
     defer
     type="text/javascript"
-    src="/JZ/lib/packery/packery.pkgd.min.8b0cbb30a72acb6a0188f690a3768e9c531f056dcf18df8d739ececb994387d28137ed684b2f23da6df5a0c416eb4f8818d5db4493419a9b97c7452ac602fbd4.js"
+    src="/alisont/lib/packery/packery.pkgd.min.8b0cbb30a72acb6a0188f690a3768e9c531f056dcf18df8d739ececb994387d28137ed684b2f23da6df5a0c416eb4f8818d5db4493419a9b97c7452ac602fbd4.js"
     integrity="sha512-iwy7MKcqy2oBiPaQo3aOnFMfBW3PGN&#43;Nc57Oy5lDh9KBN&#43;1oSy8j2m31oMQW60&#43;IGNXbRJNBmpuXx0UqxgL71A=="></script>
 
   
   
   <script
     type="text/javascript"
-    src="/JZ/js/shortcodes/gallery.min.0f214e323c6e8797755a37bef9324e195612b47f71b5f6192b197a68c86b089182cdde4d803cb6978ad9e2092e9f1d78a86d94a143a59c398c600745fe12764e.js"
+    src="/alisont/js/shortcodes/gallery.min.0f214e323c6e8797755a37bef9324e195612b47f71b5f6192b197a68c86b089182cdde4d803cb6978ad9e2092e9f1d78a86d94a143a59c398c600745fe12764e.js"
     integrity="sha512-DyFOMjxuh5d1Wje&#43;&#43;TJOGVYStH9xtfYZKxl6aMhrCJGCzd5NgDy2l4rZ4gkunx14qG2UoUOlnDmMYAdF/hJ2Tg=="></script>
 
 
@@ -2254,7 +2254,7 @@
     
   
   
-  <link rel="stylesheet" href="/JZ/css/repo-cards.min.7bbeaab135bf9de7bbb9f5636f13341c57728cf3b2636394c02f5e5885bb1d1fec6f4e5850215455be91bcc4b648893d9a1240beee50d7188d7ee8c8cf13b95b.css" integrity="sha512-e76qsTW/nee7ufVjbxM0HFdyjPOyY2OUwC9eWIW7HR/sb05YUCFUVb6RvMS2SIk9mhJAvu5Q1xiNfujIzxO5Ww==">
+  <link rel="stylesheet" href="/alisont/css/repo-cards.min.7bbeaab135bf9de7bbb9f5636f13341c57728cf3b2636394c02f5e5885bb1d1fec6f4e5850215455be91bcc4b648893d9a1240beee50d7188d7ee8c8cf13b95b.css" integrity="sha512-e76qsTW/nee7ufVjbxM0HFdyjPOyY2OUwC9eWIW7HR/sb05YUCFUVb6RvMS2SIk9mhJAvu5Q1xiNfujIzxO5Ww==">
 
 
 
@@ -2264,7 +2264,7 @@
 
   
   
-  <script type="module" src="/JZ/js/firebase.min.cad74e0625f72f359ec6d6fed579b87733749de70400e7614048050ed08832ee3f58983d5d139fb1ddc5f7f2f5047d45ed80ec923534a3660fc3a7965f936866.js" integrity="sha512-ytdOBiX3LzWextb&#43;1Xm4dzN0necEAOdhQEgFDtCIMu4/WJg9XROfsd3F9/L1BH1F7YDskjU0o2YPw6eWX5NoZg=="></script>
+  <script type="module" src="/alisont/js/firebase.min.cad74e0625f72f359ec6d6fed579b87733749de70400e7614048050ed08832ee3f58983d5d139fb1ddc5f7f2f5047d45ed80ec923534a3660fc3a7965f936866.js" integrity="sha512-ytdOBiX3LzWextb&#43;1Xm4dzN0necEAOdhQEgFDtCIMu4/WJg9XROfsd3F9/L1BH1F7YDskjU0o2YPw6eWX5NoZg=="></script>
 
   
     
@@ -2317,10 +2317,10 @@
 
   
   
-    <link rel="apple-touch-icon" sizes="180x180" href="/JZ/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/JZ/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/JZ/favicon-16x16.png">
-    <link rel="manifest" href="/JZ/site.webmanifest">
+    <link rel="apple-touch-icon" sizes="180x180" href="/alisont/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/alisont/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/alisont/favicon-16x16.png">
+    <link rel="manifest" href="/alisont/site.webmanifest">
   
 
   
@@ -2333,7 +2333,7 @@
     "headline": "使用 Blowfish和 Hugo 构建你的主页",
     "description": "一年前我创建了 Blowfish，这是一个为了打造我的个人主页而精心设计的 Hugo 主题。我决定将其作为一个开源项目。直到今天，Blowfish 已经变成了一个蓬勃发展的开源项目，在 GitHub 上拥有超过900个 star 和数百名用户。在本教程中，我向像你展示如何搭建并在几分钟内让你的网站运行起来。",
     "inLanguage": "zh-cn",
-    "url" : "https://juzhyo.github.io/JZ/zh-cn/guides/202310-blowfish-tutorial/",
+    "url" : "https://juzhyo.github.io/alisont/zh-cn/guides/202310-blowfish-tutorial/",
     "author" : {
       "@type": "Person",
       "name": "Blowfish"
@@ -2356,12 +2356,12 @@
             "@type": "ListItem",
             "position":  1 ,
             "name": "使用指南",
-            "item": "https://juzhyo.github.io/JZ/zh-cn/guides/"
+            "item": "https://juzhyo.github.io/alisont/zh-cn/guides/"
           },{
         "@type": "ListItem",
         "position":  2 ,
         "name": "使用 Blowfish和 Hugo 构建你的主页",
-        "item": "https://juzhyo.github.io/JZ/zh-cn/guides/202310-blowfish-tutorial/"
+        "item": "https://juzhyo.github.io/alisont/zh-cn/guides/202310-blowfish-tutorial/"
       }
     ]
   }]
@@ -2444,11 +2444,11 @@
     
     
       <div>
-        <a href="/JZ/zh-cn/" class="flex">
+        <a href="/alisont/zh-cn/" class="flex">
           <span class="sr-only">Blowfish</span>
           
             <img
-              src="/JZ/img/blowfish_logo_transparent.png"
+              src="/alisont/img/blowfish_logo_transparent.png"
               width="1000"
               height="1000"
               class="logo max-h-20 max-w-20 object-scale-down object-left nozoom"
@@ -2459,7 +2459,7 @@
     
   
   
-    <a href="/JZ/zh-cn/" class="text-base font-medium truncate min-w-0 shrink">
+    <a href="/alisont/zh-cn/" class="text-base font-medium truncate min-w-0 shrink">
       Blowfish
     </a>
   
@@ -2471,7 +2471,7 @@
       
   
     <a
-      href="/JZ/zh-cn/docs/"
+      href="/alisont/zh-cn/docs/"
       
       class="flex items-center bf-icon-color-hover"
       aria-label="文档"
@@ -2489,7 +2489,7 @@
       
   
     <a
-      href="/JZ/zh-cn/docs/shortcodes/"
+      href="/alisont/zh-cn/docs/shortcodes/"
       
       class="flex items-center bf-icon-color-hover"
       aria-label="简码"
@@ -2541,7 +2541,7 @@
           <div class="flex flex-col space-y-3">
             
               <a
-                href="/JZ/zh-cn/samples/"
+                href="/alisont/zh-cn/samples/"
                 
                 aria-label="功能示例"
                 class="flex items-center bf-icon-color-hover">
@@ -2552,7 +2552,7 @@
               </a>
             
               <a
-                href="/JZ/zh-cn/examples/"
+                href="/alisont/zh-cn/examples/"
                 
                 aria-label="模板示例"
                 class="flex items-center bf-icon-color-hover">
@@ -2563,7 +2563,7 @@
               </a>
             
               <a
-                href="/JZ/zh-cn/guides/"
+                href="/alisont/zh-cn/guides/"
                 
                 aria-label="部署指南"
                 class="flex items-center bf-icon-color-hover">
@@ -2583,7 +2583,7 @@
       
   
     <a
-      href="/JZ/zh-cn/users/"
+      href="/alisont/zh-cn/users/"
       
       class="flex items-center bf-icon-color-hover"
       aria-label="用户列表"
@@ -2673,55 +2673,55 @@
     <ul class="menuhide">
       <li class="rounded-xl backdrop-blur shadow-2xl p-2 flex flex-col gap-1">
         
-          <a href="/JZ/guides/202310-blowfish-tutorial/" class="flex items-center bf-icon-color-hover px-3 py-1">
+          <a href="/alisont/guides/202310-blowfish-tutorial/" class="flex items-center bf-icon-color-hover px-3 py-1">
             <span class="text-sm font-sm" title="Build your homepage using Blowfish and Hugo">
               English
             </span>
           </a>
         
-          <a href="/JZ/fr/guides/202310-blowfish-tutorial/" class="flex items-center bf-icon-color-hover px-3 py-1">
+          <a href="/alisont/fr/guides/202310-blowfish-tutorial/" class="flex items-center bf-icon-color-hover px-3 py-1">
             <span class="text-sm font-sm" title="Créez votre page d&#39;accueil avec Blowfish et Hugo">
               Français
             </span>
           </a>
         
-          <a href="/JZ/de/guides/202310-blowfish-tutorial/" class="flex items-center bf-icon-color-hover px-3 py-1">
+          <a href="/alisont/de/guides/202310-blowfish-tutorial/" class="flex items-center bf-icon-color-hover px-3 py-1">
             <span class="text-sm font-sm" title="Erstellen Sie Ihre Homepage mit Blowfish und Hugo">
               Deutsch
             </span>
           </a>
         
-          <a href="/JZ/it/guides/202310-blowfish-tutorial/" class="flex items-center bf-icon-color-hover px-3 py-1">
+          <a href="/alisont/it/guides/202310-blowfish-tutorial/" class="flex items-center bf-icon-color-hover px-3 py-1">
             <span class="text-sm font-sm" title="Build your homepage using Blowfish and Hugo">
               Italiano
             </span>
           </a>
         
-          <a href="/JZ/pt-pt/guides/202310-blowfish-tutorial/" class="flex items-center bf-icon-color-hover px-3 py-1">
+          <a href="/alisont/pt-pt/guides/202310-blowfish-tutorial/" class="flex items-center bf-icon-color-hover px-3 py-1">
             <span class="text-sm font-sm" title="Construa a sua página inicial usando Blowfish e Hugo">
               Português (Portugal)
             </span>
           </a>
         
-          <a href="/JZ/pt-br/guides/202310-blowfish-tutorial/" class="flex items-center bf-icon-color-hover px-3 py-1">
+          <a href="/alisont/pt-br/guides/202310-blowfish-tutorial/" class="flex items-center bf-icon-color-hover px-3 py-1">
             <span class="text-sm font-sm" title="Construa sua página inicial usando Blowfish e Hugo">
               Português (Brasil)
             </span>
           </a>
         
-          <a href="/JZ/es/guides/202310-blowfish-tutorial/" class="flex items-center bf-icon-color-hover px-3 py-1">
+          <a href="/alisont/es/guides/202310-blowfish-tutorial/" class="flex items-center bf-icon-color-hover px-3 py-1">
             <span class="text-sm font-sm" title="Construye tu página de inicio usando Blowfish y Hugo">
               Español
             </span>
           </a>
         
-          <a href="/JZ/ja/guides/202310-blowfish-tutorial/" class="flex items-center bf-icon-color-hover px-3 py-1">
+          <a href="/alisont/ja/guides/202310-blowfish-tutorial/" class="flex items-center bf-icon-color-hover px-3 py-1">
             <span class="text-sm font-sm" title="Build your homepage using Blowfish and Hugo">
               日本語
             </span>
           </a>
         
-          <a href="/JZ/zh-cn/guides/202310-blowfish-tutorial/" class="flex items-center bf-icon-color-hover px-3 py-1">
+          <a href="/alisont/zh-cn/guides/202310-blowfish-tutorial/" class="flex items-center bf-icon-color-hover px-3 py-1">
             <span class="text-sm font-sm" title="使用 Blowfish和 Hugo 构建你的主页">
               简体中文
             </span>
@@ -2823,7 +2823,7 @@
     
     <div class="px-2">
       <a
-        href="/JZ/zh-cn/docs/"
+        href="/alisont/zh-cn/docs/"
         aria-label="文档"
         
         class="flex items-center gap-4 group bf-icon-color-hover text-neutral-700 dark:text-neutral-200">
@@ -2840,7 +2840,7 @@
     
     <div class="px-2">
       <a
-        href="/JZ/zh-cn/docs/shortcodes/"
+        href="/alisont/zh-cn/docs/shortcodes/"
         aria-label="简码"
         
         class="flex items-center gap-4 group bf-icon-color-hover text-neutral-700 dark:text-neutral-200">
@@ -2895,7 +2895,7 @@
             <div class="ms-7 mt-4">
               
                 <a
-                  href="/JZ/zh-cn/samples/"
+                  href="/alisont/zh-cn/samples/"
                   aria-label="功能示例"
                   
                   class="flex items-center gap-3 p-2 group bf-icon-color-hover text-neutral-700 dark:text-neutral-200">
@@ -2906,7 +2906,7 @@
                 </a>
               
                 <a
-                  href="/JZ/zh-cn/examples/"
+                  href="/alisont/zh-cn/examples/"
                   aria-label="模板示例"
                   
                   class="flex items-center gap-3 p-2 group bf-icon-color-hover text-neutral-700 dark:text-neutral-200">
@@ -2917,7 +2917,7 @@
                 </a>
               
                 <a
-                  href="/JZ/zh-cn/guides/"
+                  href="/alisont/zh-cn/guides/"
                   aria-label="部署指南"
                   
                   class="flex items-center gap-3 p-2 group bf-icon-color-hover text-neutral-700 dark:text-neutral-200">
@@ -2936,7 +2936,7 @@
     
     <div class="px-2">
       <a
-        href="/JZ/zh-cn/users/"
+        href="/alisont/zh-cn/users/"
         aria-label="用户列表"
         
         class="flex items-center gap-4 group bf-icon-color-hover text-neutral-700 dark:text-neutral-200">
@@ -3036,55 +3036,55 @@
     <ul class="menuhide">
       <li class="rounded-xl backdrop-blur shadow-2xl p-2 flex flex-col gap-1">
         
-          <a href="/JZ/guides/202310-blowfish-tutorial/" class="flex items-center bf-icon-color-hover px-3 py-1">
+          <a href="/alisont/guides/202310-blowfish-tutorial/" class="flex items-center bf-icon-color-hover px-3 py-1">
             <span class="text-sm font-sm" title="Build your homepage using Blowfish and Hugo">
               English
             </span>
           </a>
         
-          <a href="/JZ/fr/guides/202310-blowfish-tutorial/" class="flex items-center bf-icon-color-hover px-3 py-1">
+          <a href="/alisont/fr/guides/202310-blowfish-tutorial/" class="flex items-center bf-icon-color-hover px-3 py-1">
             <span class="text-sm font-sm" title="Créez votre page d&#39;accueil avec Blowfish et Hugo">
               Français
             </span>
           </a>
         
-          <a href="/JZ/de/guides/202310-blowfish-tutorial/" class="flex items-center bf-icon-color-hover px-3 py-1">
+          <a href="/alisont/de/guides/202310-blowfish-tutorial/" class="flex items-center bf-icon-color-hover px-3 py-1">
             <span class="text-sm font-sm" title="Erstellen Sie Ihre Homepage mit Blowfish und Hugo">
               Deutsch
             </span>
           </a>
         
-          <a href="/JZ/it/guides/202310-blowfish-tutorial/" class="flex items-center bf-icon-color-hover px-3 py-1">
+          <a href="/alisont/it/guides/202310-blowfish-tutorial/" class="flex items-center bf-icon-color-hover px-3 py-1">
             <span class="text-sm font-sm" title="Build your homepage using Blowfish and Hugo">
               Italiano
             </span>
           </a>
         
-          <a href="/JZ/pt-pt/guides/202310-blowfish-tutorial/" class="flex items-center bf-icon-color-hover px-3 py-1">
+          <a href="/alisont/pt-pt/guides/202310-blowfish-tutorial/" class="flex items-center bf-icon-color-hover px-3 py-1">
             <span class="text-sm font-sm" title="Construa a sua página inicial usando Blowfish e Hugo">
               Português (Portugal)
             </span>
           </a>
         
-          <a href="/JZ/pt-br/guides/202310-blowfish-tutorial/" class="flex items-center bf-icon-color-hover px-3 py-1">
+          <a href="/alisont/pt-br/guides/202310-blowfish-tutorial/" class="flex items-center bf-icon-color-hover px-3 py-1">
             <span class="text-sm font-sm" title="Construa sua página inicial usando Blowfish e Hugo">
               Português (Brasil)
             </span>
           </a>
         
-          <a href="/JZ/es/guides/202310-blowfish-tutorial/" class="flex items-center bf-icon-color-hover px-3 py-1">
+          <a href="/alisont/es/guides/202310-blowfish-tutorial/" class="flex items-center bf-icon-color-hover px-3 py-1">
             <span class="text-sm font-sm" title="Construye tu página de inicio usando Blowfish y Hugo">
               Español
             </span>
           </a>
         
-          <a href="/JZ/ja/guides/202310-blowfish-tutorial/" class="flex items-center bf-icon-color-hover px-3 py-1">
+          <a href="/alisont/ja/guides/202310-blowfish-tutorial/" class="flex items-center bf-icon-color-hover px-3 py-1">
             <span class="text-sm font-sm" title="Build your homepage using Blowfish and Hugo">
               日本語
             </span>
           </a>
         
-          <a href="/JZ/zh-cn/guides/202310-blowfish-tutorial/" class="flex items-center bf-icon-color-hover px-3 py-1">
+          <a href="/alisont/zh-cn/guides/202310-blowfish-tutorial/" class="flex items-center bf-icon-color-hover px-3 py-1">
             <span class="text-sm font-sm" title="使用 Blowfish和 Hugo 构建你的主页">
               简体中文
             </span>
@@ -3142,7 +3142,7 @@
 
 <script
   type="text/javascript"
-  src="/JZ/js/background-blur.min.00a57c73ea12f2cab2980c3c3d649e89f6d82f190f74bbe2b67f2f5e39ab7d032ece47086400ca05396758aace13299da49aca43ea643d2625e62c506267a169.js"
+  src="/alisont/js/background-blur.min.00a57c73ea12f2cab2980c3c3d649e89f6d82f190f74bbe2b67f2f5e39ab7d032ece47086400ca05396758aace13299da49aca43ea643d2625e62c506267a169.js"
   integrity="sha512-AKV8c&#43;oS8sqymAw8PWSeifbYLxkPdLvitn8vXjmrfQMuzkcIZADKBTlnWKrOEymdpJrKQ&#43;pkPSYl5ixQYmehaQ=="
   data-blur-id="menu-blur"></script>
 
@@ -3202,7 +3202,7 @@
     
     <img
       id="background-image"
-      src="/JZ/guides/202310-blowfish-tutorial/background_hu_b66fcc901d6509e4.jpg"
+      src="/alisont/guides/202310-blowfish-tutorial/background_hu_b66fcc901d6509e4.jpg"
       role="presentation"
       loading="eager"
       decoding="async"
@@ -3223,11 +3223,11 @@
     
     <script
       type="text/javascript"
-      src="/JZ/js/background-blur.min.00a57c73ea12f2cab2980c3c3d649e89f6d82f190f74bbe2b67f2f5e39ab7d032ece47086400ca05396758aace13299da49aca43ea643d2625e62c506267a169.js"
+      src="/alisont/js/background-blur.min.00a57c73ea12f2cab2980c3c3d649e89f6d82f190f74bbe2b67f2f5e39ab7d032ece47086400ca05396758aace13299da49aca43ea643d2625e62c506267a169.js"
       integrity="sha512-AKV8c&#43;oS8sqymAw8PWSeifbYLxkPdLvitn8vXjmrfQMuzkcIZADKBTlnWKrOEymdpJrKQ&#43;pkPSYl5ixQYmehaQ=="
       data-blur-id="background-blur"
       data-image-id="background-image"
-      data-image-url="/JZ/guides/202310-blowfish-tutorial/background_hu_b66fcc901d6509e4.jpg"></script>
+      data-image-url="/alisont/guides/202310-blowfish-tutorial/background_hu_b66fcc901d6509e4.jpg"></script>
   
       
     
@@ -3243,21 +3243,21 @@
     
   
   <li class="hidden">
-    <a class="hover:underline decoration-neutral-300 dark:underline-neutral-600" href="/JZ/zh-cn/"
+    <a class="hover:underline decoration-neutral-300 dark:underline-neutral-600" href="/alisont/zh-cn/"
       >欢迎来到 Blowfish! :tada:</a
     ><span class="px-1 text-primary-500">/</span>
   </li>
 
   
   <li class="inline">
-    <a class="hover:underline decoration-neutral-300 dark:underline-neutral-600" href="/JZ/zh-cn/guides/"
+    <a class="hover:underline decoration-neutral-300 dark:underline-neutral-600" href="/alisont/zh-cn/guides/"
       >使用指南</a
     ><span class="px-1 text-primary-500">/</span>
   </li>
 
   
   <li class="hidden">
-    <a class="hover:underline decoration-neutral-300 dark:underline-neutral-600" href="/JZ/zh-cn/guides/202310-blowfish-tutorial/"
+    <a class="hover:underline decoration-neutral-300 dark:underline-neutral-600" href="/alisont/zh-cn/guides/202310-blowfish-tutorial/"
       >使用 Blowfish和 Hugo 构建你的主页</a
     ><span class="px-1 text-primary-500">/</span>
   </li>
@@ -3362,7 +3362,7 @@
           
             
               
-              <a href="/JZ/zh-cn/authors/nunocoracao/" class="relative">Nuno Coração</a>
+              <a href="/alisont/zh-cn/authors/nunocoracao/" class="relative">Nuno Coração</a>
             
           
         
@@ -3385,7 +3385,7 @@
         
           
             
-              <a class="relative mt-[0.5rem] me-2" href="/JZ/zh-cn/categories/%E5%BC%80%E6%BA%90/">
+              <a class="relative mt-[0.5rem] me-2" href="/alisont/zh-cn/categories/%E5%BC%80%E6%BA%90/">
                 <span class="flex cursor-pointer">
   <span
     class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
@@ -3395,7 +3395,7 @@
 
               </a>
             
-              <a class="relative mt-[0.5rem] me-2" href="/JZ/zh-cn/categories/blowfish/">
+              <a class="relative mt-[0.5rem] me-2" href="/alisont/zh-cn/categories/blowfish/">
                 <span class="flex cursor-pointer">
   <span
     class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
@@ -3413,7 +3413,7 @@
         
           
             
-              <a class="relative mt-[0.5rem] me-2" href="/JZ/zh-cn/tags/%E6%8C%87%E5%8D%97/">
+              <a class="relative mt-[0.5rem] me-2" href="/alisont/zh-cn/tags/%E6%8C%87%E5%8D%97/">
                 <span class="flex cursor-pointer">
   <span
     class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
@@ -3423,7 +3423,7 @@
 
               </a>
             
-              <a class="relative mt-[0.5rem] me-2" href="/JZ/zh-cn/tags/blowfish/">
+              <a class="relative mt-[0.5rem] me-2" href="/alisont/zh-cn/tags/blowfish/">
                 <span class="flex cursor-pointer">
   <span
     class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
@@ -3433,7 +3433,7 @@
 
               </a>
             
-              <a class="relative mt-[0.5rem] me-2" href="/JZ/zh-cn/tags/hugo/">
+              <a class="relative mt-[0.5rem] me-2" href="/alisont/zh-cn/tags/hugo/">
                 <span class="flex cursor-pointer">
   <span
     class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
@@ -3502,8 +3502,8 @@
         width="96"
         height="96"
         alt=" Author"
-        src="/JZ/img/nuno_avatar_hu_bb6b248dd4425805.jpg"
-        data-zoom-src="/JZ/img/nuno_avatar_hu_300c620bfec1ac0.jpg" />
+        src="/alisont/img/nuno_avatar_hu_bb6b248dd4425805.jpg"
+        data-zoom-src="/alisont/img/nuno_avatar_hu_300c620bfec1ac0.jpg" />
     
   
   <div class="place-self-center">
@@ -3513,7 +3513,7 @@
         作者
       </div>
       <a
-        href="https://juzhyo.github.io/JZ/zh-cn/authors/nunocoracao/"
+        href="https://juzhyo.github.io/alisont/zh-cn/authors/nunocoracao/"
         class="font-semibold leading-6 text-neutral-800 dark:text-neutral-300">
         Nuno Coração
       </a>
@@ -3859,7 +3859,7 @@
         <div class="article-content max-w-prose mb-20">
           <p>一年前我创建了 <a href="https://blowfish.page/"  target="_blank" rel="noreferrer">Blowfish</a>，这是一个为了打造我的个人主页而精心设计的 <a href="https://gohugo.io/"  target="_blank" rel="noreferrer">Hugo</a> 主题。我决定将其作为一个开源项目。直到今天，Blowfish 已经变成了一个蓬勃发展的开源项目，在 GitHub 上拥有超过900个 star 和数百名用户。在本教程中，我将向你展示如何搭建并在几分钟内让你的网站运行起来。</p>
 <div class="github-card-wrapper">
-    <a id="github-0219f232e0c2bfd38633964d8dc2d327" target="_blank" href="https://github.com/nunocoracao/blowfish" class="cursor-pointer">
+    <a id="github-924c5caaf02cc3fc60e1f0dcbca9bfb5" target="_blank" href="https://github.com/nunocoracao/blowfish" class="cursor-pointer">
       <div
         class="w-full md:w-auto p-0 m-0 border border-neutral-200 dark:border-neutral-700 border rounded-md shadow-2xl"><div class="w-full nozoom">
             <img
@@ -3873,13 +3873,13 @@
 </span>
             </span>
             <div
-              id="github-0219f232e0c2bfd38633964d8dc2d327-full_name"
+              id="github-924c5caaf02cc3fc60e1f0dcbca9bfb5-full_name"
               class="m-0 font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral">
               nunocoracao/blowfish
             </div>
           </div>
 
-          <p id="github-0219f232e0c2bfd38633964d8dc2d327-description" class="m-0 mt-2 text-md text-neutral-800 dark:text-neutral">
+          <p id="github-924c5caaf02cc3fc60e1f0dcbca9bfb5-description" class="m-0 mt-2 text-md text-neutral-800 dark:text-neutral">
             Personal Website &amp; Blog Theme for Hugo
           </p>
 
@@ -3892,14 +3892,14 @@
             <span class="text-md mr-1 text-neutral-800 dark:text-neutral">
               <span class="relative block icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path fill="currentColor" d="M287.9 0C297.1 0 305.5 5.25 309.5 13.52L378.1 154.8L531.4 177.5C540.4 178.8 547.8 185.1 550.7 193.7C553.5 202.4 551.2 211.9 544.8 218.2L433.6 328.4L459.9 483.9C461.4 492.9 457.7 502.1 450.2 507.4C442.8 512.7 432.1 513.4 424.9 509.1L287.9 435.9L150.1 509.1C142.9 513.4 133.1 512.7 125.6 507.4C118.2 502.1 114.5 492.9 115.1 483.9L142.2 328.4L31.11 218.2C24.65 211.9 22.36 202.4 25.2 193.7C28.03 185.1 35.5 178.8 44.49 177.5L197.7 154.8L266.3 13.52C270.4 5.249 278.7 0 287.9 0L287.9 0zM287.9 78.95L235.4 187.2C231.9 194.3 225.1 199.3 217.3 200.5L98.98 217.9L184.9 303C190.4 308.5 192.9 316.4 191.6 324.1L171.4 443.7L276.6 387.5C283.7 383.7 292.2 383.7 299.2 387.5L404.4 443.7L384.2 324.1C382.9 316.4 385.5 308.5 391 303L476.9 217.9L358.6 200.5C350.7 199.3 343.9 194.3 340.5 187.2L287.9 78.95z"/></svg></span>
             </span>
-            <div id="github-0219f232e0c2bfd38633964d8dc2d327-stargazers" class="m-0 mr-5 text-md text-neutral-800 dark:text-neutral">
+            <div id="github-924c5caaf02cc3fc60e1f0dcbca9bfb5-stargazers" class="m-0 mr-5 text-md text-neutral-800 dark:text-neutral">
               2663
             </div>
 
             <span class="text-md mr-1 text-neutral-800 dark:text-neutral">
               <span class="relative block icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M80 104c13.3 0 24-10.7 24-24s-10.7-24-24-24S56 66.7 56 80s10.7 24 24 24zm80-24c0 32.8-19.7 61-48 73.3V192c0 17.7 14.3 32 32 32H304c17.7 0 32-14.3 32-32V153.3C307.7 141 288 112.8 288 80c0-44.2 35.8-80 80-80s80 35.8 80 80c0 32.8-19.7 61-48 73.3V192c0 53-43 96-96 96H256v70.7c28.3 12.3 48 40.5 48 73.3c0 44.2-35.8 80-80 80s-80-35.8-80-80c0-32.8 19.7-61 48-73.3V288H144c-53 0-96-43-96-96V153.3C19.7 141 0 112.8 0 80C0 35.8 35.8 0 80 0s80 35.8 80 80zm208 24c13.3 0 24-10.7 24-24s-10.7-24-24-24s-24 10.7-24 24s10.7 24 24 24zM248 432c0-13.3-10.7-24-24-24s-24 10.7-24 24s10.7 24 24 24s24-10.7 24-24z"/></svg></span>
             </span>
-            <div id="github-0219f232e0c2bfd38633964d8dc2d327-forks" class="m-0 mr-5 text-md text-neutral-800 dark:text-neutral">
+            <div id="github-924c5caaf02cc3fc60e1f0dcbca9bfb5-forks" class="m-0 mr-5 text-md text-neutral-800 dark:text-neutral">
               698
             </div>
           </div>
@@ -3910,10 +3910,10 @@
       <script
         async
         type="text/javascript"
-        src="/JZ/js/fetch-repo.min.dc5533c50cefd50405344b235937142271f26229fe39cbee27fd4960e8bb897a0beebfad77a1091ca91cd0d1fb14e70fc37cc114dd9674fb2c32e0ab512ec8a4.js"
+        src="/alisont/js/fetch-repo.min.dc5533c50cefd50405344b235937142271f26229fe39cbee27fd4960e8bb897a0beebfad77a1091ca91cd0d1fb14e70fc37cc114dd9674fb2c32e0ab512ec8a4.js"
         integrity="sha512-3FUzxQzv1QQFNEsjWTcUInHyYin&#43;OcvuJ/1JYOi7iXoL7r&#43;td6EJHKkc0NH7FOcPw3zBFN2WdPssMuCrUS7IpA=="
         data-repo-url="https://api.github.com/repos/nunocoracao/blowfish"
-        data-repo-id="github-0219f232e0c2bfd38633964d8dc2d327"></script>
+        data-repo-id="github-924c5caaf02cc3fc60e1f0dcbca9bfb5"></script>
     </a>
   </div>
 
@@ -3935,10 +3935,10 @@
     alt="指南示例"
     width="1556"
     height="1091"
-    src="/JZ/guides/202310-blowfish-tutorial/img/01_hu_d40bc9cbeb270f4c.png"
-    srcset="/JZ/guides/202310-blowfish-tutorial/img/01_hu_d40bc9cbeb270f4c.png 800w, /JZ/guides/202310-blowfish-tutorial/img/01_hu_45a669a638d74e0.png 1280w"
+    src="/alisont/guides/202310-blowfish-tutorial/img/01_hu_d40bc9cbeb270f4c.png"
+    srcset="/alisont/guides/202310-blowfish-tutorial/img/01_hu_d40bc9cbeb270f4c.png 800w, /alisont/guides/202310-blowfish-tutorial/img/01_hu_45a669a638d74e0.png 1280w"
     sizes="(min-width: 768px) 50vw, 65vw"
-    data-zoom-src="/JZ/guides/202310-blowfish-tutorial/img/01.png"></figure>
+    data-zoom-src="/alisont/guides/202310-blowfish-tutorial/img/01.png"></figure>
 <p>视觉风格只是 Blowfish 提供的众多特性之一。想要了解更多，我们鼓励你浏览<a href="https://blowfish.page/"  target="_blank" rel="noreferrer">文档</a>，学习如何根据自己的需求自定义主题。另外，已经有许多其他用户使用该主题并提供了十分优秀的<a href="https://blowfish.page/users/"  target="_blank" rel="noreferrer">示例</a>，来为你提供灵感。Blowfish 还提供了一些额外的基于 <code>短代码</code> 的功能——你可以在<a href="https://blowfish.page/docs/shortcodes/"  target="_blank" rel="noreferrer">这里</a>查看它们以获取更多灵感。</p>
 
 <h2 class="relative group">设置你的环境
@@ -3975,10 +3975,10 @@
     alt="gh repo 创建示例"
     width="747"
     height="213"
-    src="/JZ/guides/202310-blowfish-tutorial/img/ghcreate.png"
-    srcset="/JZ/guides/202310-blowfish-tutorial/img/ghcreate.png 800w, /JZ/guides/202310-blowfish-tutorial/img/ghcreate.png 1280w"
+    src="/alisont/guides/202310-blowfish-tutorial/img/ghcreate.png"
+    srcset="/alisont/guides/202310-blowfish-tutorial/img/ghcreate.png 800w, /alisont/guides/202310-blowfish-tutorial/img/ghcreate.png 1280w"
     sizes="(min-width: 768px) 50vw, 65vw"
-    data-zoom-src="/JZ/guides/202310-blowfish-tutorial/img/ghcreate.png"></figure>
+    data-zoom-src="/alisont/guides/202310-blowfish-tutorial/img/ghcreate.png"></figure>
 <p>最后，创建一个 <strong>.gitignore</strong> 文件，它会自动排除某些文件，以防止这些文件传到远程仓库。下面的例子是我在 <strong>.gitignore</strong> 文件中添加的文件和文件夹。</p>
 <div class="highlight-wrapper"><div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl"><span class="c1">#others</span>
 </span></span><span class="line"><span class="cl">node_modules
@@ -4035,10 +4035,10 @@ The last step is to save all the changes to the repo.</p>
     alt="blowfish 空站点"
     width="1195"
     height="1085"
-    src="/JZ/guides/202310-blowfish-tutorial/img/blowfishempty_hu_8381b34b7c1db49c.png"
-    srcset="/JZ/guides/202310-blowfish-tutorial/img/blowfishempty_hu_8381b34b7c1db49c.png 800w, /JZ/guides/202310-blowfish-tutorial/img/blowfishempty.png 1280w"
+    src="/alisont/guides/202310-blowfish-tutorial/img/blowfishempty_hu_8381b34b7c1db49c.png"
+    srcset="/alisont/guides/202310-blowfish-tutorial/img/blowfishempty_hu_8381b34b7c1db49c.png 800w, /alisont/guides/202310-blowfish-tutorial/img/blowfishempty.png 1280w"
     sizes="(min-width: 768px) 50vw, 65vw"
-    data-zoom-src="/JZ/guides/202310-blowfish-tutorial/img/blowfishempty.png"></figure>
+    data-zoom-src="/alisont/guides/202310-blowfish-tutorial/img/blowfishempty.png"></figure>
 <p>现在我们来配置主题。</p>
 
   
@@ -4116,10 +4116,10 @@ The last step is to save all the changes to the repo.</p>
     alt="profile"
     width="728"
     height="800"
-    src="/JZ/guides/202310-blowfish-tutorial/img/profile.jpg"
-    srcset="/JZ/guides/202310-blowfish-tutorial/img/profile.jpg 800w, /JZ/guides/202310-blowfish-tutorial/img/profile.jpg 1280w"
+    src="/alisont/guides/202310-blowfish-tutorial/img/profile.jpg"
+    srcset="/alisont/guides/202310-blowfish-tutorial/img/profile.jpg 800w, /alisont/guides/202310-blowfish-tutorial/img/profile.jpg 1280w"
     sizes="(min-width: 768px) 50vw, 65vw"
-    data-zoom-src="/JZ/guides/202310-blowfish-tutorial/img/profile.jpg"><figcaption>assets/profile.jpg</figcaption></figure>
+    data-zoom-src="/alisont/guides/202310-blowfish-tutorial/img/profile.jpg"><figcaption>assets/profile.jpg</figcaption></figure>
 <p>最后一步是配置你的链接——社交媒体、GitHub 等等。该文件包含了所有支持的链接选项，不过他们被注释掉了。你可以将你希望展示的个人链接的配置项接触注释，也可以替换他们的展示顺序。</p>
 
 <h3 class="relative group">params.toml
@@ -4142,10 +4142,10 @@ The last step is to save all the changes to the repo.</p>
     alt="background"
     width="800"
     height="530"
-    src="/JZ/guides/202310-blowfish-tutorial/img/background.jpg"
-    srcset="/JZ/guides/202310-blowfish-tutorial/img/background.jpg 800w, /JZ/guides/202310-blowfish-tutorial/img/background.jpg 1280w"
+    src="/alisont/guides/202310-blowfish-tutorial/img/background.jpg"
+    srcset="/alisont/guides/202310-blowfish-tutorial/img/background.jpg 800w, /alisont/guides/202310-blowfish-tutorial/img/background.jpg 1280w"
     sizes="(min-width: 768px) 50vw, 65vw"
-    data-zoom-src="/JZ/guides/202310-blowfish-tutorial/img/background.jpg"><figcaption>assets/image.jpg</figcaption></figure>
+    data-zoom-src="/alisont/guides/202310-blowfish-tutorial/img/background.jpg"><figcaption>assets/image.jpg</figcaption></figure>
 <p>现在让我们打开 <em>params.toml</em> 并开始配置。在这里我只会关注需要修改的值，不要再没看文档的情况下，删除此文件的其余部分。</p>
 <p>首先让我们确保上面提到的正确的颜色方案，开启图片优化，并设置默认背景图片。</p>
 <div class="highlight-wrapper"><div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl"><span class="nv">colorScheme</span> <span class="o">=</span> <span class="s2">&#34;neon&#34;</span>
@@ -4188,10 +4188,10 @@ If you run <strong>hugo server</strong> again, you should see something like the
     alt="blowfish 没有文章"
     width="1571"
     height="1093"
-    src="/JZ/guides/202310-blowfish-tutorial/img/blowfishnoarticles_hu_b954410cbf894e18.png"
-    srcset="/JZ/guides/202310-blowfish-tutorial/img/blowfishnoarticles_hu_b954410cbf894e18.png 800w, /JZ/guides/202310-blowfish-tutorial/img/blowfishnoarticles_hu_b4cc5dfc4c80726a.png 1280w"
+    src="/alisont/guides/202310-blowfish-tutorial/img/blowfishnoarticles_hu_b954410cbf894e18.png"
+    srcset="/alisont/guides/202310-blowfish-tutorial/img/blowfishnoarticles_hu_b954410cbf894e18.png 800w, /alisont/guides/202310-blowfish-tutorial/img/blowfishnoarticles_hu_b4cc5dfc4c80726a.png 1280w"
     sizes="(min-width: 768px) 50vw, 65vw"
-    data-zoom-src="/JZ/guides/202310-blowfish-tutorial/img/blowfishnoarticles.png"></figure>
+    data-zoom-src="/alisont/guides/202310-blowfish-tutorial/img/blowfishnoarticles.png"></figure>
 
 <h2 class="relative group">在你的网站中添加内容
     <div id="在你的网站中添加内容" class="anchor"></div>
@@ -4223,12 +4223,12 @@ If you run <strong>hugo server</strong> again, you should see something like the
   
   
   <div class="width-patch"></div>
-<div id="gallery-9fd6897d9ef586434606e0660d0f5ab0" class="gallery">
+<div id="gallery-0906b7089b265c6468a74da3d8d9bbf2" class="gallery">
   
-  <img src="/JZ/guides/202310-blowfish-tutorial/img/blowfishrecent.png" class="grid-w50" />
-  <img src="/JZ/guides/202310-blowfish-tutorial/img/article.png" class="grid-w50" />
-  <img src="/JZ/guides/202310-blowfish-tutorial/img/search.png" class="grid-w50" />
-  <img src="/JZ/guides/202310-blowfish-tutorial/img/tag.png" class="grid-w50" />
+  <img src="/alisont/guides/202310-blowfish-tutorial/img/blowfishrecent.png" class="grid-w50" />
+  <img src="/alisont/guides/202310-blowfish-tutorial/img/article.png" class="grid-w50" />
+  <img src="/alisont/guides/202310-blowfish-tutorial/img/search.png" class="grid-w50" />
+  <img src="/alisont/guides/202310-blowfish-tutorial/img/tag.png" class="grid-w50" />
 </div>
 
 
@@ -4256,10 +4256,10 @@ If you run <strong>hugo server</strong> again, you should see something like the
     alt="firebase 初始化"
     width="1243"
     height="311"
-    src="/JZ/guides/202310-blowfish-tutorial/img/firebasecli_hu_ce7fb32553c4646.png"
-    srcset="/JZ/guides/202310-blowfish-tutorial/img/firebasecli_hu_ce7fb32553c4646.png 800w, /JZ/guides/202310-blowfish-tutorial/img/firebasecli.png 1280w"
+    src="/alisont/guides/202310-blowfish-tutorial/img/firebasecli_hu_ce7fb32553c4646.png"
+    srcset="/alisont/guides/202310-blowfish-tutorial/img/firebasecli_hu_ce7fb32553c4646.png 800w, /alisont/guides/202310-blowfish-tutorial/img/firebasecli.png 1280w"
     sizes="(min-width: 768px) 50vw, 65vw"
-    data-zoom-src="/JZ/guides/202310-blowfish-tutorial/img/firebasecli.png"></figure>
+    data-zoom-src="/alisont/guides/202310-blowfish-tutorial/img/firebasecli.png"></figure>
 <p>按照下面的图片进行，这是我推荐的方式。确保设置了 GitHub actions 工作流文件。这将保证你的 GitHub 仓库一旦有变化，就会立刻同步部署。</p>
 <figure><img
     class="my-0 rounded-md"
@@ -4269,10 +4269,10 @@ If you run <strong>hugo server</strong> again, you should see something like the
     alt="firebase 选项"
     width="1238"
     height="806"
-    src="/JZ/guides/202310-blowfish-tutorial/img/firebaseoptions_hu_2dc7c7065d728648.png"
-    srcset="/JZ/guides/202310-blowfish-tutorial/img/firebaseoptions_hu_2dc7c7065d728648.png 800w, /JZ/guides/202310-blowfish-tutorial/img/firebaseoptions.png 1280w"
+    src="/alisont/guides/202310-blowfish-tutorial/img/firebaseoptions_hu_2dc7c7065d728648.png"
+    srcset="/alisont/guides/202310-blowfish-tutorial/img/firebaseoptions_hu_2dc7c7065d728648.png 800w, /alisont/guides/202310-blowfish-tutorial/img/firebaseoptions.png 1280w"
     sizes="(min-width: 768px) 50vw, 65vw"
-    data-zoom-src="/JZ/guides/202310-blowfish-tutorial/img/firebaseoptions.png"></figure>
+    data-zoom-src="/alisont/guides/202310-blowfish-tutorial/img/firebaseoptions.png"></figure>
 <p>然而，这些文件不会立刻开始运行，因为 Hugo 需要额外的步骤来提前构建。将下面的代码复制并粘贴到 <strong>.github</strong> 文件夹，同时保留文件中 firebase 生成的<strong>projectId</strong>。</p>
 
 <h3 class="relative group">firebase-hosting-merge.yml
@@ -4380,10 +4380,10 @@ If you run <strong>hugo server</strong> again, you should see something like the
     alt="gh actions"
     width="1548"
     height="859"
-    src="/JZ/guides/202310-blowfish-tutorial/img/githubactions_hu_372743dc79e52a21.png"
-    srcset="/JZ/guides/202310-blowfish-tutorial/img/githubactions_hu_372743dc79e52a21.png 800w, /JZ/guides/202310-blowfish-tutorial/img/githubactions_hu_42664d9dcb86e413.png 1280w"
+    src="/alisont/guides/202310-blowfish-tutorial/img/githubactions_hu_372743dc79e52a21.png"
+    srcset="/alisont/guides/202310-blowfish-tutorial/img/githubactions_hu_372743dc79e52a21.png 800w, /alisont/guides/202310-blowfish-tutorial/img/githubactions_hu_42664d9dcb86e413.png 1280w"
     sizes="(min-width: 768px) 50vw, 65vw"
-    data-zoom-src="/JZ/guides/202310-blowfish-tutorial/img/githubactions.png"></figure>
+    data-zoom-src="/alisont/guides/202310-blowfish-tutorial/img/githubactions.png"></figure>
 <p>当所有步骤完成之后，你的 Firebase 控制台将会显示类似下图的内容，包括一个可以查看网站的链接。我在<a href="https://blowfish-tutorial.web.app/"  target="_blank" rel="noreferrer">https://blowfish-tutorial.web.app/</a>中运行了这个教程。
 Once all the steps finish, your Firebase console should show something like the image below - including the links to see your app – I got a version of this tutorial running on <a href="https://blowfish-tutorial.web.app/"  target="_blank" rel="noreferrer">https://blowfish-tutorial.web.app/</a>.</p>
 <figure><img
@@ -4394,10 +4394,10 @@ Once all the steps finish, your Firebase console should show something like the 
     alt="firebase console"
     width="1567"
     height="842"
-    src="/JZ/guides/202310-blowfish-tutorial/img/firebaseconsole_hu_d5e0d1f3904eb0fe.png"
-    srcset="/JZ/guides/202310-blowfish-tutorial/img/firebaseconsole_hu_d5e0d1f3904eb0fe.png 800w, /JZ/guides/202310-blowfish-tutorial/img/firebaseconsole_hu_be40b29afeeb74ab.png 1280w"
+    src="/alisont/guides/202310-blowfish-tutorial/img/firebaseconsole_hu_d5e0d1f3904eb0fe.png"
+    srcset="/alisont/guides/202310-blowfish-tutorial/img/firebaseconsole_hu_d5e0d1f3904eb0fe.png 800w, /alisont/guides/202310-blowfish-tutorial/img/firebaseconsole_hu_be40b29afeeb74ab.png 1280w"
     sizes="(min-width: 768px) 50vw, 65vw"
-    data-zoom-src="/JZ/guides/202310-blowfish-tutorial/img/firebaseconsole.png"></figure>
+    data-zoom-src="/alisont/guides/202310-blowfish-tutorial/img/firebaseconsole.png"></figure>
 
 <h2 class="relative group">结论和下一步
     <div id="结论和下一步" class="anchor"></div>
@@ -4427,10 +4427,10 @@ Now you have your first version of your homepage. You can make changes locally a
     alt="blowfish final"
     width="1556"
     height="1091"
-    src="/JZ/guides/202310-blowfish-tutorial/img/01_hu_d40bc9cbeb270f4c.png"
-    srcset="/JZ/guides/202310-blowfish-tutorial/img/01_hu_d40bc9cbeb270f4c.png 800w, /JZ/guides/202310-blowfish-tutorial/img/01_hu_45a669a638d74e0.png 1280w"
+    src="/alisont/guides/202310-blowfish-tutorial/img/01_hu_d40bc9cbeb270f4c.png"
+    srcset="/alisont/guides/202310-blowfish-tutorial/img/01_hu_d40bc9cbeb270f4c.png 800w, /alisont/guides/202310-blowfish-tutorial/img/01_hu_45a669a638d74e0.png 1280w"
     sizes="(min-width: 768px) 50vw, 65vw"
-    data-zoom-src="/JZ/guides/202310-blowfish-tutorial/img/01.png"></figure>
+    data-zoom-src="/alisont/guides/202310-blowfish-tutorial/img/01.png"></figure>
 
           
           
@@ -4448,7 +4448,7 @@ Now you have your first version of your homepage. You can make changes locally a
         <a
           class=" m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
           target="_blank"
-          href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://juzhyo.github.io/JZ/zh-cn/guides/202310-blowfish-tutorial/&amp;title=%e4%bd%bf%e7%94%a8%20Blowfish%e5%92%8c%20Hugo%20%e6%9e%84%e5%bb%ba%e4%bd%a0%e7%9a%84%e4%b8%bb%e9%a1%b5"
+          href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://juzhyo.github.io/alisont/zh-cn/guides/202310-blowfish-tutorial/&amp;title=%e4%bd%bf%e7%94%a8%20Blowfish%e5%92%8c%20Hugo%20%e6%9e%84%e5%bb%ba%e4%bd%a0%e7%9a%84%e4%b8%bb%e9%a1%b5"
           
           title="分享到 LinkedIn"
           aria-label="分享到 LinkedIn">
@@ -4462,7 +4462,7 @@ Now you have your first version of your homepage. You can make changes locally a
         <a
           class=" m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
           target="_blank"
-          href="https://twitter.com/intent/tweet/?url=https://juzhyo.github.io/JZ/zh-cn/guides/202310-blowfish-tutorial/&amp;text=%e4%bd%bf%e7%94%a8%20Blowfish%e5%92%8c%20Hugo%20%e6%9e%84%e5%bb%ba%e4%bd%a0%e7%9a%84%e4%b8%bb%e9%a1%b5"
+          href="https://twitter.com/intent/tweet/?url=https://juzhyo.github.io/alisont/zh-cn/guides/202310-blowfish-tutorial/&amp;text=%e4%bd%bf%e7%94%a8%20Blowfish%e5%92%8c%20Hugo%20%e6%9e%84%e5%bb%ba%e4%bd%a0%e7%9a%84%e4%b8%bb%e9%a1%b5"
           
           title="分享到 Twitter"
           aria-label="分享到 Twitter">
@@ -4475,7 +4475,7 @@ Now you have your first version of your homepage. You can make changes locally a
         <a
           class=" m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
           target="_blank"
-          href="https://bsky.app/intent/compose?text=%e4%bd%bf%e7%94%a8%20Blowfish%e5%92%8c%20Hugo%20%e6%9e%84%e5%bb%ba%e4%bd%a0%e7%9a%84%e4%b8%bb%e9%a1%b5&#43;https://juzhyo.github.io/JZ/zh-cn/guides/202310-blowfish-tutorial/"
+          href="https://bsky.app/intent/compose?text=%e4%bd%bf%e7%94%a8%20Blowfish%e5%92%8c%20Hugo%20%e6%9e%84%e5%bb%ba%e4%bd%a0%e7%9a%84%e4%b8%bb%e9%a1%b5&#43;https://juzhyo.github.io/alisont/zh-cn/guides/202310-blowfish-tutorial/"
           
           title="发布到 Bluesky"
           aria-label="发布到 Bluesky">
@@ -4488,7 +4488,7 @@ Now you have your first version of your homepage. You can make changes locally a
         <a
           class=" m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
           target="_blank"
-          href="https://reddit.com/submit/?url=https://juzhyo.github.io/JZ/zh-cn/guides/202310-blowfish-tutorial/&amp;resubmit=true&amp;title=%e4%bd%bf%e7%94%a8%20Blowfish%e5%92%8c%20Hugo%20%e6%9e%84%e5%bb%ba%e4%bd%a0%e7%9a%84%e4%b8%bb%e9%a1%b5"
+          href="https://reddit.com/submit/?url=https://juzhyo.github.io/alisont/zh-cn/guides/202310-blowfish-tutorial/&amp;resubmit=true&amp;title=%e4%bd%bf%e7%94%a8%20Blowfish%e5%92%8c%20Hugo%20%e6%9e%84%e5%bb%ba%e4%bd%a0%e7%9a%84%e4%b8%bb%e9%a1%b5"
           
           title="提交到 Reddit"
           aria-label="提交到 Reddit">
@@ -4502,7 +4502,7 @@ Now you have your first version of your homepage. You can make changes locally a
         <a
           class=" m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
           target="_blank"
-          href="https://api.whatsapp.com/send?text=https://juzhyo.github.io/JZ/zh-cn/guides/202310-blowfish-tutorial/&amp;resubmit=true&amp;title=%e4%bd%bf%e7%94%a8%20Blowfish%e5%92%8c%20Hugo%20%e6%9e%84%e5%bb%ba%e4%bd%a0%e7%9a%84%e4%b8%bb%e9%a1%b5"
+          href="https://api.whatsapp.com/send?text=https://juzhyo.github.io/alisont/zh-cn/guides/202310-blowfish-tutorial/&amp;resubmit=true&amp;title=%e4%bd%bf%e7%94%a8%20Blowfish%e5%92%8c%20Hugo%20%e6%9e%84%e5%bb%ba%e4%bd%a0%e7%9a%84%e4%b8%bb%e9%a1%b5"
           
           title="通过 WhatsApp 分享"
           aria-label="通过 WhatsApp 分享">
@@ -4516,7 +4516,7 @@ Now you have your first version of your homepage. You can make changes locally a
         <a
           class=" m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
           target="_blank"
-          href="https://t.me/share/url?url=https://juzhyo.github.io/JZ/zh-cn/guides/202310-blowfish-tutorial/&amp;resubmit=true&amp;title=%e4%bd%bf%e7%94%a8%20Blowfish%e5%92%8c%20Hugo%20%e6%9e%84%e5%bb%ba%e4%bd%a0%e7%9a%84%e4%b8%bb%e9%a1%b5"
+          href="https://t.me/share/url?url=https://juzhyo.github.io/alisont/zh-cn/guides/202310-blowfish-tutorial/&amp;resubmit=true&amp;title=%e4%bd%bf%e7%94%a8%20Blowfish%e5%92%8c%20Hugo%20%e6%9e%84%e5%bb%ba%e4%bd%a0%e7%9a%84%e4%b8%bb%e9%a1%b5"
           
           title="通过 Telegram 分享"
           aria-label="通过 Telegram 分享">
@@ -4530,7 +4530,7 @@ Now you have your first version of your homepage. You can make changes locally a
         <a
           class=" m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
           target="_blank"
-          href="https://pinterest.com/pin/create/bookmarklet/?url=https://juzhyo.github.io/JZ/zh-cn/guides/202310-blowfish-tutorial/&amp;description=%e4%bd%bf%e7%94%a8%20Blowfish%e5%92%8c%20Hugo%20%e6%9e%84%e5%bb%ba%e4%bd%a0%e7%9a%84%e4%b8%bb%e9%a1%b5"
+          href="https://pinterest.com/pin/create/bookmarklet/?url=https://juzhyo.github.io/alisont/zh-cn/guides/202310-blowfish-tutorial/&amp;description=%e4%bd%bf%e7%94%a8%20Blowfish%e5%92%8c%20Hugo%20%e6%9e%84%e5%bb%ba%e4%bd%a0%e7%9a%84%e4%b8%bb%e9%a1%b5"
           
           title="钉到 Pinterest"
           aria-label="钉到 Pinterest">
@@ -4544,7 +4544,7 @@ Now you have your first version of your homepage. You can make changes locally a
         <a
           class=" m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
           target="_blank"
-          href="https://www.facebook.com/sharer/sharer.php?u=https://juzhyo.github.io/JZ/zh-cn/guides/202310-blowfish-tutorial/&amp;quote=%e4%bd%bf%e7%94%a8%20Blowfish%e5%92%8c%20Hugo%20%e6%9e%84%e5%bb%ba%e4%bd%a0%e7%9a%84%e4%b8%bb%e9%a1%b5"
+          href="https://www.facebook.com/sharer/sharer.php?u=https://juzhyo.github.io/alisont/zh-cn/guides/202310-blowfish-tutorial/&amp;quote=%e4%bd%bf%e7%94%a8%20Blowfish%e5%92%8c%20Hugo%20%e6%9e%84%e5%bb%ba%e4%bd%a0%e7%9a%84%e4%b8%bb%e9%a1%b5"
           
           title="分享到 Facebook"
           aria-label="分享到 Facebook">
@@ -4575,7 +4575,7 @@ Now you have your first version of your homepage. You can make changes locally a
         <a
           class=" m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
           target="_blank"
-          href="https://line.me/R/share?text=https://juzhyo.github.io/JZ/zh-cn/guides/202310-blowfish-tutorial/%20%e4%bd%bf%e7%94%a8%20Blowfish%e5%92%8c%20Hugo%20%e6%9e%84%e5%bb%ba%e4%bd%a0%e7%9a%84%e4%b8%bb%e9%a1%b5"
+          href="https://line.me/R/share?text=https://juzhyo.github.io/alisont/zh-cn/guides/202310-blowfish-tutorial/%20%e4%bd%bf%e7%94%a8%20Blowfish%e5%92%8c%20Hugo%20%e6%9e%84%e5%bb%ba%e4%bd%a0%e7%9a%84%e4%b8%bb%e9%a1%b5"
           
           title="分享到 LINE"
           aria-label="分享到 LINE">
@@ -4637,7 +4637,7 @@ Now you have your first version of your homepage. You can make changes locally a
   
     <div class="flex-none relative overflow-hidden thumbnail_card_related">
       <img
-        src="/JZ/img/featured.svg"
+        src="/alisont/img/featured.svg"
         role="presentation"
         loading="lazy"
         decoding="async"
@@ -4650,7 +4650,7 @@ Now you have your first version of your homepage. You can make changes locally a
     <header>
       <a
         
-          href="/JZ/zh-cn/samples/multiple-authors/"
+          href="/alisont/zh-cn/samples/multiple-authors/"
         
         class="not-prose before:absolute before:inset-0 decoration-primary-500 dark:text-neutral text-xl font-bold text-neutral-800 hover:underline hover:underline-offset-2">
         <h2>
@@ -4764,12 +4764,12 @@ Now you have your first version of your homepage. You can make changes locally a
           
             
               
-              <a href="/JZ/zh-cn/authors/nunocoracao/" class="relative">Nuno Coração</a>
+              <a href="/alisont/zh-cn/authors/nunocoracao/" class="relative">Nuno Coração</a>
             
               
                 ,&nbsp;
               
-              <a href="/JZ/zh-cn/authors/secondauthor/" class="relative">Dummy Second Author</a>
+              <a href="/alisont/zh-cn/authors/secondauthor/" class="relative">Dummy Second Author</a>
             
           
         
@@ -4798,7 +4798,7 @@ Now you have your first version of your homepage. You can make changes locally a
         
           
             
-              <a class="relative mt-[0.5rem] me-2" href="/JZ/zh-cn/tags/%E4%BD%9C%E8%80%85/">
+              <a class="relative mt-[0.5rem] me-2" href="/alisont/zh-cn/tags/%E4%BD%9C%E8%80%85/">
                 <span class="flex cursor-pointer">
   <span
     class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
@@ -4808,7 +4808,7 @@ Now you have your first version of your homepage. You can make changes locally a
 
               </a>
             
-              <a class="relative mt-[0.5rem] me-2" href="/JZ/zh-cn/tags/%E7%A4%BA%E4%BE%8B/">
+              <a class="relative mt-[0.5rem] me-2" href="/alisont/zh-cn/tags/%E7%A4%BA%E4%BE%8B/">
                 <span class="flex cursor-pointer">
   <span
     class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
@@ -4876,7 +4876,7 @@ Now you have your first version of your homepage. You can make changes locally a
   
     <div class="flex-none relative overflow-hidden thumbnail_card_related">
       <img
-        src="/JZ/docs/multi-author/featured.svg"
+        src="/alisont/catalogue/multi-author/featured.svg"
         role="presentation"
         loading="lazy"
         decoding="async"
@@ -4889,232 +4889,7 @@ Now you have your first version of your homepage. You can make changes locally a
     <header>
       <a
         
-          href="/JZ/zh-cn/docs/multi-author/"
-        
-        class="not-prose before:absolute before:inset-0 decoration-primary-500 dark:text-neutral text-xl font-bold text-neutral-800 hover:underline hover:underline-offset-2">
-        <h2>
-          多创作者模式
-          
-        </h2>
-      </a>
-    </header>
-    <div class="text-sm text-neutral-500 dark:text-neutral-400">
-      
-
-
-
-
-
-
-
-  
-
-  
-  
-  
-    
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-    
-  
-
-  
-    
-  
-
-  
-
-  
-
-  
-
-  
-
-
-  <div class="flex flex-row flex-wrap items-center">
-    
-    
-      <span title="预计阅读">3 分钟</span><span class="px-2 text-primary-500">&middot;</span><span>
-  
-  
-    
-    
-      
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-      
-    
-  
-  <span
-    id="views_docs/multi-author/index.md"
-    class="animate-pulse inline-block text-transparent max-h-3 rounded-full -mt-[2px] align-middle bg-neutral-300 dark:bg-neutral-400"
-    title="views"
-    >loading</span
-  >
-  <span class="inline-block align-text-bottom"><span class="relative block icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512">
-<path fill="currentColor" d="M288 32c-80.8 0-145.5 36.8-192.6 80.6C48.6 156 17.3 208 2.5 243.7c-3.3 7.9-3.3 16.7 0 24.6C17.3 304 48.6 356 95.4 399.4C142.5 443.2 207.2 480 288 480s145.5-36.8 192.6-80.6c46.8-43.5 78.1-95.4 93-131.1c3.3-7.9 3.3-16.7 0-24.6c-14.9-35.7-46.2-87.7-93-131.1C433.5 68.8 368.8 32 288 32zM432 256c0 79.5-64.5 144-144 144s-144-64.5-144-144s64.5-144 144-144s144 64.5 144 144zM288 192c0 35.3-28.7 64-64 64c-11.5 0-22.3-3-31.6-8.4c-.2 2.8-.4 5.5-.4 8.4c0 53 43 96 96 96s96-43 96-96s-43-96-96-96c-2.8 0-5.6 .1-8.4 .4c5.3 9.3 8.4 20.1 8.4 31.6z"/></svg></span></span>
-</span>
-
-    
-
-    
-    
-  </div>
-
-  
-
-  
-  
-    <div class="flex flex-row flex-wrap items-center">
-      
-        
-      
-        
-          
-        
-      
-        
-      
-        
-          
-            
-              <a class="relative mt-[0.5rem] me-2" href="/JZ/zh-cn/tags/%E4%BD%9C%E8%80%85/">
-                <span class="flex cursor-pointer">
-  <span
-    class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-    作者
-  </span>
-</span>
-
-              </a>
-            
-              <a class="relative mt-[0.5rem] me-2" href="/JZ/zh-cn/tags/%E9%85%8D%E7%BD%AE/">
-                <span class="flex cursor-pointer">
-  <span
-    class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-    配置
-  </span>
-</span>
-
-              </a>
-            
-              <a class="relative mt-[0.5rem] me-2" href="/JZ/zh-cn/tags/%E6%96%87%E6%A1%A3/">
-                <span class="flex cursor-pointer">
-  <span
-    class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-    文档
-  </span>
-</span>
-
-              </a>
-            
-          
-        
-      
-    </div>
-  
-
-  
-  
-
-
-
-    </div>
-    
-  </div>
-  <div class="px-6 pt-4 pb-2"></div>
-</article>
-
-      
-        
-
-
-
-
-
-
-
-  
-
-  
-  
-    
-    
-      
-    
-      
-    
-      
-    
-  
-
-  
-  
-
-  
-  
-    
-      
-      
-    
-  
-
-
-
-<article
-  class="article-link--related relative min-h-full min-w-full overflow-hidden rounded-lg border border-neutral-300 dark:border-neutral-600">
-  
-    <div class="flex-none relative overflow-hidden thumbnail_card_related">
-      <img
-        src="/JZ/catalogue/multi-author/featured.svg"
-        role="presentation"
-        loading="lazy"
-        decoding="async"
-        fetchpriority="low"
-        class="not-prose absolute inset-0 w-full h-full object-cover">
-    </div>
-  
-  
-  <div class="p-4">
-    <header>
-      <a
-        
-          href="/JZ/zh-cn/catalogue/multi-author/"
+          href="/alisont/zh-cn/catalogue/multi-author/"
         
         class="not-prose before:absolute before:inset-0 decoration-primary-500 dark:text-neutral text-xl font-bold text-neutral-800 hover:underline hover:underline-offset-2">
         <h2>
@@ -5238,7 +5013,7 @@ Now you have your first version of your homepage. You can make changes locally a
         
           
             
-              <a class="relative mt-[0.5rem] me-2" href="/JZ/zh-cn/tags/%E4%BD%9C%E8%80%85/">
+              <a class="relative mt-[0.5rem] me-2" href="/alisont/zh-cn/tags/%E4%BD%9C%E8%80%85/">
                 <span class="flex cursor-pointer">
   <span
     class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
@@ -5248,7 +5023,7 @@ Now you have your first version of your homepage. You can make changes locally a
 
               </a>
             
-              <a class="relative mt-[0.5rem] me-2" href="/JZ/zh-cn/tags/%E9%85%8D%E7%BD%AE/">
+              <a class="relative mt-[0.5rem] me-2" href="/alisont/zh-cn/tags/%E9%85%8D%E7%BD%AE/">
                 <span class="flex cursor-pointer">
   <span
     class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
@@ -5258,7 +5033,232 @@ Now you have your first version of your homepage. You can make changes locally a
 
               </a>
             
-              <a class="relative mt-[0.5rem] me-2" href="/JZ/zh-cn/tags/%E6%96%87%E6%A1%A3/">
+              <a class="relative mt-[0.5rem] me-2" href="/alisont/zh-cn/tags/%E6%96%87%E6%A1%A3/">
+                <span class="flex cursor-pointer">
+  <span
+    class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+    文档
+  </span>
+</span>
+
+              </a>
+            
+          
+        
+      
+    </div>
+  
+
+  
+  
+
+
+
+    </div>
+    
+  </div>
+  <div class="px-6 pt-4 pb-2"></div>
+</article>
+
+      
+        
+
+
+
+
+
+
+
+  
+
+  
+  
+    
+    
+      
+    
+      
+    
+      
+    
+  
+
+  
+  
+
+  
+  
+    
+      
+      
+    
+  
+
+
+
+<article
+  class="article-link--related relative min-h-full min-w-full overflow-hidden rounded-lg border border-neutral-300 dark:border-neutral-600">
+  
+    <div class="flex-none relative overflow-hidden thumbnail_card_related">
+      <img
+        src="/alisont/docs/multi-author/featured.svg"
+        role="presentation"
+        loading="lazy"
+        decoding="async"
+        fetchpriority="low"
+        class="not-prose absolute inset-0 w-full h-full object-cover">
+    </div>
+  
+  
+  <div class="p-4">
+    <header>
+      <a
+        
+          href="/alisont/zh-cn/docs/multi-author/"
+        
+        class="not-prose before:absolute before:inset-0 decoration-primary-500 dark:text-neutral text-xl font-bold text-neutral-800 hover:underline hover:underline-offset-2">
+        <h2>
+          多创作者模式
+          
+        </h2>
+      </a>
+    </header>
+    <div class="text-sm text-neutral-500 dark:text-neutral-400">
+      
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+    
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+
+  
+
+  
+
+  
+
+
+  <div class="flex flex-row flex-wrap items-center">
+    
+    
+      <span title="预计阅读">3 分钟</span><span class="px-2 text-primary-500">&middot;</span><span>
+  
+  
+    
+    
+      
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+      
+    
+  
+  <span
+    id="views_docs/multi-author/index.md"
+    class="animate-pulse inline-block text-transparent max-h-3 rounded-full -mt-[2px] align-middle bg-neutral-300 dark:bg-neutral-400"
+    title="views"
+    >loading</span
+  >
+  <span class="inline-block align-text-bottom"><span class="relative block icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512">
+<path fill="currentColor" d="M288 32c-80.8 0-145.5 36.8-192.6 80.6C48.6 156 17.3 208 2.5 243.7c-3.3 7.9-3.3 16.7 0 24.6C17.3 304 48.6 356 95.4 399.4C142.5 443.2 207.2 480 288 480s145.5-36.8 192.6-80.6c46.8-43.5 78.1-95.4 93-131.1c3.3-7.9 3.3-16.7 0-24.6c-14.9-35.7-46.2-87.7-93-131.1C433.5 68.8 368.8 32 288 32zM432 256c0 79.5-64.5 144-144 144s-144-64.5-144-144s64.5-144 144-144s144 64.5 144 144zM288 192c0 35.3-28.7 64-64 64c-11.5 0-22.3-3-31.6-8.4c-.2 2.8-.4 5.5-.4 8.4c0 53 43 96 96 96s96-43 96-96s-43-96-96-96c-2.8 0-5.6 .1-8.4 .4c5.3 9.3 8.4 20.1 8.4 31.6z"/></svg></span></span>
+</span>
+
+    
+
+    
+    
+  </div>
+
+  
+
+  
+  
+    <div class="flex flex-row flex-wrap items-center">
+      
+        
+      
+        
+          
+        
+      
+        
+      
+        
+          
+            
+              <a class="relative mt-[0.5rem] me-2" href="/alisont/zh-cn/tags/%E4%BD%9C%E8%80%85/">
+                <span class="flex cursor-pointer">
+  <span
+    class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+    作者
+  </span>
+</span>
+
+              </a>
+            
+              <a class="relative mt-[0.5rem] me-2" href="/alisont/zh-cn/tags/%E9%85%8D%E7%BD%AE/">
+                <span class="flex cursor-pointer">
+  <span
+    class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+    配置
+  </span>
+</span>
+
+              </a>
+            
+              <a class="relative mt-[0.5rem] me-2" href="/alisont/zh-cn/tags/%E6%96%87%E6%A1%A3/">
                 <span class="flex cursor-pointer">
   <span
     class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
@@ -5313,7 +5313,7 @@ Now you have your first version of your homepage. You can make changes locally a
           
             <a
               class="flex text-right text-neutral-700 hover:text-primary-600 dark:text-neutral dark:hover:text-primary-400"
-              href="/JZ/zh-cn/guides/template/">
+              href="/alisont/zh-cn/guides/template/">
               <span class="leading-6">
                 使用指南模板&ensp;<span class="inline-block rtl:rotate-180">&rarr;</span>
               </span>
@@ -5387,7 +5387,7 @@ Now you have your first version of your homepage. You can make changes locally a
 <div
   id="search-wrapper"
   class="invisible fixed inset-0 flex h-screen w-screen cursor-default flex-col bg-neutral-500/50 p-4 backdrop-blur-sm dark:bg-neutral-900/50 sm:p-6 md:p-[10vh] lg:p-[12vh] z-500"
-  data-url="https://juzhyo.github.io/JZ/zh-cn/">
+  data-url="https://juzhyo.github.io/alisont/zh-cn/">
   <div
     id="search-modal"
     class="flex flex-col w-full max-w-3xl min-h-0 mx-auto border rounded-md shadow-lg top-20 border-neutral-200 bg-neutral dark:border-neutral-700 dark:bg-neutral-800">

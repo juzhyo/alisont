@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tutorial on Blowfish</title>
-    <link>https://juzhyo.github.io/JZ/pt-pt/tags/tutorial/</link>
+    <link>https://juzhyo.github.io/alisont/pt-pt/tags/tutorial/</link>
     <description>Recent content in Tutorial on Blowfish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
     <copyright>© 2026 Blowfish</copyright>
-    <lastBuildDate>Wed, 04 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://juzhyo.github.io/JZ/pt-pt/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 04 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://juzhyo.github.io/alisont/pt-pt/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Construa a sua página inicial usando Blowfish e Hugo</title>
-      <link>https://juzhyo.github.io/JZ/pt-pt/guides/202310-blowfish-tutorial/</link>
+      <link>https://juzhyo.github.io/alisont/pt-pt/guides/202310-blowfish-tutorial/</link>
       <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://juzhyo.github.io/JZ/pt-pt/guides/202310-blowfish-tutorial/</guid>
+      <guid>https://juzhyo.github.io/alisont/pt-pt/guides/202310-blowfish-tutorial/</guid>
       <description>Há apenas um ano, criei o Blowfish, um tema Hugo criado para construir a minha visão única para a minha página inicial pessoal. Também decidi torná-lo um projeto de código aberto. Hoje, o Blowfish transformou-se num próspero projeto de código aberto com mais de 600 estrelas no GitHub e centenas de utilizadores. Neste tutorial, mostrarei como começar e ter o seu site a funcionar em alguns minutos.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://juzhyo.github.io/JZ/guides/202310-blowfish-tutorial/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://juzhyo.github.io/alisont/guides/202310-blowfish-tutorial/featured.jpg" />
     </item>
     
   </channel>

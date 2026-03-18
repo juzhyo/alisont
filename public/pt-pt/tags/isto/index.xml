@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ISTO on Blowfish</title>
-    <link>https://juzhyo.github.io/JZ/pt-pt/tags/isto/</link>
+    <link>https://juzhyo.github.io/alisont/pt-pt/tags/isto/</link>
     <description>Recent content in ISTO on Blowfish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
     <copyright>© 2026 Blowfish</copyright>
-    <atom:link href="https://juzhyo.github.io/JZ/pt-pt/tags/isto/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://juzhyo.github.io/alisont/pt-pt/tags/isto/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>GOODJINC</title>
-      <link>https://juzhyo.github.io/JZ/pt-pt/users/108-850f485eb8e81e2873f1a285e3eb0b1d/</link>
+      <link>https://juzhyo.github.io/alisont/pt-pt/users/108-850f485eb8e81e2873f1a285e3eb0b1d/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://juzhyo.github.io/JZ/pt-pt/users/108-850f485eb8e81e2873f1a285e3eb0b1d/</guid>
+      <guid>https://juzhyo.github.io/alisont/pt-pt/users/108-850f485eb8e81e2873f1a285e3eb0b1d/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://juzhyo.github.io/JZ/users/108-850f485eb8e81e2873f1a285e3eb0b1d/feature.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://juzhyo.github.io/alisont/users/108-850f485eb8e81e2873f1a285e3eb0b1d/feature.webp" />
     </item>
     
   </channel>

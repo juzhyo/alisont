@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Deployment on Blowfish</title>
-    <link>https://juzhyo.github.io/JZ/ja/tags/deployment/</link>
+    <link>https://juzhyo.github.io/alisont/ja/tags/deployment/</link>
     <description>Recent content in Deployment on Blowfish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <managingEditor>nuno@n9o.xyz (Blowfish)</managingEditor>
     <webMaster>nuno@n9o.xyz (Blowfish)</webMaster>
     <copyright>© 2026 Blowfish</copyright>
-    <atom:link href="https://juzhyo.github.io/JZ/ja/tags/deployment/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://juzhyo.github.io/alisont/ja/tags/deployment/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>ホスティングとデプロイ</title>
-      <link>https://juzhyo.github.io/JZ/ja/catalogue/hosting-deployment/</link>
+      <link>https://juzhyo.github.io/alisont/ja/catalogue/hosting-deployment/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>https://juzhyo.github.io/JZ/ja/catalogue/hosting-deployment/</guid>
+      <guid>https://juzhyo.github.io/alisont/ja/catalogue/hosting-deployment/</guid>
       <description>&lt;p&gt;Blowfish で構築された Hugo ウェブサイトをデプロイする方法はたくさんあります。このテーマは、ほとんどすべてのデプロイシナリオで柔軟に対応できるように設計されています。&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://juzhyo.github.io/JZ/catalogue/hosting-deployment/featured.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://juzhyo.github.io/alisont/catalogue/hosting-deployment/featured.svg" />
     </item>
     
     <item>
       <title>ホスティングとデプロイ</title>
-      <link>https://juzhyo.github.io/JZ/ja/docs/hosting-deployment/</link>
+      <link>https://juzhyo.github.io/alisont/ja/docs/hosting-deployment/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>https://juzhyo.github.io/JZ/ja/docs/hosting-deployment/</guid>
+      <guid>https://juzhyo.github.io/alisont/ja/docs/hosting-deployment/</guid>
       <description>&lt;p&gt;Blowfish で構築された Hugo ウェブサイトをデプロイする方法はたくさんあります。このテーマは、ほとんどすべてのデプロイシナリオで柔軟に対応できるように設計されています。&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://juzhyo.github.io/JZ/docs/hosting-deployment/featured.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://juzhyo.github.io/alisont/docs/hosting-deployment/featured.svg" />
     </item>
     
   </channel>

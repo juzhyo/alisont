@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Buch on Blowfish</title>
-    <link>https://juzhyo.github.io/JZ/de/tags/buch/</link>
+    <link>https://juzhyo.github.io/alisont/de/tags/buch/</link>
     <description>Recent content in Buch on Blowfish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <copyright>© 2026 Blowfish</copyright>
-    <atom:link href="https://juzhyo.github.io/JZ/de/tags/buch/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://juzhyo.github.io/alisont/de/tags/buch/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Handbook on Teaching Empirical Software Engineering: Online Materials</title>
-      <link>https://juzhyo.github.io/JZ/de/users/71-54b73306674ec7e6778b54a0a8b18b36/</link>
+      <link>https://juzhyo.github.io/alisont/de/users/71-54b73306674ec7e6778b54a0a8b18b36/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://juzhyo.github.io/JZ/de/users/71-54b73306674ec7e6778b54a0a8b18b36/</guid>
+      <guid>https://juzhyo.github.io/alisont/de/users/71-54b73306674ec7e6778b54a0a8b18b36/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://juzhyo.github.io/JZ/users/71-54b73306674ec7e6778b54a0a8b18b36/feature.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://juzhyo.github.io/alisont/users/71-54b73306674ec7e6778b54a0a8b18b36/feature.webp" />
     </item>
     
   </channel>

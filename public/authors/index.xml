@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors Taxonomy Listing Example on AlisonT Design</title>
-    <link>https://juzhyo.github.io/JZ/authors/</link>
+    <link>https://juzhyo.github.io/alisont/authors/</link>
     <description>Recent content in Authors Taxonomy Listing Example on AlisonT Design</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>nuno@n9o.xyz (AlisonT Design)</managingEditor>
     <webMaster>nuno@n9o.xyz (AlisonT Design)</webMaster>
     <copyright>© 2026 AlisonT Design</copyright>
-    <lastBuildDate>Wed, 04 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://juzhyo.github.io/JZ/authors/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 04 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://juzhyo.github.io/alisont/authors/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Nuno Coração</title>
-      <link>https://juzhyo.github.io/JZ/authors/nunocoracao/</link>
+      <link>https://juzhyo.github.io/alisont/authors/nunocoracao/</link>
       <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
       <author>nuno@n9o.xyz (AlisonT Design)</author>
-      <guid>https://juzhyo.github.io/JZ/authors/nunocoracao/</guid>
+      <guid>https://juzhyo.github.io/alisont/authors/nunocoracao/</guid>
       <description>&lt;p&gt;Nuno&amp;rsquo;s awesome dummy bio.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Dummy Second Author</title>
-      <link>https://juzhyo.github.io/JZ/authors/secondauthor/</link>
+      <link>https://juzhyo.github.io/alisont/authors/secondauthor/</link>
       <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
       <author>nuno@n9o.xyz (AlisonT Design)</author>
-      <guid>https://juzhyo.github.io/JZ/authors/secondauthor/</guid>
+      <guid>https://juzhyo.github.io/alisont/authors/secondauthor/</guid>
       <description>&lt;p&gt;Dummy Second Author&amp;rsquo;s awesome dummy bio.&lt;/p&gt;</description>
       
     </item>

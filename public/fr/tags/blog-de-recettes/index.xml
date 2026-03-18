@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog De Recettes on Blowfish</title>
-    <link>https://juzhyo.github.io/JZ/fr/tags/blog-de-recettes/</link>
+    <link>https://juzhyo.github.io/alisont/fr/tags/blog-de-recettes/</link>
     <description>Recent content in Blog De Recettes on Blowfish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <copyright>© 2026 Blowfish</copyright>
-    <atom:link href="https://juzhyo.github.io/JZ/fr/tags/blog-de-recettes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://juzhyo.github.io/alisont/fr/tags/blog-de-recettes/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Cook Like A Nerd</title>
-      <link>https://juzhyo.github.io/JZ/fr/users/116-ae148b43ea1a0101066984d0d6d321c0/</link>
+      <link>https://juzhyo.github.io/alisont/fr/users/116-ae148b43ea1a0101066984d0d6d321c0/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://juzhyo.github.io/JZ/fr/users/116-ae148b43ea1a0101066984d0d6d321c0/</guid>
+      <guid>https://juzhyo.github.io/alisont/fr/users/116-ae148b43ea1a0101066984d0d6d321c0/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://juzhyo.github.io/JZ/users/116-ae148b43ea1a0101066984d0d6d321c0/feature.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://juzhyo.github.io/alisont/users/116-ae148b43ea1a0101066984d0d6d321c0/feature.webp" />
     </item>
     
   </channel>

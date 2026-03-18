@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Youtube on Blowfish</title>
-    <link>https://juzhyo.github.io/JZ/de/tags/youtube/</link>
+    <link>https://juzhyo.github.io/alisont/de/tags/youtube/</link>
     <description>Recent content in Youtube on Blowfish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <copyright>© 2026 Blowfish</copyright>
-    <lastBuildDate>Sun, 10 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://juzhyo.github.io/JZ/de/tags/youtube/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://juzhyo.github.io/alisont/de/tags/youtube/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Rich Content</title>
-      <link>https://juzhyo.github.io/JZ/de/samples/rich-content/</link>
+      <link>https://juzhyo.github.io/alisont/de/samples/rich-content/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://juzhyo.github.io/JZ/de/samples/rich-content/</guid>
+      <guid>https://juzhyo.github.io/alisont/de/samples/rich-content/</guid>
       <description>Dies ist ein &lt;em&gt;Beispiel&lt;/em&gt; für eine &lt;strong&gt;Rich-Content&lt;/strong&gt;-Zusammenfassung.</description>
       
     </item>

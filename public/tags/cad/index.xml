@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CAD on AlisonT Design</title>
-    <link>https://juzhyo.github.io/JZ/tags/cad/</link>
+    <link>https://juzhyo.github.io/alisont/tags/cad/</link>
     <description>Recent content in CAD on AlisonT Design</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>nuno@n9o.xyz (AlisonT Design)</managingEditor>
     <webMaster>nuno@n9o.xyz (AlisonT Design)</webMaster>
     <copyright>© 2026 AlisonT Design</copyright>
-    <atom:link href="https://juzhyo.github.io/JZ/tags/cad/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://juzhyo.github.io/alisont/tags/cad/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>jbetzen.net</title>
-      <link>https://juzhyo.github.io/JZ/users/112-bbc5b87f25e67eb50f9308ddb2e30fb3/</link>
+      <link>https://juzhyo.github.io/alisont/users/112-bbc5b87f25e67eb50f9308ddb2e30fb3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>nuno@n9o.xyz (AlisonT Design)</author>
-      <guid>https://juzhyo.github.io/JZ/users/112-bbc5b87f25e67eb50f9308ddb2e30fb3/</guid>
+      <guid>https://juzhyo.github.io/alisont/users/112-bbc5b87f25e67eb50f9308ddb2e30fb3/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://juzhyo.github.io/JZ/users/112-bbc5b87f25e67eb50f9308ddb2e30fb3/feature.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://juzhyo.github.io/alisont/users/112-bbc5b87f25e67eb50f9308ddb2e30fb3/feature.webp" />
     </item>
     
   </channel>

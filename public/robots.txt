@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://juzhyo.github.io/JZ/sitemap.xml
+Sitemap: https://juzhyo.github.io/alisont/sitemap.xml

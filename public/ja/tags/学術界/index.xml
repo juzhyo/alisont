@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>学術界 on Blowfish</title>
-    <link>https://juzhyo.github.io/JZ/ja/tags/%E5%AD%A6%E8%A1%93%E7%95%8C/</link>
+    <link>https://juzhyo.github.io/alisont/ja/tags/%E5%AD%A6%E8%A1%93%E7%95%8C/</link>
     <description>Recent content in 学術界 on Blowfish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <managingEditor>nuno@n9o.xyz (Blowfish)</managingEditor>
     <webMaster>nuno@n9o.xyz (Blowfish)</webMaster>
     <copyright>© 2026 Blowfish</copyright>
-    <atom:link href="https://juzhyo.github.io/JZ/ja/tags/%E5%AD%A6%E8%A1%93%E7%95%8C/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://juzhyo.github.io/alisont/ja/tags/%E5%AD%A6%E8%A1%93%E7%95%8C/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>michaeldorner.de</title>
-      <link>https://juzhyo.github.io/JZ/ja/users/60-d965f981aa39336ef7be5efac83c96b2/</link>
+      <link>https://juzhyo.github.io/alisont/ja/users/60-d965f981aa39336ef7be5efac83c96b2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>https://juzhyo.github.io/JZ/ja/users/60-d965f981aa39336ef7be5efac83c96b2/</guid>
+      <guid>https://juzhyo.github.io/alisont/ja/users/60-d965f981aa39336ef7be5efac83c96b2/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://juzhyo.github.io/JZ/users/60-d965f981aa39336ef7be5efac83c96b2/feature.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://juzhyo.github.io/alisont/users/60-d965f981aa39336ef7be5efac83c96b2/feature.webp" />
     </item>
     
     <item>
       <title>Handbook on Teaching Empirical Software Engineering: Online Materials</title>
-      <link>https://juzhyo.github.io/JZ/ja/users/71-54b73306674ec7e6778b54a0a8b18b36/</link>
+      <link>https://juzhyo.github.io/alisont/ja/users/71-54b73306674ec7e6778b54a0a8b18b36/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>https://juzhyo.github.io/JZ/ja/users/71-54b73306674ec7e6778b54a0a8b18b36/</guid>
+      <guid>https://juzhyo.github.io/alisont/ja/users/71-54b73306674ec7e6778b54a0a8b18b36/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://juzhyo.github.io/JZ/users/71-54b73306674ec7e6778b54a0a8b18b36/feature.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://juzhyo.github.io/alisont/users/71-54b73306674ec7e6778b54a0a8b18b36/feature.webp" />
     </item>
     
   </channel>

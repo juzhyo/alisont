@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Administrador Linux on Blowfish</title>
-    <link>https://juzhyo.github.io/JZ/pt-br/tags/administrador-linux/</link>
+    <link>https://juzhyo.github.io/alisont/pt-br/tags/administrador-linux/</link>
     <description>Recent content in Administrador Linux on Blowfish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>© 2026 Blowfish</copyright>
-    <atom:link href="https://juzhyo.github.io/JZ/pt-br/tags/administrador-linux/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://juzhyo.github.io/alisont/pt-br/tags/administrador-linux/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>David Writes</title>
-      <link>https://juzhyo.github.io/JZ/pt-br/users/107-e6de9b318c18b2df357ca51f0d73fff6/</link>
+      <link>https://juzhyo.github.io/alisont/pt-br/users/107-e6de9b318c18b2df357ca51f0d73fff6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://juzhyo.github.io/JZ/pt-br/users/107-e6de9b318c18b2df357ca51f0d73fff6/</guid>
+      <guid>https://juzhyo.github.io/alisont/pt-br/users/107-e6de9b318c18b2df357ca51f0d73fff6/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://juzhyo.github.io/JZ/users/107-e6de9b318c18b2df357ca51f0d73fff6/feature.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://juzhyo.github.io/alisont/users/107-e6de9b318c18b2df357ca51f0d73fff6/feature.webp" />
     </item>
     
   </channel>

@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>IT on AlisonT Design</title>
-    <link>https://juzhyo.github.io/JZ/tags/it/</link>
+    <link>https://juzhyo.github.io/alisont/tags/it/</link>
     <description>Recent content in IT on AlisonT Design</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>nuno@n9o.xyz (AlisonT Design)</managingEditor>
     <webMaster>nuno@n9o.xyz (AlisonT Design)</webMaster>
     <copyright>© 2026 AlisonT Design</copyright>
-    <atom:link href="https://juzhyo.github.io/JZ/tags/it/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://juzhyo.github.io/alisont/tags/it/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>GOODJINC</title>
-      <link>https://juzhyo.github.io/JZ/users/108-850f485eb8e81e2873f1a285e3eb0b1d/</link>
+      <link>https://juzhyo.github.io/alisont/users/108-850f485eb8e81e2873f1a285e3eb0b1d/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>nuno@n9o.xyz (AlisonT Design)</author>
-      <guid>https://juzhyo.github.io/JZ/users/108-850f485eb8e81e2873f1a285e3eb0b1d/</guid>
+      <guid>https://juzhyo.github.io/alisont/users/108-850f485eb8e81e2873f1a285e3eb0b1d/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://juzhyo.github.io/JZ/users/108-850f485eb8e81e2873f1a285e3eb0b1d/feature.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://juzhyo.github.io/alisont/users/108-850f485eb8e81e2873f1a285e3eb0b1d/feature.webp" />
     </item>
     
   </channel>

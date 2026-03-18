@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Galerie on Blowfish</title>
-    <link>https://juzhyo.github.io/JZ/de/examples/</link>
+    <link>https://juzhyo.github.io/alisont/de/examples/</link>
     <description>Recent content in Galerie on Blowfish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <copyright>© 2026 Blowfish</copyright>
-    <lastBuildDate></lastBuildDate><atom:link href="https://juzhyo.github.io/JZ/de/examples/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate></lastBuildDate><atom:link href="https://juzhyo.github.io/alisont/de/examples/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
