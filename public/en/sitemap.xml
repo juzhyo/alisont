@@ -2464,26 +2464,6 @@
     <loc>http://localhost:1313/alisont/about/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="http://localhost:1313/alisont/it/about/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="http://localhost:1313/alisont/ja/about/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="http://localhost:1313/alisont/zh-cn/about/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/alisont/about/"
-    />
   </url>
   <url>
     <loc>http://localhost:1313/alisont/tags/advanced/</loc>
@@ -2689,16 +2669,6 @@
     <loc>http://localhost:1313/alisont/contact/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="http://localhost:1313/alisont/zh-cn/contact/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/alisont/contact/"
-    />
   </url>
   <url>
     <loc>http://localhost:1313/alisont/tags/content/</loc>

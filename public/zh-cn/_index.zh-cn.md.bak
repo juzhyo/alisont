@@ -1,6 +1,6 @@
 ---
-title: "Bem-vindo ao Blowfish! :tada:"
-description: "Esta página foi criada utilizando o tema Blowfish para Hugo."
+title: "欢迎来到 Blowfish! :tada:"
+description: "此页面是使用 Hugo 的 Blowfish 主题搭建的"
 ---
 
 
@@ -9,12 +9,12 @@ description: "Esta página foi criada utilizando o tema Blowfish para Hugo."
     {{< icon "triangle-exclamation" >}}
   </span>
   <span class="flex items-center justify-between grow dark:text-neutral-300">
-    <span class="prose dark:prose-invert">Esta é uma demonstração do layout <code id="layout">background</code>.</span>
+    <span class="prose dark:prose-invert"> 这是 <code id="layout">background</code> 的样式示例。</span>
     <button
       id="switch-layout-button"
       class="px-4 mx-[3px] !text-neutral !no-underline rounded-md bg-primary-600 hover:!bg-primary-500 dark:bg-primary-800 dark:hover:!bg-primary-700"
     >
-      Mudar layout &orarr;
+      切换 layout &orarr;
     </button>
   </span>
 </div>
@@ -22,8 +22,8 @@ description: "Esta página foi criada utilizando o tema Blowfish para Hugo."
 
 ```shell
 npx blowfish-tools
-```
+```  
 
-{{< youtubeLite id="SgXhGb-7QbU" label="Demo do Blowfish-tools" >}}
+{{< youtubeLite id="SgXhGb-7QbU" label="Blowfish-tools demo" >}}
 
 

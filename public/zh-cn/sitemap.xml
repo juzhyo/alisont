@@ -2226,6 +2226,21 @@
     />
   </url>
   <url>
+    <loc>http://localhost:1313/alisont/zh-cn/catalogue/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/alisont/catalogue/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="http://localhost:1313/alisont/zh-cn/catalogue/"
+    />
+  </url>
+  <url>
     <loc>http://localhost:1313/alisont/zh-cn/categories/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
@@ -2656,46 +2671,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/alisont/zh-cn/about/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/alisont/about/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="http://localhost:1313/alisont/it/about/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="http://localhost:1313/alisont/ja/about/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="http://localhost:1313/alisont/zh-cn/about/"
-    />
-  </url>
-  <url>
-    <loc>http://localhost:1313/alisont/zh-cn/contact/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/alisont/contact/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="http://localhost:1313/alisont/zh-cn/contact/"
-    />
-  </url>
-  <url>
     <loc>http://localhost:1313/alisont/zh-cn/tags/%E5%86%85%E5%AE%B9/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
@@ -2714,21 +2689,6 @@
     <loc>http://localhost:1313/alisont/zh-cn/tags/%E6%89%98%E7%AE%A1/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/alisont/zh-cn/catalogue/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/alisont/catalogue/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="http://localhost:1313/alisont/zh-cn/catalogue/"
-    />
   </url>
   <url>
     <loc>http://localhost:1313/alisont/zh-cn/docs/</loc>
