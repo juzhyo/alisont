@@ -21,7 +21,6 @@ cascade:
 
 
 ## PRODUCT DETAILS
-* Solid block characters
 * Laminated with Oracal Road Safety Reflective. (Compliant Standard)
 * UV resistant
 * Chemical resistant
