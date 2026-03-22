@@ -25,7 +25,7 @@ cascade:
 * UV resistant
 * Chemical resistant
 * Adhesive bonded (No gap between alphabets and baseplate)
-* 3mim thick Glossy Casted Acrylic (Laser-cut)
+* 3mm thick Glossy Casted Acrylic (Laser-cut)
 * Clearly visible at all Distance and Angles
 * VEP/ANPR Friendly (readable by camera systems at customs and condominium gantries)
 * Crafted locally in Singapore

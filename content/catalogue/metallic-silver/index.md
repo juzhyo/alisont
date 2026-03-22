@@ -27,7 +27,7 @@ cascade:
 * 2 options (Small/Big Flakes) 
 * UV Chemical resistant
 * Adhesive bonded (No gap between alphabets and baseplate)
-* 3mim thick Glossy or Matt Satin Casted Acrylic (Laser-cut)
+* 3mm thick Glossy or Matt Satin Casted Acrylic (Laser-cut)
 * (Not laminated)
 * Clearly visible at all Distance and Angles
 * VEP/ANPR Friendly (readable by camera systems at customs and condominium gantries)
