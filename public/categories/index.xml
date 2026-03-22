@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on AlisonT Design</title>
-    <link>http://localhost:1313/alisont/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on AlisonT Design</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>alisontdesign@gmail.com (AlisonT Design)</managingEditor>
     <webMaster>alisontdesign@gmail.com (AlisonT Design)</webMaster>
-    <copyright>© 2026 AlisonT Design Pte. Ltd. | [WhatsApp: (&#43;65) 8826 1189](https://wa.me/6588261189)</copyright>
-    <atom:link href="http://localhost:1313/alisont/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2026 AlisonT Design Pte. Ltd. | [WhatsApp: (&#43;65) 8826 1189](https://wa.me/6588261189) | alisontdesign@gmail.com | 619D Punggol Drive S(824619)</copyright>
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>

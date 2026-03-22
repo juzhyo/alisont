@@ -3,287 +3,287 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/alisont/catalogue/frosted/</loc>
+    <loc>http://localhost:1313/catalogue/frosted/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/alisont/catalogue/metallic-silver/</loc>
+    <loc>http://localhost:1313/catalogue/rainbow-stars/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/alisont/catalogue/rainbow-stars/</loc>
+    <loc>http://localhost:1313/catalogue/carbon-infused-euro/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/alisont/catalogue/carbon-infused-euro/</loc>
+    <loc>http://localhost:1313/catalogue/carbon-weave/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/alisont/catalogue/carbon-weave/</loc>
+    <loc>http://localhost:1313/catalogue/basic-flat-white/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/alisont/catalogue/basic-flat-white/</loc>
+    <loc>http://localhost:1313/catalogue/glossy-white/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/alisont/catalogue/glossy-white/</loc>
+    <loc>http://localhost:1313/catalogue/pearl-white/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/alisont/catalogue/pearl-white/</loc>
+    <loc>http://localhost:1313/catalogue/metallic-silver/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/alisont/catalogue/basic-black-euro/</loc>
+    <loc>http://localhost:1313/catalogue/basic-black-euro/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/alisont/catalogue/glossy-black-euro/</loc>
+    <loc>http://localhost:1313/catalogue/glossy-black-euro/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/alisont/catalogue/pearl-black/</loc>
+    <loc>http://localhost:1313/catalogue/pearl-black/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/alisont/authors/secondauthor/_index.ja/</loc>
+    <loc>http://localhost:1313/authors/secondauthor/_index.ja/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/alisont/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/alisont/tags/advanced/_index.it/</loc>
+    <loc>http://localhost:1313/tags/advanced/_index.it/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/alisont/tags/advanced/</loc>
+    <loc>http://localhost:1313/tags/advanced/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/alisont/authors/</loc>
+    <loc>http://localhost:1313/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/alisont/tags/advanced/_index.pt-br/</loc>
+    <loc>http://localhost:1313/authors/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/alisont/tags/advanced/_index.pt-pt/</loc>
+    <loc>http://localhost:1313/tags/advanced/_index.pt-br/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/alisont/tags/advanced/_index.fr/</loc>
+    <loc>http://localhost:1313/tags/advanced/_index.pt-pt/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/alisont/tags/advanced/_index.es/</loc>
+    <loc>http://localhost:1313/tags/advanced/_index.fr/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/alisont/catalogue/</loc>
+    <loc>http://localhost:1313/tags/advanced/_index.es/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/alisont/categories/</loc>
+    <loc>http://localhost:1313/catalogue/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/alisont/tags/clearcoat-available/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/alisont/tags/clearcoated/</loc>
+    <loc>http://localhost:1313/tags/clearcoat-available/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/alisont/contact/</loc>
+    <loc>http://localhost:1313/tags/clearcoated/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/alisont/authors/secondauthor/_index.de/</loc>
+    <loc>http://localhost:1313/contact/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/alisont/authors/secondauthor/_index.es/</loc>
+    <loc>http://localhost:1313/authors/secondauthor/_index.de/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/alisont/authors/secondauthor/_index.fr/</loc>
+    <loc>http://localhost:1313/authors/secondauthor/_index.es/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/alisont/authors/secondauthor/</loc>
+    <loc>http://localhost:1313/authors/secondauthor/_index.fr/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/alisont/authors/secondauthor/_index.pt-br/</loc>
+    <loc>http://localhost:1313/authors/secondauthor/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/alisont/authors/secondauthor/_index.pt-pt/</loc>
+    <loc>http://localhost:1313/authors/secondauthor/_index.pt-br/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/alisont/authors/secondauthor/_index.zh-cn/</loc>
+    <loc>http://localhost:1313/authors/secondauthor/_index.pt-pt/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/alisont/authors/_index.it/</loc>
+    <loc>http://localhost:1313/authors/secondauthor/_index.zh-cn/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/alisont/tags/advanced/_index.de/</loc>
+    <loc>http://localhost:1313/authors/_index.it/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/alisont/tags/metallic/matte/</loc>
+    <loc>http://localhost:1313/tags/advanced/_index.de/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/alisont/authors/nunocoracao/_index.it/</loc>
+    <loc>http://localhost:1313/tags/metallic/matte/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/alisont/authors/nunocoracao/_index.de/</loc>
+    <loc>http://localhost:1313/authors/nunocoracao/_index.it/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/alisont/authors/nunocoracao/_index.es/</loc>
+    <loc>http://localhost:1313/authors/nunocoracao/_index.de/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/alisont/authors/nunocoracao/_index.fr/</loc>
+    <loc>http://localhost:1313/authors/nunocoracao/_index.es/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/alisont/authors/nunocoracao/_index.ja/</loc>
+    <loc>http://localhost:1313/authors/nunocoracao/_index.fr/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/alisont/authors/nunocoracao/</loc>
+    <loc>http://localhost:1313/authors/nunocoracao/_index.ja/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/alisont/authors/nunocoracao/_index.pt-br/</loc>
+    <loc>http://localhost:1313/authors/nunocoracao/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/alisont/authors/nunocoracao/_index.pt-pt/</loc>
+    <loc>http://localhost:1313/authors/nunocoracao/_index.pt-br/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/alisont/authors/nunocoracao/_index.zh-cn/</loc>
+    <loc>http://localhost:1313/authors/nunocoracao/_index.pt-pt/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/alisont/authors/secondauthor/_index.it/</loc>
+    <loc>http://localhost:1313/authors/nunocoracao/_index.zh-cn/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/alisont/series/</loc>
+    <loc>http://localhost:1313/authors/secondauthor/_index.it/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/alisont/tags/signature/</loc>
+    <loc>http://localhost:1313/series/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/alisont/tags/spray-painted/</loc>
+    <loc>http://localhost:1313/tags/signature/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/alisont/tags/_index.it/</loc>
+    <loc>http://localhost:1313/tags/spray-painted/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/alisont/tags/</loc>
+    <loc>http://localhost:1313/tags/_index.it/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/alisont/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/alisont/tags/_index.ja/</loc>
+    <loc>http://localhost:1313/tags/_index.ja/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/alisont/authors/_index.zh-cn/</loc>
+    <loc>http://localhost:1313/authors/_index.zh-cn/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/alisont/tags/_index.zh-cn/</loc>
+    <loc>http://localhost:1313/tags/_index.zh-cn/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/alisont/authors/_index.ja/</loc>
+    <loc>http://localhost:1313/authors/_index.ja/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/alisont/tags/advanced/_index.ja/</loc>
+    <loc>http://localhost:1313/tags/advanced/_index.ja/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/alisont/tags/advanced/_index.zh-cn/</loc>
+    <loc>http://localhost:1313/tags/advanced/_index.zh-cn/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>

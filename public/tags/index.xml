@@ -2,71 +2,71 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on AlisonT Design</title>
-    <link>http://localhost:1313/alisont/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on AlisonT Design</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>alisontdesign@gmail.com (AlisonT Design)</managingEditor>
     <webMaster>alisontdesign@gmail.com (AlisonT Design)</webMaster>
-    <copyright>© 2026 AlisonT Design Pte. Ltd. | [WhatsApp: (&#43;65) 8826 1189](https://wa.me/6588261189)</copyright>
-    <atom:link href="http://localhost:1313/alisont/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2026 AlisonT Design Pte. Ltd. | [WhatsApp: (&#43;65) 8826 1189](https://wa.me/6588261189) | alisontdesign@gmail.com | 619D Punggol Drive S(824619)</copyright>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Advanced</title>
-      <link>http://localhost:1313/alisont/tags/advanced/</link>
+      <link>http://localhost:1313/tags/advanced/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>alisontdesign@gmail.com (AlisonT Design)</author>
-      <guid>http://localhost:1313/alisont/tags/advanced/</guid>
+      <guid>http://localhost:1313/tags/advanced/</guid>
       <description>&lt;p&gt;This is the advanced tag. Just like other listing pages in Blowfish, you can add custom content to individual taxonomy terms and it will be displayed at the top of the term listing. &amp;#x1f680;&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Clearcoat Available</title>
-      <link>http://localhost:1313/alisont/tags/clearcoat-available/</link>
+      <link>http://localhost:1313/tags/clearcoat-available/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>alisontdesign@gmail.com (AlisonT Design)</author>
-      <guid>http://localhost:1313/alisont/tags/clearcoat-available/</guid>
+      <guid>http://localhost:1313/tags/clearcoat-available/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Clearcoated</title>
-      <link>http://localhost:1313/alisont/tags/clearcoated/</link>
+      <link>http://localhost:1313/tags/clearcoated/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>alisontdesign@gmail.com (AlisonT Design)</author>
-      <guid>http://localhost:1313/alisont/tags/clearcoated/</guid>
+      <guid>http://localhost:1313/tags/clearcoated/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Metallic/Matte</title>
-      <link>http://localhost:1313/alisont/tags/metallic/matte/</link>
+      <link>http://localhost:1313/tags/metallic/matte/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>alisontdesign@gmail.com (AlisonT Design)</author>
-      <guid>http://localhost:1313/alisont/tags/metallic/matte/</guid>
+      <guid>http://localhost:1313/tags/metallic/matte/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Signature</title>
-      <link>http://localhost:1313/alisont/tags/signature/</link>
+      <link>http://localhost:1313/tags/signature/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>alisontdesign@gmail.com (AlisonT Design)</author>
-      <guid>http://localhost:1313/alisont/tags/signature/</guid>
+      <guid>http://localhost:1313/tags/signature/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Spray-Painted</title>
-      <link>http://localhost:1313/alisont/tags/spray-painted/</link>
+      <link>http://localhost:1313/tags/spray-painted/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>alisontdesign@gmail.com (AlisonT Design)</author>
-      <guid>http://localhost:1313/alisont/tags/spray-painted/</guid>
+      <guid>http://localhost:1313/tags/spray-painted/</guid>
       <description></description>
       
     </item>
