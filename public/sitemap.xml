@@ -3,37 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/alisont/catalogue/basic-black-euro/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/alisont/catalogue/basic-flat-white/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/alisont/catalogue/carbon-weave/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/alisont/catalogue/carbon-infused-euro/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/alisont/catalogue/frosted/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/alisont/catalogue/glossy-black-euro/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/alisont/catalogue/glossy-white/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
@@ -43,7 +13,27 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/alisont/catalogue/pearl-black/</loc>
+    <loc>http://localhost:1313/alisont/catalogue/rainbow-stars/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/alisont/catalogue/carbon-infused-euro/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/alisont/catalogue/carbon-weave/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/alisont/catalogue/basic-flat-white/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/alisont/catalogue/glossy-white/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
@@ -53,7 +43,17 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/alisont/catalogue/rainbow-stars/</loc>
+    <loc>http://localhost:1313/alisont/catalogue/basic-black-euro/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/alisont/catalogue/glossy-black-euro/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/alisont/catalogue/pearl-black/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
@@ -259,11 +259,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/alisont/tags/_index.ja/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/alisont/catalogue/_index.zh-cn/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
