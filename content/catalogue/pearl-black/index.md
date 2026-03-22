@@ -1,6 +1,6 @@
 ---
 title: "Pearl Black"
-weight: 10
+weight: 11
 draft: false
 description: ""
 tags: ["Clearcoated","Spray-painted"]

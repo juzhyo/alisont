@@ -1,6 +1,6 @@
 ---
 title: "Glossy Black Euro"
-weight: 9
+weight: 10
 draft: false
 description: ""
 tags: ["Clearcoated","Spray-painted"]

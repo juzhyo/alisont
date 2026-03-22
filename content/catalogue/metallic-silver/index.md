@@ -1,6 +1,6 @@
 ---
 title: "Metallic Silver"
-weight: 1
+weight: 8
 draft: false
 description: ""
 tags: ["Clearcoat available"]
