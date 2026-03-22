@@ -3,7 +3,7 @@ title: "Frosted"
 weight: 1
 draft: false
 description: ""
-tags: ["Signature"]
+tags: ["Signature","Clearcoated"]
 series_order: 1
 
 cascade:

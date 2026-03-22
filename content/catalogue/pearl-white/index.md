@@ -1,9 +1,9 @@
 ---
 title: "Pearl White"
-weight: 1
+weight: 7
 draft: false
 description: ""
-tags: ["Spray-painted"]
+tags: ["Clearcoated","Spray-painted"]
 series_order: 1
 
 cascade:

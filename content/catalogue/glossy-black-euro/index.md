@@ -1,9 +1,9 @@
 ---
 title: "Glossy Black Euro"
-weight: 1
+weight: 9
 draft: false
 description: ""
-tags: ["Clearcoated"]
+tags: ["Clearcoated","Spray-painted"]
 series_order: 1
 
 cascade:

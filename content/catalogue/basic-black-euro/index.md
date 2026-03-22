@@ -1,6 +1,6 @@
 ---
 title: "Basic Black Euro"
-weight: 1
+weight: 8
 draft: false
 description: ""
 # tags: ["3D-Printed"]

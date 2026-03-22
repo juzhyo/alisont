@@ -1,6 +1,6 @@
 ---
 title: "Carbon Weave"
-weight: 1
+weight: 4
 draft: false
 description: ""
 tags: ["Metallic/Matte"]

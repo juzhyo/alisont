@@ -1,9 +1,9 @@
 ---
 title: "Pearl Black"
-weight: 1
+weight: 10
 draft: false
 description: ""
-#tags: ["Clearcoat available"]
+tags: ["Clearcoated","Spray-painted"]
 series_order: 1
 
 cascade:

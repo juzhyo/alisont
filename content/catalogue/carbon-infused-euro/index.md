@@ -1,6 +1,6 @@
 ---
 title: "Carbon-Infused Euro"
-weight: 1
+weight: 3
 draft: false
 description: ""
 # tags: ["3D-Printed"]

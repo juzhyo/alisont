@@ -1,6 +1,6 @@
 ---
 title: "Basic Flat White"
-weight: 1
+weight: 5
 draft: false
 description: "Discover what's new in Blowfish version 2.0."
 # tags: ["3D-Printed"]
