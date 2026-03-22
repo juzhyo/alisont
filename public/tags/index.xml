@@ -22,6 +22,16 @@
     </item>
     
     <item>
+      <title>Clearcoat Available</title>
+      <link>http://localhost:1313/alisont/tags/clearcoat-available/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>alisontdesign@gmail.com (AlisonT Design)</author>
+      <guid>http://localhost:1313/alisont/tags/clearcoat-available/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Clearcoated</title>
       <link>http://localhost:1313/alisont/tags/clearcoated/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -32,11 +42,31 @@
     </item>
     
     <item>
+      <title>Metallic/Matte</title>
+      <link>http://localhost:1313/alisont/tags/metallic/matte/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>alisontdesign@gmail.com (AlisonT Design)</author>
+      <guid>http://localhost:1313/alisont/tags/metallic/matte/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Signature</title>
       <link>http://localhost:1313/alisont/tags/signature/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>alisontdesign@gmail.com (AlisonT Design)</author>
       <guid>http://localhost:1313/alisont/tags/signature/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Spray-Painted</title>
+      <link>http://localhost:1313/alisont/tags/spray-painted/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>alisontdesign@gmail.com (AlisonT Design)</author>
+      <guid>http://localhost:1313/alisont/tags/spray-painted/</guid>
       <description></description>
       
     </item>

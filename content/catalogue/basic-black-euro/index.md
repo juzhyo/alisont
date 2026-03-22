@@ -28,4 +28,5 @@ cascade:
 * 3mm thick Glossy or Matt Satin Casted Acrylic (Laser-cut) (Not laminated)
 * Clearly visible at all Distance and Angles
 * VEP/ANPR Friendly (readable by camera systems at customs and condominium gantries)
+* Can be sanded down
 * Crafted locally in Singapore

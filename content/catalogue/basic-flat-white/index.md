@@ -32,4 +32,5 @@ cascade:
 * UV and chemical resistant
 * Adhesive bonded (No gap between alphabets and baseplate)
 * 3mm thick Glossy or Matt Satin Casted Acrylic (Laser-cut) (Not laminated)
+* Can sanded be down
 * Crafted locally in Singapore

@@ -33,18 +33,48 @@
     />
   </url>
   <url>
-    <loc>http://localhost:1313/alisont/catalogue/frosted-white/</loc>
+    <loc>http://localhost:1313/alisont/catalogue/carbon-weave/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="http://localhost:1313/alisont/zh-cn/catalogue/frosted-white/"
+      href="http://localhost:1313/alisont/zh-cn/catalogue/carbon-weave/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/alisont/catalogue/frosted-white/"
+      href="http://localhost:1313/alisont/catalogue/carbon-weave/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/alisont/catalogue/carbon-infused-euro/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="http://localhost:1313/alisont/zh-cn/catalogue/carbon-infused-euro/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/alisont/catalogue/carbon-infused-euro/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/alisont/catalogue/frosted/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="http://localhost:1313/alisont/zh-cn/catalogue/frosted/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/alisont/catalogue/frosted/"
     />
   </url>
   <url>
@@ -75,6 +105,66 @@
       rel="alternate"
       hreflang="en"
       href="http://localhost:1313/alisont/catalogue/glossy-white/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/alisont/catalogue/metallic-silver/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="http://localhost:1313/alisont/zh-cn/catalogue/metallic-silver/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/alisont/catalogue/metallic-silver/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/alisont/catalogue/pearl-black/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="http://localhost:1313/alisont/zh-cn/catalogue/pearl-black/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/alisont/catalogue/pearl-black/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/alisont/catalogue/pearl-white/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="http://localhost:1313/alisont/zh-cn/catalogue/pearl-white/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/alisont/catalogue/pearl-white/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/alisont/catalogue/rainbow-stars/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="http://localhost:1313/alisont/zh-cn/catalogue/rainbow-stars/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/alisont/catalogue/rainbow-stars/"
     />
   </url>
   <url>
@@ -183,6 +273,11 @@
     />
   </url>
   <url>
+    <loc>http://localhost:1313/alisont/tags/clearcoat-available/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/alisont/tags/clearcoated/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
@@ -249,6 +344,11 @@
   </url>
   <url>
     <loc>http://localhost:1313/alisont/tags/advanced/_index.de/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/alisont/tags/metallic/matte/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
@@ -324,6 +424,11 @@
   </url>
   <url>
     <loc>http://localhost:1313/alisont/tags/signature/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/alisont/tags/spray-painted/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
