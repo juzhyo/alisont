@@ -1,6 +1,6 @@
 ---
-title: "About"
-description: "Learn how to use Blowfish and its features."
+title: "About Us"
+description: ""
 
 
 cascade:
@@ -27,22 +27,21 @@ How we started, and what we strive for.
 -->
 Welcome to AlisonT Design, where automotive styling meets advanced manufacturing.
 
-Based in Singapore, we specialize in crafting premium, custom 3D-printed car plates. We know that for car enthusiasts, the details matter. A license plate shouldn't just be an afterthought — it should complement your vehicle's aesthetic. By leveraging advanced 3D printing technology, we create dimensional, high-quality plates that stand out from the traditional.
-
-Standard plates fade, peel, and lack character. At AlisonT Design, we build plates with physical depth, distinct textures, and weather-resistant finishes tailored to your ride.
+Based in Singapore, We craft our own custom 3D-printed car plates from scratch. We know that for car enthusiasts, the details matter. A license plate shouldn’t just be an afterthought --- it should complement your vehicle’s aesthetic. By leveraging advanced 3D printing technology, we create dimensional, high-quality plates that stand out from the traditional. At AlisonT Design, We take pride and passion in crafting every number plates we serve to our customers.
 
 
 ### Engineered for the Road
-An exterior car part needs to be tough. We don't just print; we post-process. Our use of premium materials and protective clearcoats ensures that your 3D-printed plates are built to endure daily driving, UV exposure, and weather conditions without losing their edge.
+An exterior car part needs to be tough. We don’t just print; we post-process. Our selection of premium quality materials, e.g. Mipa 2K-HS-Klarlack CS 95 clearcoat, 3mm thick lasercut casted acrylic ensures that your 3D-printed plates are built to withstand Singapore weather conditions for daily driving. The result is a plate that stands up to the elements and retains its sharp, refined look over time.
 
-### Proudly Local
-As a Singapore-registered business, we craft everything locally. This means faster turnaround times, rigorous quality control, and personalized customer service right here at home.
+<!--### Proudly Local
+As a Singapore-registered business, we craft everything locally. This means faster turnaround times, rigorous quality control, and personalized customer service right here at home.-->
 
 ### Upgrade Your Ride Today
+What’s the first mod to set your car apart from the rest? We’d say—it starts with a personalized number plate.
 Ready to ditch the boring standard plates? We’re here to help you customize the perfect set for your car.
 
-Drop us a message:\
-WhatsApp: (+65) 8826 1189
+<!--Drop us a message:\
+WhatsApp: (+65) 8826 1189-->
 
 ## FAQ
 **Q: What is the turnaround time for custom plates?**\
