@@ -1,6 +1,6 @@
 ---
 title: "Catalogue"
-description: "Learn how to use Blowfish and its features."
+description: "Our range of car plates"
 
 cascade:
   showDate: false
