@@ -2,7 +2,7 @@
 title: "Basic Black Euro"
 weight: 9
 draft: false
-description: ""
+description: "Basic Black Euro"
 # tags: ["3D-Printed"]
 series_order: 1
 

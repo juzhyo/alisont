@@ -2,7 +2,7 @@
 title: "Rainbow Stars"
 weight: 2
 draft: false
-description: ""
+description: "Rainbow Stars"
 #tags: [""]
 series_order: 1
 

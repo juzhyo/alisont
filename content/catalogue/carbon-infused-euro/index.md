@@ -2,7 +2,7 @@
 title: "Carbon-Infused Euro"
 weight: 3
 draft: false
-description: ""
+description: "Carbon-Infused Euro"
 # tags: ["3D-Printed"]
 series_order: 1
 

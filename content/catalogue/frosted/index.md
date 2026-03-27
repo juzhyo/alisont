@@ -2,7 +2,7 @@
 title: "Frosted"
 weight: 1
 draft: false
-description: ""
+description: "Frosted"
 tags: ["Signature","Clearcoated"]
 series_order: 1
 

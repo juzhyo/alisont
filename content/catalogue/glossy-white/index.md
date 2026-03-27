@@ -2,7 +2,7 @@
 title: "Glossy White"
 weight: 6
 draft: false
-description: ""
+description: "Glossy White"
 tags: ["Clearcoated","Spray-painted"]
 series_order: 1
 
