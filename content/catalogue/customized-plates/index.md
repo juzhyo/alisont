@@ -1,5 +1,5 @@
 ---
-title: "Customized Vanity Plates"
+title: "Customized Plates"
 weight: 98
 draft: false
 description: "Pearl Black"
