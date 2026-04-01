@@ -1,6 +1,6 @@
 ---
 title: "Kerning-adjusted (Example)"
-weight: 12
+weight: 99
 draft: false
 description: "Kerning-adjusted (Example)"
 tags: [""]

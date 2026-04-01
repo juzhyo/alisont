@@ -58,6 +58,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/catalogue/kerning-adjusted/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/authors/secondauthor/_index.ja/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
