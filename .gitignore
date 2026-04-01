@@ -2,6 +2,7 @@
 public/
 resources/
 exampleSite/resources/
+content/
 
 # Binaries for programs and plugins
 *.exe
