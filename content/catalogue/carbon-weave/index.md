@@ -3,7 +3,7 @@ title: "Carbon Weave"
 weight: 4
 draft: false
 description: "Carbon Weave"
-tags: ["Metallic/Matte"]
+tags: ["Metallic/Matte Weave"]
 series_order: 1
 
 cascade:
