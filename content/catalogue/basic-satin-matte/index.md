@@ -22,11 +22,16 @@ cascade:
 </div>
 
 ## PRODUCT DETAILS
-* UV Chemical resistant
-* 3mm Matt Satin Casted Acrylic (Laser-cut)
-* (Not laminated)
-* Clearly visible at all Distance and Angles
-* VEP/ANPR Friendly (readable by camera systems at customs and condominium gantries)
+Basic Satin Matte
+* 3mm thick casted acrylic (laser cut)
+    * Oil-resistant
+    * Scuff- and scratch-resistant
+* Permanently embedded characters
+* No fading,
+* Does not flake,
+* Does not peel/tear,
+* Easy to clean!
+* 1:1 exchange if it breaks! (Terms and Conditions apply)
 * Crafted locally in Singapore
 
 <script>
