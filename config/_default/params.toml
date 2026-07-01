@@ -78,8 +78,8 @@ fingerprintAlgorithm = "sha512" # Valid values are "sha512" (default), "sha384",
   showBreadcrumbs = true
   showDraftLabel = true
   showEdit = false
-  editURL = "https://github.com/nunocoracao/blowfish/tree/main/exampleSite/content"
-  editAppendPath = true
+  editURL = ""
+  editAppendPath = false
   seriesOpened = false
   showHeadingAnchors = true
   showPagination = false
@@ -159,12 +159,8 @@ fingerprintAlgorithm = "sha512" # Valid values are "sha512" (default), "sha384",
   # token = "XXXXXX"
   # enableTrackEvent = false
 
-[buymeacoffee]
-  identifier = "nunocoracao"
-  globalWidget = false
-  globalWidgetMessage = ""
-  globalWidgetColor = "#FFDD00"
-  globalWidgetPosition = "right"
+#[buymeacoffee]
+#  identifier = "nunocoracao"
 
 [verification]
   # google = ""
