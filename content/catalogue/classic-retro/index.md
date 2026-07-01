@@ -19,13 +19,11 @@ cascade:
 {{< gallery images="img/*" >}}
 
 ## PRODUCT DETAILS
-* Classic retro European design
-* 3D-printed, solid block characters
-* Cream / off-white baseplate with black characters
-* MIPA 2K-HS-Klarlack CS95 clearcoat (Germany)
-* UV, Chemical resistant
+* Classic Retro Font Plates
+* 3d Printed Solid block Alphabet
+* MIPA Metallic Silver spray painted
 * Adhesive bonded (No gap between alphabets and baseplate)
-* 3mm thick Casted Acrylic (Laser-cut)
+* 3mm thick Satin Matt Casted Acrylic (Laser-cut)(Not vinyl)
 * Clearly visible at all Distance and Angles
 * VEP/ANPR Friendly (readable by camera systems at customs and condominium gantries)
 * Crafted locally in Singapore
