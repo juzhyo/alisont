@@ -16,8 +16,6 @@ cascade:
   showEdit: false
   showZenMode: false
 ---
-
-{{< carousel images="img/*" aspectRatio="27-10" interval="0">}}
-
+{{< gallery images="img/*" >}}
 
 * Kerning-adjusted design eliminates awkward gaps between characters, giving your car plate's text a flawless, high-end finish.

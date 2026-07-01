@@ -16,18 +16,7 @@ cascade:
   showEdit: false
   showZenMode: false
 ---
-
-<div id="random-carousel">
-  {{< carousel images="img/*" aspectRatio="3-4" interval="0">}}
-</div>
-
-{{< gallery >}}
-  <img src="img/IMG_4770.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
-  <img src="img/IMG_4772.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
-  <img src="img/IMG_4773.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
-  <img src="img/IMG_4774.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
-{{< /gallery >}}
-
+{{< gallery images="img/*" >}}
 ## PRODUCT DETAILS
 * Solid block Alphabet. (3D-Printed)
 * Clearly visible at all Distance and Angles

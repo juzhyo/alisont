@@ -17,8 +17,6 @@ cascade:
   showZenMode: false
 ---
 
-{{< carousel images="img/*" aspectRatio="3-4" interval="0">}}
-
 ## 产品详情
 * 3D打印，实心立体字符
 * 采用德国 MIPA 2K-HS-Klarlack CS95 高级清漆

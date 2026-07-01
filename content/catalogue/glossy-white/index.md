@@ -16,17 +16,7 @@ cascade:
   showEdit: false
   showZenMode: false
 ---
-
-<div id="random-carousel">
-  {{< carousel images="img/*" aspectRatio="3-4" interval="0">}}
-</div>
-{{< gallery >}}
-  <img src="img/IMG_4122.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
-  <img src="img/IMG_4123.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
-  <img src="img/IMG_4124.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
-  <img src="img/IMG_4496.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
-{{< /gallery >}}
-
+{{< gallery images="img/*" >}}
 ## PRODUCT DETAILS
 * 3D-printed, solid block characters
 * MIPA 2K-HS-Klarlack CS95 clearcoat (Germany)

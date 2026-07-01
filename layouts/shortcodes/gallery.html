@@ -1,0 +1,40 @@
+{{ $images := .Page.Resources.Match (.Get "images" | default "img/*") }}
+{{ $id := delimit (slice "gallery" (partial "functions/uid.html" .)) "-" }}
+
+<style>
+.insta-grid-{{ $id }} {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 4px;
+  margin: 1.5rem 0;
+}
+.insta-grid-{{ $id }} a {
+  display: block;
+  overflow: hidden;
+  border-radius: 4px;
+  line-height: 0;
+}
+.insta-grid-{{ $id }} a img {
+  width: 100%;
+  height: auto;
+  display: block;
+  transition: transform 0.2s;
+}
+.insta-grid-{{ $id }} a:hover img {
+  transform: scale(1.05);
+}
+@media (max-width: 640px) {
+  .insta-grid-{{ $id }} {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+</style>
+
+<div id="{{ $id }}" class="insta-grid-{{ $id }}">
+  {{ range $images }}
+    <a href="{{ .RelPermalink }}" class="insta-gallery-item">
+      {{ $thumb := .Resize "600x" }}
+      <img src="{{ $thumb.RelPermalink }}" alt="" loading="lazy">
+    </a>
+  {{ end }}
+</div>

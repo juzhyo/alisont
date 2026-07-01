@@ -16,9 +16,7 @@ cascade:
   showEdit: false
   showZenMode: false
 ---
-
-{{< carousel images="img/*" aspectRatio="3-4" interval="0">}}
-
+{{< gallery images="img/*" >}}
 
 ## PRODUCT DETAILS
 * Contact us for customization requests

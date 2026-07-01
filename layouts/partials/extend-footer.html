@@ -16,6 +16,9 @@
 {{ $carouselShuffle := resources.Get "js/carousel-shuffle.js" | resources.Minify | resources.Fingerprint (.Site.Params.fingerprintAlgorithm | default "sha512") }}
 <script defer type="text/javascript" src="{{ $carouselShuffle.RelPermalink }}" integrity="{{ $carouselShuffle.Data.Integrity }}"></script>
 
+{{ $instaLightbox := resources.Get "js/insta-lightbox.js" | resources.Minify | resources.Fingerprint (.Site.Params.fingerprintAlgorithm | default "sha512") }}
+<script defer type="text/javascript" src="{{ $instaLightbox.RelPermalink }}" integrity="{{ $instaLightbox.Data.Integrity }}"></script>
+
 {{ $catalogueFilter := resources.Get "js/catalogue-filter.js" | resources.Minify | resources.Fingerprint (.Site.Params.fingerprintAlgorithm | default "sha512") }}
 <script defer type="text/javascript" src="{{ $catalogueFilter.RelPermalink }}" integrity="{{ $catalogueFilter.Data.Integrity }}"></script>
 

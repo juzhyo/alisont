@@ -16,11 +16,7 @@ cascade:
   showEdit: false
   showZenMode: false
 ---
-
-
-<div id="random-carousel">
-  {{< carousel images="img/*" aspectRatio="3-4" interval="0">}}
-</div>
+{{< gallery images="img/*" >}}
 
 ## PRODUCT DETAILS
 * Not Sticker, Not Spraypainted
