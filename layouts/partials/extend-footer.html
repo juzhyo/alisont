@@ -13,3 +13,6 @@
   </svg>
 </a>
 
+{{ $carouselShuffle := resources.Get "js/carousel-shuffle.js" | resources.Minify | resources.Fingerprint (.Site.Params.fingerprintAlgorithm | default "sha512") }}
+<script defer type="text/javascript" src="{{ $carouselShuffle.RelPermalink }}" integrity="{{ $carouselShuffle.Data.Integrity }}"></script>
+
