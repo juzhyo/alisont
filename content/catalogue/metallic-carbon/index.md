@@ -3,7 +3,7 @@ title: "Metallic Carbon"
 weight: 8
 draft: false
 description: "Metallic Carbon"
-tags: [""]
+tags: ["metallic"]
 series_order: 1
 
 cascade:

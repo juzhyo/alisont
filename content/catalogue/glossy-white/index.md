@@ -3,7 +3,7 @@ title: "Glossy White"
 weight: 6
 draft: false
 description: "Glossy White"
-tags: ["Clearcoated","Spray-painted"]
+tags: ["glossy", "clearcoated"]
 series_order: 1
 
 cascade:

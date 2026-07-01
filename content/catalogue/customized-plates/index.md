@@ -3,7 +3,7 @@ title: "Customized Plates"
 weight: 98
 draft: false
 description: "Customized Plates"
-tags: []
+tags: ["custom"]
 series_order: 1
 
 cascade:

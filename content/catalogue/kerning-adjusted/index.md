@@ -3,7 +3,7 @@ title: "Kerning-adjusted (Example)"
 weight: 99
 draft: false
 description: "Kerning-adjusted (Example)"
-tags: [""]
+tags: ["example"]
 series_order: 1
 
 cascade:

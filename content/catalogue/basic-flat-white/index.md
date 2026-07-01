@@ -3,8 +3,8 @@ title: "Basic Flat White"
 weight: 5
 draft: false
 description: "Basic Flat White"
-# tags: ["3D-Printed"]
 series_order: 1
+tags: ["basic", "matte"]
 
 cascade:
   showReadingTime: false

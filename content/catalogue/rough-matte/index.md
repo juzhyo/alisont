@@ -3,8 +3,8 @@ title: "Rough Matte"
 weight: 3
 draft: false
 description: "Rough Matte"
-# tags: ["3D-Printed"]
 series_order: 1
+tags: ["matte"]
 
 cascade:
   showReadingTime: false

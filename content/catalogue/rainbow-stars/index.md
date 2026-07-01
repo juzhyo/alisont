@@ -3,7 +3,7 @@ title: "Rainbow Stars"
 weight: 2
 draft: false
 description: "Rainbow Stars"
-#tags: [""]
+tags: ["specialty", "reflective"]
 series_order: 1
 
 cascade:

@@ -3,8 +3,8 @@ title: "Basic Black Euro"
 weight: 9
 draft: false
 description: "Basic Black Euro"
-# tags: ["3D-Printed"]
 series_order: 1
+tags: ["basic", "matte", "clearcoated", "3d-printed"]
 
 cascade:
   showReadingTime: false

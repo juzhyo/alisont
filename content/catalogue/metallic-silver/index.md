@@ -3,7 +3,7 @@ title: "Metallic Silver"
 weight: 8
 draft: false
 description: "Metallic Silver"
-tags: ["Clearcoat available","Spray-painted"]
+tags: ["metallic", "clearcoated"]
 series_order: 1
 
 cascade:

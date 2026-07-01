@@ -3,7 +3,7 @@ title: "Custom 3D Logo"
 weight: 99
 draft: false
 description: "Custom 3D Logo"
-tags: []
+tags: ["custom"]
 series_order: 1
 
 cascade:
