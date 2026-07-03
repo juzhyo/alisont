@@ -8,6 +8,7 @@
 {{ $page := .Page }}
 {{ $featured := "" }}
 {{ $featuredURL := "" }}
+{{ $featuredWebp := "" }}
 {{ if not .Params.hideFeatureImage }}
   {{/* frontmatter */}}
   {{ with $page }}
@@ -50,6 +51,15 @@
         {{ end }}
       {{ end }}
     {{ end }}
+
+    {{/* look up WebP sibling for featured image */}}
+    {{ $featuredWebp = "" }}
+    {{ with $featured }}
+      {{ $webpName := replace .Name (path.Ext .Name) ".webp" }}
+      {{ with $.Page.Resources.GetMatch $webpName }}
+        {{ $featuredWebp = (.Resize "600x webp").RelPermalink }}
+      {{ end }}
+    {{ end }}
   {{ end }}
 {{ end }}
 
@@ -57,14 +67,26 @@
 <article
   class="article-link--card relative min-h-full min-w-full overflow-hidden rounded-lg border border-neutral-300 dark:border-neutral-600"
   {{ with .Page.Params.tags }}data-tags="{{ range . }}{{ . | urlize }} {{ end }}"{{ end }}>
-  {{ with $featuredURL }}
+  {{ if or $featuredURL $featuredWebp }}
     <div class="flex-none relative overflow-hidden thumbnail_card">
-      <img
-        src="{{ . }}"
-        role="presentation"
-        loading="lazy"
-        decoding="async"
-        class="not-prose absolute inset-0 w-full h-full object-cover">
+      {{ if $featuredWebp }}
+        <picture>
+          <source srcset="{{ $featuredWebp }}" type="image/webp">
+          <img
+            src="{{ $featuredURL }}"
+            role="presentation"
+            loading="lazy"
+            decoding="async"
+            class="not-prose absolute inset-0 w-full h-full object-cover">
+        </picture>
+      {{ else }}
+        <img
+          src="{{ $featuredURL }}"
+          role="presentation"
+          loading="lazy"
+          decoding="async"
+          class="not-prose absolute inset-0 w-full h-full object-cover">
+      {{ end }}
     </div>
   {{ end }}
   {{ if and .Draft .Site.Params.article.showDraftLabel }}

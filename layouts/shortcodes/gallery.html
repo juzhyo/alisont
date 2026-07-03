@@ -32,9 +32,16 @@
 
 <div id="{{ $id }}" class="insta-grid-{{ $id }}">
   {{ range $images }}
-    <a href="{{ .RelPermalink }}" class="insta-gallery-item">
-      {{ $thumb := .Resize "600x" }}
-      <img src="{{ $thumb.RelPermalink }}" alt="" loading="lazy">
-    </a>
+    {{ if ne .MediaType.SubType "webp" }}
+      {{ $thumb := .Resize "600x webp" }}
+      {{ $fallback := .Resize "600x" }}
+      {{ $webpFull := $.Page.Resources.GetMatch (replace .Name (path.Ext .Name) ".webp") }}
+      <a href="{{ if $webpFull }}{{ $webpFull.RelPermalink }}{{ else }}{{ .RelPermalink }}{{ end }}" class="insta-gallery-item">
+        <picture>
+          <source srcset="{{ $thumb.RelPermalink }}" type="image/webp">
+          <img src="{{ $fallback.RelPermalink }}" alt="" loading="lazy">
+        </picture>
+      </a>
+    {{ end }}
   {{ end }}
 </div>
