@@ -22,3 +22,6 @@
 {{ $catalogueFilter := resources.Get "js/catalogue-filter.js" | resources.Minify | resources.Fingerprint (.Site.Params.fingerprintAlgorithm | default "sha512") }}
 <script defer type="text/javascript" src="{{ $catalogueFilter.RelPermalink }}" integrity="{{ $catalogueFilter.Data.Integrity }}"></script>
 
+<script data-goatcounter="https://alisontdesign.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
+
