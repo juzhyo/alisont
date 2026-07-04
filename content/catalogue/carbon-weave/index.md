@@ -3,7 +3,7 @@ title: "Carbon Weave"
 weight: 4
 draft: false
 description: "Carbon Weave"
-tags: ["metallic", "weave"]
+tags: ["metallic", "weave", "carbon"]
 series_order: 1
 
 cascade:
@@ -19,12 +19,15 @@ cascade:
 {{< gallery images="img/*" >}}
 
 ## PRODUCT DETAILS
-* 2 Option choices. Metallic/ Matt Carbon. (Not sticker, Not hydrodip)
-* Laminated with Oracal Road Safety Reflective. (Compliant Standard)
-* UV resistant
-* Chemical resistant
+* Carbon Weave finish (Metallic or Matt Carbon)
+* Solid block characters
+* MIPA 2K-HS-Klarlack CS95 clearcoat (Germany)
+* MIPA Metallic Silver Spray-painted (Metallic option)
+* 2 options (Small/Big Flakes)
+* Not sticker, Not hydrodip
+* UV resistant, Chemical resistant
 * Adhesive bonded (No gap between alphabets and baseplate)
-* 3mm thick Glossy Casted Acrylic (Laser-cut)
+* 3mm thick Glossy or Matt Satin Casted Acrylic (Laser-cut, not laminated)
 * Clearly visible at all Distance and Angles
 * VEP/ANPR Friendly (readable by camera systems at customs and condominium gantries)
 * Crafted locally in Singapore
