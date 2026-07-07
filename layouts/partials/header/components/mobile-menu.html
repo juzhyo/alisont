@@ -1,0 +1,64 @@
+<div class="flex items-center h-14 gap-4">
+  {{ if .Site.Params.enableSearch | default false }}
+    <button
+      id="search-button-mobile"
+      aria-label="Search"
+      class="flex items-center justify-center bf-icon-color-hover"
+      title="{{ i18n "search.open_button_title" }}">
+      {{ partial "icon.html" "search" }}
+    </button>
+  {{ end }}
+
+  {{ if .Site.Params.footer.showAppearanceSwitcher | default false }}
+    <button
+      id="appearance-switcher-mobile"
+      type="button"
+      aria-label="Dark mode switcher"
+      class="flex items-center justify-center text-neutral-900 hover:text-primary-600 dark:text-neutral-200 dark:hover:text-primary-400">
+      <div class="dark:hidden">
+        {{ partial "icon.html" "moon" }}
+      </div>
+      <div class="hidden dark:block">
+        {{ partial "icon.html" "sun" }}
+      </div>
+    </button>
+  {{ end }}
+
+  {{ if or
+    .Site.Menus.main
+    .Site.Menus.subnavigation
+    .Site.Params.enableA11y
+  }}
+    <button id="hamburger-btn" aria-label="Menu" style="display:flex;align-items:center;justify-content:center;cursor:pointer;background:none;border:none;padding:4px;color:#fff">
+      <svg viewBox="0 0 448 512" width="24" height="24" fill="white"><path d="M0 96C0 78.33 14.33 64 32 64H416c17.7 0 32 14.33 32 32 0 17.7-14.3 32-32 32H32C14.33 128 0 113.7 0 96zM0 256c0-17.7 14.33-32 32-32H416c17.7 0 32 14.3 32 32s-14.3 32-32 32H32c-17.67 0-32-14.3-32-32zM416 448H32c-17.67 0-32-14.3-32-32s14.33-32 32-32H416c17.7 0 32 14.3 32 32s-14.3 32-32 32z"/></svg>
+    </button>
+
+    <div id="mobile-menu-overlay" style="display:none;position:fixed;inset:0;z-index:9999;overflow-y:auto;padding:5rem 1.5rem 3rem;background:#fff;">
+      <button id="mobile-menu-close" style="position:fixed;top:1.25rem;right:2rem;z-index:50;width:3rem;height:3rem;cursor:pointer;border-radius:9999px;border:1px solid #ddd;display:flex;align-items:center;justify-content:center;background:#fff;">
+        <svg viewBox="0 0 320 512" width="20" height="20" fill="#333"><path d="M310.6 361.4c12.5 12.5 12.5 32.75 0 45.25C304.4 412.9 296.2 416 288 416s-16.38-3.125-22.62-9.375L160 301.3 54.63 406.6C48.38 412.9 40.19 416 32 416S15.63 412.9 9.375 406.6c-12.5-12.5-12.5-32.75 0-45.25l105.4-105.4L9.375 150.6c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L160 210.8l105.4-105.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-105.4 105.4L310.6 361.4z"/></svg>
+      </button>
+      <nav style="max-width:28rem;margin:0 auto;">
+        {{ range .Site.Menus.main }}
+          <div style="padding:0 0.5rem;margin-bottom:1rem">
+            <a href="{{ .URL }}" style="display:flex;align-items:center;gap:1rem;text-decoration:none;color:#333;font-size:1.5rem;font-weight:700">
+              {{ .Name | markdownify }}
+            </a>
+          </div>
+        {{ end }}
+      </nav>
+    </div>
+
+    <script>
+    (function(){
+      var btn = document.getElementById('hamburger-btn');
+      var ov = document.getElementById('mobile-menu-overlay');
+      var close = document.getElementById('mobile-menu-close');
+      if (!btn || !ov) return;
+      btn.addEventListener('click', function(e) { e.stopPropagation(); ov.style.display = ''; });
+      if (close) close.addEventListener('click', function(e) { e.stopPropagation(); ov.style.display = 'none'; });
+      ov.addEventListener('click', function(e) { if (e.target === ov) ov.style.display = 'none'; });
+      document.addEventListener('keydown', function(e) { if (e.key === 'Escape') ov.style.display = 'none'; });
+    })();
+    </script>
+  {{ end }}
+</div>
