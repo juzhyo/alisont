@@ -99,3 +99,15 @@ body, html, .dark body, .bg-neutral, .dark .bg-neutral-800, #site-main {
     right: 20px !important;
   }
 }
+
+/* Missing Tailwind utilities */
+.hidden { display: none !important; }
+.flex { display: flex !important; }
+@media (min-width: 768px) {
+  .md\:flex { display: flex !important; }
+  .md\:hidden { display: none !important; }
+}
+/* Header background (bg-neutral/25 missing from compiled CSS) */
+#menu-blur {
+  background: rgba(15, 23, 42, 0.6) !important;
+}
