@@ -4,7 +4,7 @@ weight: 9
 draft: false
 description: "Basic Black Euro"
 series_order: 1
-tags: ["basic", "matte", "clearcoated"]
+tags: ["basic", "matte"]
 
 cascade:
   showReadingTime: false
@@ -20,7 +20,6 @@ cascade:
 
 ## PRODUCT DETAILS
 * 3D-printed, solid block characters
-* MIPA 2K-HS-Klarlack CS95 clearcoat (Germany)
 * UV, Chemical resistant
 * Adhesive bonded (No gap between alphabets and baseplate)
 * 3mm thick Glossy or Matt Satin Casted Acrylic (Laser-cut) (Not laminated)
