@@ -32,7 +32,11 @@
 
 <div id="{{ $id }}" class="insta-grid-{{ $id }}">
   {{ range $images }}
-    {{ if ne .MediaType.SubType "webp" }}
+    {{ if eq .MediaType.SubType "gif" }}
+      <a href="{{ .RelPermalink }}" class="insta-gallery-item">
+        <img src="{{ .RelPermalink }}" alt="" loading="lazy">
+      </a>
+    {{ else if ne .MediaType.SubType "webp" }}
       {{ $thumb := .Resize "600x webp" }}
       {{ $fallback := .Resize "600x" }}
       {{ $webpFull := $.Page.Resources.GetMatch (replace .Name (path.Ext .Name) ".webp") }}
