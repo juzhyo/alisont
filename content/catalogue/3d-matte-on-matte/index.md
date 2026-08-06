@@ -24,7 +24,7 @@ cascade:
 * UV, Chemical resistant
 * Adhesive bonded (No gap between alphabets and baseplate)
 * 3mm thick Satin Matte Casted Acrylic (Laser-cut) (Not laminated)
-* Permanently embedded characters — no fading, flaking, or peeling
+* Permanently embedded quotes/logo (optional)
 * Clearly visible at all Distance and Angles
 * VEP/ANPR Friendly (readable by camera systems at customs and condominium gantries)
 * Crafted locally in Singapore
