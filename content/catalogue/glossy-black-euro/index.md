@@ -3,6 +3,7 @@ title: "Glossy Black Euro"
 weight: 10
 draft: false
 description: "Glossy Black Euro"
+category: "Car Plates"
 tags: ["glossy", "clearcoated"]
 series_order: 1
 

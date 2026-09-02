@@ -3,6 +3,7 @@ title: "Metallic Silver"
 weight: 8
 draft: false
 description: "Metallic Silver"
+category: "Car Plates"
 tags: ["metallic", "clearcoated"]
 series_order: 1
 

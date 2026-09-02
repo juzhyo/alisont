@@ -3,6 +3,7 @@ title: "Classic Retro"
 weight: 3
 draft: false
 description: "Classic Retro"
+category: "Car Plates"
 tags: ["specialty"]
 series_order: 1
 

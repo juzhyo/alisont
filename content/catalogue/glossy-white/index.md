@@ -3,6 +3,7 @@ title: "Glossy White"
 weight: 6
 draft: false
 description: "Glossy White"
+category: "Car Plates"
 tags: ["glossy", "clearcoated"]
 series_order: 1
 

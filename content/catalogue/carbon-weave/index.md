@@ -3,6 +3,7 @@ title: "Carbon Weave"
 weight: 4
 draft: false
 description: "Carbon Weave"
+category: "Car Plates"
 tags: ["metallic", "weave", "carbon"]
 series_order: 1
 

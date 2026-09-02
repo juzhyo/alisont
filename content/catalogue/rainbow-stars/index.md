@@ -3,6 +3,7 @@ title: "Rainbow Stars"
 weight: 2
 draft: false
 description: "Rainbow Stars"
+category: "Car Plates"
 tags: ["specialty", "reflective"]
 series_order: 1
 

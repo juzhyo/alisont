@@ -9,6 +9,9 @@
   const cards = document.querySelectorAll("article.article-link--card");
   if (!cards.length) return;
 
+  // Category groups (h2 header + card grid) — hidden when all their cards are filtered out
+  const groups = document.querySelectorAll(".catalogue-group");
+
   const buttons = filterBar.querySelectorAll("[data-filter]");
   let activeFilter = null;
 
@@ -27,6 +30,17 @@
       const cardTags = (card.getAttribute("data-tags") || "").split(/\s+/);
       const match = cardTags.indexOf(tag) !== -1;
       card.style.display = match ? "" : "none";
+    });
+
+    // Hide any category group whose cards are all hidden; show the rest
+    groups.forEach(function (group) {
+      const visible = Array.prototype.some.call(
+        group.querySelectorAll("article.article-link--card"),
+        function (card) {
+          return card.style.display !== "none";
+        }
+      );
+      group.style.display = visible ? "" : "none";
     });
   }
 

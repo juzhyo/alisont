@@ -3,6 +3,7 @@ title: "Custom Diecast Acrylic Case"
 weight: 101
 draft: false
 description: "Custom Diecast Acrylic Case"
+category: "Accessories"
 tags: ["custom"]
 series_order: 1
 

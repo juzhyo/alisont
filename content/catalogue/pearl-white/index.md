@@ -3,6 +3,7 @@ title: "Pearl White"
 weight: 7
 draft: false
 description: "Pearl White"
+category: "Car Plates"
 tags: ["pearl", "clearcoated"]
 series_order: 1
 

@@ -3,6 +3,7 @@ title: "Custom Logo"
 weight: 97
 draft: false
 description: "Custom Logo"
+category: "Custom Work"
 tags: ["custom"]
 series_order: 1
 

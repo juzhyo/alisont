@@ -3,6 +3,7 @@ title: "Customized Plates"
 weight: 98
 draft: false
 description: "Customized Plates"
+category: "Custom Work"
 tags: ["custom"]
 series_order: 1
 

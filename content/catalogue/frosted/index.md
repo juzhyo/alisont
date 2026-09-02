@@ -3,6 +3,7 @@ title: "Frosted"
 weight: 1
 draft: false
 description: "Frosted"
+category: "Car Plates"
 tags: ["specialty", "signature", "clearcoated"]
 series_order: 1
 

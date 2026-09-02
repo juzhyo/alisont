@@ -3,6 +3,7 @@ title: "Basic Satin Matte"
 weight: 12
 draft: false
 description: "Basic Satin Matte"
+category: "Car Plates"
 tags: ["basic", "matte"]
 series_order: 1
 

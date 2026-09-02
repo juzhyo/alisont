@@ -3,6 +3,7 @@ title: "Custom 3D Logo"
 weight: 99
 draft: false
 description: "Custom 3D Logo"
+category: "Custom Work"
 tags: ["custom"]
 series_order: 1
 

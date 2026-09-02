@@ -3,6 +3,7 @@ title: "Motorcycle Plates"
 weight: 100
 draft: false
 description: "Motorcycle Plates"
+category: "Motorcycle Plates"
 tags: ["motorcycle"]
 series_order: 1
 

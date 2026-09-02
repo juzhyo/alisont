@@ -3,6 +3,7 @@ title: "Pearl Black"
 weight: 11
 draft: false
 description: "Pearl Black"
+category: "Car Plates"
 tags: ["pearl", "clearcoated"]
 series_order: 1
 

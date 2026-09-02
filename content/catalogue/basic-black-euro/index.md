@@ -3,6 +3,7 @@ title: "Basic Black Euro"
 weight: 9
 draft: false
 description: "Basic Black Euro"
+category: "Car Plates"
 series_order: 1
 tags: ["basic", "matte"]
 
