@@ -43,12 +43,33 @@
   {{/* Article Grid — grouped by category */}}
   {{ if gt .Pages 0 }}
     {{ $categories := slice "Car Plates" "Motorcycle Plates" "Custom Work" "Accessories" }}
+
+    {{/* Sticky category jump bar */}}
+    <nav
+      id="catalogue-jump"
+      class="sticky top-[88px] lg:top-[140px] z-40 -mx-4 sm:mx-0 mb-2 px-4 sm:px-0 py-3 backdrop-blur bg-neutral-50/80 dark:bg-neutral-800/70 border-b border-neutral-200 dark:border-neutral-700 print:hidden"
+      aria-label="Catalogue categories">
+      <div class="flex flex-wrap gap-2">
+        {{ range $categories }}
+          {{ $cat := . }}
+          {{ $catPages := where $.Pages "Params.category" $cat }}
+          {{ if gt (len $catPages) 0 }}
+            <a
+              href="#{{ $cat | urlize }}"
+              class="px-3 py-1.5 rounded-full border border-neutral-300 dark:border-neutral-600 text-sm font-medium hover:bg-primary-100 dark:hover:bg-primary-900 transition-colors">
+              {{ $cat }}
+            </a>
+          {{ end }}
+        {{ end }}
+      </div>
+    </nav>
+
     <div id="catalogue-groups">
       {{ range $categories }}
         {{ $cat := . }}
         {{ $catPages := where $.Pages "Params.category" $cat }}
         {{ if gt (len $catPages) 0 }}
-          <div class="catalogue-group" data-category="{{ $cat }}">
+          <div id="{{ $cat | urlize }}" class="catalogue-group scroll-mt-[160px] lg:scroll-mt-[180px]" data-category="{{ $cat }}">
             <h2 class="mt-12 mb-3 text-2xl font-bold text-neutral-700 first:mt-8 dark:text-neutral-300">
               {{ $cat }}
             </h2>
