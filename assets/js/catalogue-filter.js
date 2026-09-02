@@ -12,9 +12,6 @@
   // Category groups (h2 header + card grid) — hidden when all their cards are filtered out
   const groups = document.querySelectorAll(".catalogue-group");
 
-  // Sticky category jump bar — links mirror group visibility
-  const jumpBar = document.getElementById("catalogue-jump");
-
   const buttons = filterBar.querySelectorAll("[data-filter]");
   let activeFilter = null;
 
@@ -36,7 +33,6 @@
     });
 
     // Hide any category group whose cards are all hidden; show the rest
-    const visibleGroups = [];
     groups.forEach(function (group) {
       const visible = Array.prototype.some.call(
         group.querySelectorAll("article.article-link--card"),
@@ -45,29 +41,6 @@
         }
       );
       group.style.display = visible ? "" : "none";
-      if (visible) visibleGroups.push(group.id);
-    });
-
-    // Jump bar: only show links to groups that still have visible cards
-    if (jumpBar) {
-      const links = jumpBar.querySelectorAll("a[href^='#']");
-      links.forEach(function (link) {
-        const targetId = link.getAttribute("href").slice(1);
-        link.style.display =
-          visibleGroups.indexOf(targetId) !== -1 ? "" : "none";
-      });
-    }
-  }
-
-  // Smooth scroll for jump-bar links (accounts for the fixed header offset)
-  if (jumpBar) {
-    jumpBar.addEventListener("click", function (e) {
-      var link = e.target.closest("a[href^='#']");
-      if (!link) return;
-      var target = document.getElementById(link.getAttribute("href").slice(1));
-      if (!target) return;
-      e.preventDefault();
-      target.scrollIntoView({ behavior: "smooth", block: "start" });
     });
   }
 
