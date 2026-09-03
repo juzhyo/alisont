@@ -21,6 +21,7 @@ cascade:
 
 ## PRODUCT DETAILS
 * 3D-printed, solid block characters
+* Compliant standard sizing/spacing — 35mm by 25mm
 * Compact dimensions engineered for e-bike plate requirements
 * UV, Chemical resistant
 * Adhesive bonded (No gap between alphabets and baseplate)
