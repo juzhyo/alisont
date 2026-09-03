@@ -1,10 +1,10 @@
 ---
-title: "Motorcycle Plates"
-weight: 100
+title: "E-Bike Plates"
+weight: 101
 draft: false
-description: "Motorcycle Plates"
+description: "E-Bike Plates"
 category: "Motorcycle & E-Bike Plates"
-tags: ["motorcycle"]
+tags: ["e-bike"]
 series_order: 1
 
 cascade:
@@ -21,7 +21,7 @@ cascade:
 
 ## PRODUCT DETAILS
 * 3D-printed, solid block characters
-* Compact dimensions engineered for motorcycle plate requirements
+* Compact dimensions engineered for e-bike plate requirements
 * UV, Chemical resistant
 * Adhesive bonded (No gap between alphabets and baseplate)
 * 3mm thick casted acrylic (laser-cut)
