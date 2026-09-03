@@ -30,7 +30,7 @@
 }
 </style>
 
-<div id="{{ $id }}" class="insta-grid-{{ $id }}">
+<div id="{{ $id }}" class="insta-gallery insta-grid-{{ $id }}">
   {{ range $images }}
     {{ if eq .MediaType.SubType "gif" }}
       <a href="{{ .RelPermalink }}" class="insta-gallery-item">
