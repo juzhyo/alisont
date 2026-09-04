@@ -35,7 +35,7 @@
       closeBtn.style.cssText =
         "position:absolute;top:16px;right:20px;background:none;border:none;color:#fff;font-size:40px;cursor:pointer;line-height:1;z-index:10";
       closeBtn.addEventListener("click", closeLightbox);
-      wrap.appendChild(closeBtn);
+      overlay.appendChild(closeBtn);
 
       var prevBtn = document.createElement("button");
       prevBtn.innerHTML =
@@ -46,7 +46,7 @@
         e.stopPropagation();
         navigate(-1);
       });
-      wrap.appendChild(prevBtn);
+      overlay.appendChild(prevBtn);
 
       var nextBtn = document.createElement("button");
       nextBtn.innerHTML =
@@ -57,7 +57,7 @@
         e.stopPropagation();
         navigate(1);
       });
-      wrap.appendChild(nextBtn);
+      overlay.appendChild(nextBtn);
 
       var img = document.createElement("img");
       img.id = "insta-lightbox-img";
