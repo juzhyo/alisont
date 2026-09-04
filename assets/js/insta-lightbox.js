@@ -145,6 +145,7 @@
     }
 
     document.addEventListener("keydown", onKeydown);
+    renderImage(); // set the image src (first open: img was just created)
   }
 
   function applyZoom(next) {
