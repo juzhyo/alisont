@@ -1,6 +1,6 @@
 ---
 title: "Singapore's First Custom 3D Number Plates"
-description: "🇸🇬 Singapore's First 3D-Printed Number Plates 🇸🇬"
+description: "Singapore's first custom 3D number plates - crafted locally in Singapore for cars, motorcycles and e-bikes. 24-hour turnaround, VEP/ANPR friendly, made to order."
 ---
 
 
