@@ -53,9 +53,12 @@ jobs:
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
           HUGO_ENVIRONMENT: production
         run: |
+          # Canonical production URL — must match baseURL in config/_default/hugo.toml.
+          # Hardcoded instead of ${{ steps.pages.outputs.base_url }} so the site always
+          # canonicals to HTTPS, even if "Enforce HTTPS" is toggled off in Pages settings.
           hugo \
             --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}/"
+            --baseURL "https://alisontdesign.com/"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:

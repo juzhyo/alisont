@@ -3,7 +3,9 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish"
-baseURL = "https://juzhyo.github.io/"
+# Canonical production URL — HTTPS is enforced via GitHub Pages custom domain.
+# Keep in sync with the --baseURL flag in .github/workflows/hugo.yml.
+baseURL = "https://alisontdesign.com/"
 defaultContentLanguage = "en"
 disableLanguages = [] #to allow translation work requiring shipping to production
 
