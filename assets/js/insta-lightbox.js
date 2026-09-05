@@ -123,7 +123,6 @@
         function (e) {
           activeTouches = e.touches.length;
           if (activeTouches === 2) {
-            if (isVideoItem()) return; // no pinch-zoom on video
             e.preventDefault();
             var d = distance(e.touches[0], e.touches[1]);
             if (pinchStartDist > 0) {
@@ -164,10 +163,9 @@
         { passive: true }
       );
 
-      // Double-tap to zoom in / reset (nice on mobile) — images only.
+      // Double-tap to zoom in / reset (nice on mobile) — images and video.
       overlay.addEventListener("dblclick", function (e) {
         if (isControl(e.target)) return;
-        if (isVideoItem()) return;
         applyZoom(zoom > minZoom ? 1 : maxZoom);
       });
 
@@ -182,13 +180,11 @@
   }
 
   function applyZoom(next) {
-    if (isVideoItem()) {
-      zoom = 1;
-      return;
-    }
     zoom = next;
-    var img = document.getElementById("insta-lightbox-img");
-    if (img) img.style.transform = "scale(" + zoom + ")";
+    var el = isVideoItem()
+      ? document.getElementById("insta-lightbox-video")
+      : document.getElementById("insta-lightbox-img");
+    if (el) el.style.transform = "scale(" + zoom + ")";
   }
 
   function distance(t1, t2) {
@@ -207,6 +203,10 @@
     if (!currentItems.length) return;
     var item = currentItems[currentIndex];
     var isVid = item.media === "video";
+
+    // Clear any stale zoom transforms before showing the next item.
+    if (img) img.style.transform = "";
+    if (video) video.style.transform = "";
 
     if (isVid) {
       if (img) {
