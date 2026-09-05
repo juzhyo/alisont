@@ -1,0 +1,64 @@
+{{/* Homepage Organization structured data, appended to <head> (not cached — needs page context).
+    NOTE: inside <script>, Hugo's contextual escaper JS-escapes interpolations,
+    so every dynamic value must pass through jsonify AND safeJS to stay valid JSON. */}}
+{{- if .IsHome -}}
+  {{- $org := .Site.Params.organization -}}
+  {{- if $org -}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "@id": {{ (print $.Site.BaseURL "#organization") | jsonify | safeJS }},
+  "name": {{ $org.name | jsonify | safeJS }},
+  {{- if $org.legalName }}
+  "legalName": {{ $org.legalName | jsonify | safeJS }},
+  {{- end }}
+  "url": {{ $.Site.BaseURL | jsonify | safeJS }},
+  {{- if $org.logo }}
+  "logo": {{ (printf "%s%s" $.Site.BaseURL (strings.TrimPrefix "/" $org.logo)) | jsonify | safeJS }},
+  {{- end }}
+  {{- if $org.email }}
+  "email": {{ $org.email | jsonify | safeJS }},
+  {{- end }}
+  {{- if $org.telephone }}
+  "telephone": {{ $org.telephone | jsonify | safeJS }},
+  {{- end }}
+  {{- if $org.streetAddress }}
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": {{ $org.streetAddress | jsonify | safeJS }},
+    {{- if $org.addressLocality }}
+    "addressLocality": {{ $org.addressLocality | jsonify | safeJS }},
+    {{- end }}
+    {{- if $org.postalCode }}
+    "postalCode": {{ $org.postalCode | jsonify | safeJS }},
+    {{- end }}
+    "addressCountry": {{ ($org.addressCountry | default "SG") | jsonify | safeJS }}
+  },
+  {{- end }}
+  {{- if $org.telephone }}
+  "contactPoint": [{
+    "@type": "ContactPoint",
+    "contactType": "sales",
+    "telephone": {{ $org.telephone | jsonify | safeJS }},
+    "areaServed": "SG",
+    "availableLanguage": ["en", "zh"]
+  }],
+  {{- end }}
+  "sameAs": [
+    {{- $links := slice -}}
+    {{- with $.Site.Params.Author.links -}}
+      {{- range . -}}
+        {{- range $name, $url := . -}}
+          {{- if not (strings.HasPrefix $url "mailto:") -}}
+            {{- $links = $links | append $url -}}
+          {{- end -}}
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+    {{- range $i, $l := $links }}{{ if $i }},{{ end }}{{ $l | jsonify | safeJS }}{{ end -}}
+  ]
+}
+</script>
+  {{- end -}}
+{{- end -}}
