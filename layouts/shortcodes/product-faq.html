@@ -1,0 +1,52 @@
+{{/* Per-product FAQ block: visible Q&A + FAQPage JSON-LD.
+    Rendered at the end of each plate product page via {{< product-faq >}}.
+    Answers are single-sourced here; edit once, all pages update. */}}
+{{- $t := $.Page.Title -}}
+{{- $lower := lower $t -}}
+{{- $isPlural := strings.HasSuffix $lower "plates" -}}
+{{- $hasPlate := or (strings.HasSuffix $lower "plate") (strings.HasSuffix $lower "plates") -}}
+
+{{- $q1 := cond $hasPlate (printf "How long does it take to make my %s?" $t) (printf "How long does it take to make my %s plate?" $t) -}}
+{{- $q2 := cond $isPlural (printf "Are %s suitable for road use in Singapore?" $t) (printf "Is %s suitable for road use in Singapore?" $t) -}}
+{{- $q3 := "How durable is it in Singapore's weather?" -}}
+{{- $q4 := printf "How do I order %s?" $t -}}
+
+{{- $a1 := "Most custom orders are produced within 24 hours (1 business day). Once your order is confirmed, we'll give you a precise ETA before we start." -}}
+{{- $a2 := "Our standard prints are precision-engineered to meet strict OneMotoring dimensional standards (70mm H \u00d7 50mm W \u00d7 10mm) and are VEP/ANPR friendly - readable by the camera systems at customs and condominium gantries. Full custom dimensions or track-spec styling are strictly for off-road, show or display use." -}}
+{{- $a3 := "Built for daily driving - UV- and chemical-resistant coatings over 3mm laser-cut cast acrylic keep the characters sharp and fade-free through sun and rain." -}}
+{{- $a4 := "WhatsApp us at (+65) 8826 1189 with your registration number and preferred finish, or use the contact page - we'll confirm your specs and ETA before production." -}}
+
+<h2 id="faq">Frequently Asked Questions</h2>
+<p><strong>{{ $q1 }}</strong><br>{{ $a1 }}</p>
+<p><strong>{{ $q2 }}</strong><br>{{ $a2 }}</p>
+<p><strong>{{ $q3 }}</strong><br>{{ $a3 }}</p>
+<p><strong>{{ $q4 }}</strong><br>{{ $a4 }}</p>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": {{ $q1 | jsonify | safeJS }},
+      "acceptedAnswer": { "@type": "Answer", "text": {{ $a1 | jsonify | safeJS }} }
+    },
+    {
+      "@type": "Question",
+      "name": {{ $q2 | jsonify | safeJS }},
+      "acceptedAnswer": { "@type": "Answer", "text": {{ $a2 | jsonify | safeJS }} }
+    },
+    {
+      "@type": "Question",
+      "name": {{ $q3 | jsonify | safeJS }},
+      "acceptedAnswer": { "@type": "Answer", "text": {{ $a3 | jsonify | safeJS }} }
+    },
+    {
+      "@type": "Question",
+      "name": {{ $q4 | jsonify | safeJS }},
+      "acceptedAnswer": { "@type": "Answer", "text": {{ $a4 | jsonify | safeJS }} }
+    }
+  ]
+}
+</script>

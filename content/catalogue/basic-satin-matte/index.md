@@ -31,3 +31,5 @@ Basic Satin Matte
 * Easy to clean!
 * 1:1 exchange if it breaks! (Terms and Conditions apply)
 * Crafted locally in Singapore
+
+{{< product-faq >}}

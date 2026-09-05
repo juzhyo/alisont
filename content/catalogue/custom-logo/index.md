@@ -22,3 +22,5 @@ cascade:
 ## PRODUCT DETAILS
 * Contact us for customization requests
 * Crafted locally in Singapore
+
+{{< product-faq >}}

@@ -30,3 +30,5 @@ cascade:
 * VEP/ANPR Friendly (readable by camera systems at customs and condominium gantries)
 * Rainbow stars can be hidden with layer of oil. 
 * Crafted locally in Singapore
+
+{{< product-faq >}}
