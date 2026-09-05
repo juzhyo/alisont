@@ -1,7 +1,10 @@
 {{ $all := .Page.Resources.Match (.Get "images" | default "img/*") }}
-{{ $videos := where $all "MediaType.SubType" "gif" }}
-{{ $photos := where $all "MediaType.SubType" "ne" "gif" }}
-{{ $images := $videos | append $photos }}
+{{/* Clips (videos first, then any stray gifs) keep the old "GIFs on top" ordering */}}
+{{ $videos := where $all "MediaType.MainType" "video" }}
+{{ $gifs := where $all "MediaType.SubType" "gif" }}
+{{ $photos := where $all "MediaType.MainType" "image" }}
+{{ $photos = where $photos "MediaType.SubType" "ne" "gif" }}
+{{ $clips := $videos | append $gifs }}
 {{ $id := delimit (slice "gallery" (partial "functions/uid.html" .)) "-" }}
 
 <style>
@@ -17,13 +20,15 @@
   border-radius: 4px;
   line-height: 0;
 }
-.insta-grid-{{ $id }} a img {
+.insta-grid-{{ $id }} a img,
+.insta-grid-{{ $id }} a video {
   width: 100%;
   height: auto;
   display: block;
   transition: transform 0.2s;
 }
-.insta-grid-{{ $id }} a:hover img {
+.insta-grid-{{ $id }} a:hover img,
+.insta-grid-{{ $id }} a:hover video {
   transform: scale(1.05);
 }
 @media (max-width: 640px) {
@@ -34,12 +39,19 @@
 </style>
 
 <div id="{{ $id }}" class="insta-gallery insta-grid-{{ $id }}">
-  {{ range $images }}
+  {{ range $clips }}
     {{ if eq .MediaType.SubType "gif" }}
       <a href="{{ .RelPermalink }}" class="insta-gallery-item">
         <img src="{{ .RelPermalink }}" alt="" loading="lazy" class="nozoom">
       </a>
-    {{ else if ne .MediaType.SubType "webp" }}
+    {{ else }}
+      <a href="{{ .RelPermalink }}" class="insta-gallery-item">
+        <video src="{{ .RelPermalink }}" autoplay loop muted playsinline preload="metadata" class="nozoom"></video>
+      </a>
+    {{ end }}
+  {{ end }}
+  {{ range $photos }}
+    {{ if ne .MediaType.SubType "webp" }}
       {{ $thumb := .Resize "600x webp" }}
       {{ $fallback := .Resize "600x" }}
       {{ $webpFull := $.Page.Resources.GetMatch (replace .Name (path.Ext .Name) ".webp") }}
