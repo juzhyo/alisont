@@ -30,11 +30,11 @@
 }
 </style>
 
-<div id="{{ $id }}" class="insta-grid-{{ $id }}">
+<div id="{{ $id }}" class="insta-gallery insta-grid-{{ $id }}">
   {{ range $images }}
     {{ if eq .MediaType.SubType "gif" }}
       <a href="{{ .RelPermalink }}" class="insta-gallery-item">
-        <img src="{{ .RelPermalink }}" alt="" loading="lazy">
+        <img src="{{ .RelPermalink }}" alt="" loading="lazy" class="nozoom">
       </a>
     {{ else if ne .MediaType.SubType "webp" }}
       {{ $thumb := .Resize "600x webp" }}
@@ -43,7 +43,7 @@
       <a href="{{ if $webpFull }}{{ $webpFull.RelPermalink }}{{ else }}{{ .RelPermalink }}{{ end }}" class="insta-gallery-item">
         <picture>
           <source srcset="{{ $thumb.RelPermalink }}" type="image/webp">
-          <img src="{{ $fallback.RelPermalink }}" alt="" loading="lazy">
+          <img src="{{ $fallback.RelPermalink }}" alt="" loading="lazy" class="nozoom">
         </picture>
       </a>
     {{ end }}
