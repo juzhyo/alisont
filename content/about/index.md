@@ -1,6 +1,6 @@
 ---
 title: "About Us"
-description: "About Us"
+description: "Meet AlisonT Design, the workshop behind Singapore's custom 3D-printed number plates - 24-hour turnaround, crafted locally for cars, motorcycles and e-bikes."
 
 
 cascade:
