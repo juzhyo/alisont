@@ -15,6 +15,20 @@
   const buttons = filterBar.querySelectorAll("[data-filter]");
   let activeFilter = null;
 
+  // Umbrella chips that match several granular tags (e.g. Bikes → motorcycle + e-bike).
+  // Keeps product tags precise while letting one chip group related products.
+  const filterAliases = {
+    bikes: ["motorcycle", "e-bike"],
+  };
+
+  function cardMatches(card, tag) {
+    const cardTags = (card.getAttribute("data-tags") || "").split(/\s+/);
+    const targets = filterAliases[tag] || [tag];
+    return targets.some(function (t) {
+      return cardTags.indexOf(t) !== -1;
+    });
+  }
+
   function filterCards(tag) {
     activeFilter = tag;
     buttons.forEach(function (btn) {
@@ -27,8 +41,7 @@
         card.style.display = "";
         return;
       }
-      const cardTags = (card.getAttribute("data-tags") || "").split(/\s+/);
-      const match = cardTags.indexOf(tag) !== -1;
+      const match = cardMatches(card, tag);
       card.style.display = match ? "" : "none";
     });
 

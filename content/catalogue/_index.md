@@ -21,6 +21,7 @@ cascade:
   <button data-filter="metallic" class="px-4 py-2 rounded-full border border-neutral-300 dark:border-neutral-600 text-sm font-medium hover:bg-primary-100 dark:hover:bg-primary-900 transition-colors">Metallic</button>
   <button data-filter="pearl" class="px-4 py-2 rounded-full border border-neutral-300 dark:border-neutral-600 text-sm font-medium hover:bg-primary-100 dark:hover:bg-primary-900 transition-colors">Pearl</button>
   <button data-filter="specialty" class="px-4 py-2 rounded-full border border-neutral-300 dark:border-neutral-600 text-sm font-medium hover:bg-primary-100 dark:hover:bg-primary-900 transition-colors">Specialty</button>
+  <button data-filter="bikes" class="px-4 py-2 rounded-full border border-neutral-300 dark:border-neutral-600 text-sm font-medium hover:bg-primary-100 dark:hover:bg-primary-900 transition-colors">Bikes</button>
   <button data-filter="custom" class="px-4 py-2 rounded-full border border-neutral-300 dark:border-neutral-600 text-sm font-medium hover:bg-primary-100 dark:hover:bg-primary-900 transition-colors">Custom</button>
 </div>
 
