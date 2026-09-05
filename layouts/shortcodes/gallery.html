@@ -41,11 +41,11 @@
 <div id="{{ $id }}" class="insta-gallery insta-grid-{{ $id }}">
   {{ range $clips }}
     {{ if eq .MediaType.SubType "gif" }}
-      <a href="{{ .RelPermalink }}" class="insta-gallery-item">
+      <a href="{{ .RelPermalink }}" class="insta-gallery-item" data-media="image">
         <img src="{{ .RelPermalink }}" alt="" loading="lazy" class="nozoom">
       </a>
     {{ else }}
-      <a href="{{ .RelPermalink }}" class="insta-gallery-item">
+      <a href="{{ .RelPermalink }}" class="insta-gallery-item" data-media="video">
         <video src="{{ .RelPermalink }}" autoplay loop muted playsinline preload="metadata" class="nozoom"></video>
       </a>
     {{ end }}
@@ -55,7 +55,7 @@
       {{ $thumb := .Resize "600x webp" }}
       {{ $fallback := .Resize "600x" }}
       {{ $webpFull := $.Page.Resources.GetMatch (replace .Name (path.Ext .Name) ".webp") }}
-      <a href="{{ if $webpFull }}{{ $webpFull.RelPermalink }}{{ else }}{{ .RelPermalink }}{{ end }}" class="insta-gallery-item">
+      <a href="{{ if $webpFull }}{{ $webpFull.RelPermalink }}{{ else }}{{ .RelPermalink }}{{ end }}" class="insta-gallery-item" data-media="image">
         <picture>
           <source srcset="{{ $thumb.RelPermalink }}" type="image/webp">
           <img src="{{ $fallback.RelPermalink }}" alt="" loading="lazy" class="nozoom">

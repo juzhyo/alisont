@@ -1,4 +1,6 @@
-// Lightbox for Instagram-style gallery with mobile pinch-zoom support
+// Lightbox for Instagram-style gallery with mobile pinch-zoom support.
+// Media-aware: image items get the zoomable <img>; video items get an
+// autoplaying <video> (zoom gestures disabled for video).
 (function () {
   "use strict";
 
@@ -14,6 +16,10 @@
   var pinchStartZoom = 1;
   var activeTouches = 0;
   var suppressClickUntil = 0; // avoid the synthesized click after a pinch
+
+  function isVideoItem() {
+    return !!(currentItems.length && currentItems[currentIndex] && currentItems[currentIndex].media === "video");
+  }
 
   function openLightbox(index, items) {
     currentItems = items;
@@ -68,6 +74,16 @@
         "max-width:100%;max-height:100%;object-fit:contain;border-radius:4px;box-shadow:0 4px 30px rgba(0,0,0,0.5);user-select:none;-webkit-user-drag:none;touch-action:none;transform-origin:center center;will-change:transform;";
       wrap.appendChild(img);
 
+      var video = document.createElement("video");
+      video.id = "insta-lightbox-video";
+      video.setAttribute("autoplay", "");
+      video.setAttribute("loop", "");
+      video.setAttribute("muted", "");
+      video.setAttribute("playsinline", "");
+      video.style.cssText =
+        "max-width:100%;max-height:100%;object-fit:contain;border-radius:4px;box-shadow:0 4px 30px rgba(0,0,0,0.5);display:none;background:#000;touch-action:none;";
+      wrap.appendChild(video);
+
       overlay.appendChild(wrap);
 
       // Close only on genuine tap of the backdrop (or a plain click on desktop).
@@ -107,6 +123,7 @@
         function (e) {
           activeTouches = e.touches.length;
           if (activeTouches === 2) {
+            if (isVideoItem()) return; // no pinch-zoom on video
             e.preventDefault();
             var d = distance(e.touches[0], e.touches[1]);
             if (pinchStartDist > 0) {
@@ -147,9 +164,10 @@
         { passive: true }
       );
 
-      // Double-tap to zoom in / reset (nice on mobile)
+      // Double-tap to zoom in / reset (nice on mobile) — images only.
       overlay.addEventListener("dblclick", function (e) {
         if (isControl(e.target)) return;
+        if (isVideoItem()) return;
         applyZoom(zoom > minZoom ? 1 : maxZoom);
       });
 
@@ -160,10 +178,14 @@
     }
 
     document.addEventListener("keydown", onKeydown);
-    renderImage(); // set the image src (first open: img was just created)
+    renderMedia(); // set the media src (first open: img/video were just created)
   }
 
   function applyZoom(next) {
+    if (isVideoItem()) {
+      zoom = 1;
+      return;
+    }
     zoom = next;
     var img = document.getElementById("insta-lightbox-img");
     if (img) img.style.transform = "scale(" + zoom + ")";
@@ -179,18 +201,42 @@
     return Math.max(lo, Math.min(hi, v));
   }
 
-  function renderImage() {
+  function renderMedia() {
     var img = document.getElementById("insta-lightbox-img");
-    if (img && currentItems.length > 0) {
-      img.src = currentItems[currentIndex].href;
-      img.alt = "";
-      applyZoom(1); // reset zoom when switching images
+    var video = document.getElementById("insta-lightbox-video");
+    if (!currentItems.length) return;
+    var item = currentItems[currentIndex];
+    var isVid = item.media === "video";
+
+    if (isVid) {
+      if (img) {
+        img.removeAttribute("src");
+        img.style.display = "none";
+      }
+      if (video) {
+        video.style.display = "";
+        video.src = item.href;
+        var p = video.play();
+        if (p && p.catch) p.catch(function () {});
+      }
+    } else {
+      if (video) {
+        video.pause();
+        video.removeAttribute("src");
+        video.style.display = "none";
+      }
+      if (img) {
+        img.style.display = "";
+        img.src = item.href;
+        img.alt = "";
+      }
     }
+    applyZoom(1); // reset zoom when switching items
   }
 
   function navigate(dir) {
     currentIndex = (currentIndex + dir + currentItems.length) % currentItems.length;
-    renderImage();
+    renderMedia();
   }
 
   function onKeydown(e) {
@@ -201,6 +247,11 @@
 
   function closeLightbox() {
     if (overlay) {
+      var video = document.getElementById("insta-lightbox-video");
+      if (video) {
+        video.pause();
+        video.removeAttribute("src");
+      }
       overlay.style.opacity = "0";
       setTimeout(function () {
         if (overlay && overlay.parentNode) overlay.parentNode.removeChild(overlay);
@@ -222,7 +273,10 @@
     var items = gallery.querySelectorAll(".insta-gallery-item");
     var index = Array.prototype.indexOf.call(items, link);
     var itemData = Array.prototype.map.call(items, function (item) {
-      return { href: item.getAttribute("href") };
+      return {
+        href: item.getAttribute("href"),
+        media: item.getAttribute("data-media") || "image"
+      };
     });
     openLightbox(index, itemData);
   });
