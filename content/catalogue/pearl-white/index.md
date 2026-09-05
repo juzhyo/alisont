@@ -1,8 +1,8 @@
 ---
-title: "Pearl White"
+title: "Pearl White 3D Number Plate"
 weight: 7
 draft: false
-description: "Pearl White"
+description: "Pearl white 3D number plates with a subtle shimmering paint finish. MIPA pearl coating with clearcoat, made to order in Singapore."
 category: "Car Plates"
 tags: ["pearl", "clearcoated"]
 series_order: 1

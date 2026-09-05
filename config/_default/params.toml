@@ -162,8 +162,21 @@ fingerprintAlgorithm = "sha512" # Valid values are "sha512" (default), "sha384",
 #[buymeacoffee]
 #  identifier = "nunocoracao"
 
+[organization]
+  # Used by the Organization JSON-LD emitted on the homepage.
+  name = "AlisonT Design Pte. Ltd."
+  legalName = "AlisonT Design Pte. Ltd."
+  logo = "img/alisont_logo.png"
+  email = "alisontdesign@gmail.com"
+  telephone = "+6588261189"
+  streetAddress = "619D Punggol Drive"
+  addressLocality = "Singapore"
+  postalCode = "824619"
+  addressCountry = "SG"
+
 [verification]
-  # google = ""
+  # Paste your Google Search Console HTML meta tag value here (content="...") to verify the site.
+  google = ""
   # bing = ""
   # pinterest = ""
   # yandex = ""

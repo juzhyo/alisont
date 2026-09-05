@@ -1,28 +1,10 @@
 ---
 title: "AlisonT Design Pte. Ltd."
-description: "🇸🇬 Singapore's First 3D-Printed Number Plates 🇸🇬"
+description: "Singapore's first 3D-printed number plates. Custom car, motorcycle and e-bike plates with raised 3D characters - pearl, metallic, matte and carbon finishes, made locally."
 ---
 
+Singapore's original 3D-printed number plate studio. We craft custom number plates for [cars, motorcycles and e-bikes](/catalogue/) — solid raised characters, laser-cut acrylic, and automotive-grade finishes like pearl, metallic, carbon and matte.
 
-<!-- <div class="flex px-4 py-2 mb-8 text-base rounded-md bg-primary-100 dark:bg-primary-900"> -->
-<!--   <span class="flex items-center pe-3 text-primary-400"> -->
-<!--     {{< icon "triangle-exclamation" >}} -->
-<!--   </span> -->
-<!--   <span class="flex items-center justify-between grow dark:text-neutral-300"> -->
-<!--     <span class="prose dark:prose-invert">This is a demo of the <code id="layout">background</code> layout.</span> -->
-<!--     <button -->
-<!--       id="switch-layout-button" -->
-<!--       class="px-4 mx-[3px] !text-neutral !no-underline rounded-md bg-primary-600 hover:!bg-primary-500 dark:bg-primary-800 dark:hover:!bg-primary-700" -->
-<!--     > -->
-<!--       Switch layout &orarr; -->
-<!--     </button> -->
-<!--   </span> -->
-<!-- </div> -->
+Every plate is designed, printed and finished locally in Singapore, built to survive our weather, and engineered to stay readable by ANPR and VEP camera systems. Most orders are ready within 24 hours.
 
-
-<!-- ```shell -->
-<!-- npx blowfish-tools -->
-<!-- ``` -->  
-
-<!-- {{< youtubeLite id="5JG7PzxLON8" label="Blowfish-tools demo" >}} -->
-
+Browse the [catalogue](/catalogue/) or [WhatsApp us](https://wa.me/6588261189) your dream combination.

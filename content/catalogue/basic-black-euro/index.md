@@ -1,8 +1,8 @@
 ---
-title: "Basic Black Euro"
+title: "Basic Black Euro 3D Number Plate"
 weight: 9
 draft: false
-description: "Basic Black Euro"
+description: "Black Euro-style 3D number plates for Singapore cars. Solid raised characters on a black baseplate, laser-cut and made to order."
 category: "Car Plates"
 series_order: 1
 tags: ["basic", "matte"]

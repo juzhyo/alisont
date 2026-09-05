@@ -1,8 +1,8 @@
 ---
-title: "3D Matte on Matte"
+title: "3D Matte-on-Matte Number Plate"
 weight: 13
 draft: false
-description: "3D Matte on Matte"
+description: "Low-gloss matte-on-matte 3D number plates in Singapore - raised characters finished in MIPA matte lacquer on satin acrylic. Optional embedded logo, ANPR-friendly."
 category: "Car Plates"
 tags: ["matte"]
 series_order: 1

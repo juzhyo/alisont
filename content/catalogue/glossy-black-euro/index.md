@@ -1,8 +1,8 @@
 ---
-title: "Glossy Black Euro"
+title: "Glossy Black Euro 3D Number Plate"
 weight: 10
 draft: false
-description: "Glossy Black Euro"
+description: "Glossy black Euro-style 3D number plate for Singapore cars. Raised solid characters, German clearcoat, ANPR-friendly, made to order."
 category: "Car Plates"
 tags: ["glossy", "clearcoated"]
 series_order: 1

@@ -1,0 +1,8 @@
+{{/* Renders FAQ items from the page's `faq` front-matter list.
+    Schema for the same items is emitted in <head> via extend-head-uncached.html. */}}
+{{- $faq := .Page.Params.faq -}}
+{{- if $faq -}}
+  {{- range $faq -}}
+<p><strong>{{ .q }}</strong><br>{{ .a | markdownify }}</p>
+  {{- end -}}
+{{- end -}}

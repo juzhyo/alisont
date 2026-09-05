@@ -1,8 +1,8 @@
 ---
-title: "Rainbow Stars"
+title: "Rainbow Stars Reflective Number Plate"
 weight: 2
 draft: false
-description: "Rainbow Stars"
+description: "Rainbow-stars 3D number plates that sparkle in the light - characters laminated with Oracal road-safety reflective film. UV resistant, Singapore."
 category: "Car Plates"
 tags: ["specialty", "reflective"]
 series_order: 1
