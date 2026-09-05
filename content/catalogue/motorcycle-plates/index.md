@@ -1,8 +1,8 @@
 ---
-title: "3D Motorcycle Number Plate"
+title: "Motorcycle Plates"
 weight: 100
 draft: false
-description: "Compact 3D motorcycle number plates for Singapore bikes. Solid raised characters, UV-resistant laser-cut acrylic, ANPR-friendly."
+description: "Motorcycle Plates"
 category: "Motorcycle & E-Bike Plates"
 tags: ["motorcycle"]
 series_order: 1

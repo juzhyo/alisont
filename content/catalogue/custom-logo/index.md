@@ -1,8 +1,8 @@
 ---
-title: "Custom Logo Number Plate"
+title: "Custom Logo"
 weight: 97
 draft: false
-description: "Custom number plates with your own logo or design. Contact AlisonT Design Singapore to personalise your car plate today."
+description: "Custom Logo"
 category: "Custom Work"
 tags: ["custom"]
 series_order: 1

@@ -1,8 +1,8 @@
 ---
-title: "Basic Flat White 3D Number Plate"
+title: "Basic Flat White"
 weight: 5
 draft: false
-description: "Flat white 3D number plates for everyday cars in Singapore. Solid block characters on a white acrylic baseplate, ANPR-friendly, made locally."
+description: "Basic Flat White"
 category: "Car Plates"
 series_order: 1
 tags: ["basic", "matte"]

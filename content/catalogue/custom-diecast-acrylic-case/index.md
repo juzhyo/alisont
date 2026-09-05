@@ -1,8 +1,8 @@
 ---
-title: "Custom Diecast Acrylic Display Case"
+title: "Custom Diecast Acrylic Case"
 weight: 101
 draft: false
-description: "Custom clear acrylic display cases for diecast models in 1:18, 1:24 and 1:43 scale. Dust-proof with removable lid, made in Singapore."
+description: "Custom Diecast Acrylic Case"
 category: "Accessories"
 tags: ["custom"]
 series_order: 1

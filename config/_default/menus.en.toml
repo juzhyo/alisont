@@ -25,11 +25,6 @@
   pageRef = "contact"
   weight = 10
 
-[[main]]
-  name = "Guides"
-  pageRef = "guides"
-  weight = 10
-
 #[[main]]
 #  name = "Shortcodes"
 #  pageRef = "docs/shortcodes"

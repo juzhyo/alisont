@@ -1,8 +1,8 @@
 ---
-title: "Basic Satin Matte 3D Number Plate"
+title: "Basic Satin Matte"
 weight: 12
 draft: false
-description: "Satin matte 3D number plates with a soft, glare-free finish. Solid raised characters on satin acrylic, crafted in Singapore."
+description: "Basic Satin Matte"
 category: "Car Plates"
 tags: ["basic", "matte"]
 series_order: 1

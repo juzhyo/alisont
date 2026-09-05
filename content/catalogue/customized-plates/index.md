@@ -1,8 +1,8 @@
 ---
-title: "Custom 3D Number Plates"
+title: "Customized Plates"
 weight: 98
 draft: false
-description: "Fully customised 3D number plates for cars, motorcycles and e-bikes. Choose colours, sizing and styling - made to order in Singapore."
+description: "Customized Plates"
 category: "Custom Work"
 tags: ["custom"]
 series_order: 1
