@@ -31,6 +31,7 @@
         "position:relative;max-width:90vw;max-height:90vh;display:flex;align-items:center;justify-content:center;";
 
       var closeBtn = document.createElement("button");
+      closeBtn.className = "insta-lb-control";
       closeBtn.innerHTML = "&times;";
       closeBtn.style.cssText =
         "position:absolute;top:16px;right:20px;background:none;border:none;color:#fff;font-size:40px;cursor:pointer;line-height:1;z-index:10";
@@ -38,6 +39,7 @@
       overlay.appendChild(closeBtn);
 
       var prevBtn = document.createElement("button");
+      prevBtn.className = "insta-lb-control";
       prevBtn.innerHTML =
         '<svg viewBox="0 0 24 24" width="32" height="32" fill="white"><path d="M15.41 7.41L14 6l-6 6 6 6 1.41-1.41L10.83 12z"/></svg>';
       prevBtn.style.cssText =
@@ -49,6 +51,7 @@
       overlay.appendChild(prevBtn);
 
       var nextBtn = document.createElement("button");
+      nextBtn.className = "insta-lb-control";
       nextBtn.innerHTML =
         '<svg viewBox="0 0 24 24" width="32" height="32" fill="white"><path d="M8.59 16.59L10 18l6-6-6-6-1.41 1.41L13.17 12z"/></svg>';
       nextBtn.style.cssText =
@@ -76,12 +79,20 @@
 
       // --- Mobile touch gestures: pinch to zoom, drag to pan, tap to close ---
       var lastTapTime = 0;
+      var touchStartedOnControl = false;
+
+      function isControl(el) {
+        // closest() so touches landing on the SVG icon inside a button count too
+        return !!(el && el.closest && el.closest(".insta-lb-control"));
+      }
 
       overlay.addEventListener(
         "touchstart",
         function (e) {
-          if (e.target === closeBtn || e.target === prevBtn || e.target === nextBtn)
-            return;
+          // Remember if this touch began on a control button so touchend
+          // doesn't misread it as a tap-to-close.
+          touchStartedOnControl = isControl(e.target);
+          if (touchStartedOnControl) return;
           activeTouches = e.touches.length;
           if (activeTouches === 2) {
             pinchStartDist = distance(e.touches[0], e.touches[1]);
@@ -112,6 +123,11 @@
       overlay.addEventListener(
         "touchend",
         function (e) {
+          if (touchStartedOnControl) {
+            // Let the button's own click handler do its thing (navigate/close).
+            touchStartedOnControl = false;
+            return;
+          }
           activeTouches = e.touches.length;
           if (activeTouches === 0) {
             var now = Date.now();
@@ -133,8 +149,7 @@
 
       // Double-tap to zoom in / reset (nice on mobile)
       overlay.addEventListener("dblclick", function (e) {
-        if (e.target === closeBtn || e.target === prevBtn || e.target === nextBtn)
-          return;
+        if (isControl(e.target)) return;
         applyZoom(zoom > minZoom ? 1 : maxZoom);
       });
 
