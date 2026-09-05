@@ -1,4 +1,7 @@
-{{ $images := .Page.Resources.Match (.Get "images" | default "img/*") }}
+{{ $all := .Page.Resources.Match (.Get "images" | default "img/*") }}
+{{ $videos := where $all "MediaType.SubType" "gif" }}
+{{ $photos := where $all "MediaType.SubType" "ne" "gif" }}
+{{ $images := $videos | append $photos }}
 {{ $id := delimit (slice "gallery" (partial "functions/uid.html" .)) "-" }}
 
 <style>
