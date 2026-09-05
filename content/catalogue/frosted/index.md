@@ -2,7 +2,7 @@
 title: "Frosted"
 weight: 1
 draft: false
-description: "Frosted"
+description: "Frosted 3D number plates with a sleek translucent finish. Clearcoated acrylic, UV and chemical resistant, made to order in Singapore."
 category: "Car Plates"
 tags: ["specialty", "signature", "clearcoated"]
 series_order: 1

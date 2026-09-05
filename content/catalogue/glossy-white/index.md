@@ -2,7 +2,7 @@
 title: "Glossy White"
 weight: 6
 draft: false
-description: "Glossy White"
+description: "Glossy white 3D number plates for cars in Singapore. High-gloss white baseplate with raised characters and clearcoat protection."
 category: "Car Plates"
 tags: ["glossy", "clearcoated"]
 series_order: 1

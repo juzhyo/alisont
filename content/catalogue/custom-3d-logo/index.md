@@ -2,7 +2,7 @@
 title: "Custom 3D Logo"
 weight: 99
 draft: false
-description: "Custom 3D Logo"
+description: "Put a raised 3D logo on your number plate. Fully custom car plates with solid printed emblems, made to order in Singapore."
 category: "Custom Work"
 tags: ["custom"]
 series_order: 1

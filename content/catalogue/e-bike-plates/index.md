@@ -2,7 +2,7 @@
 title: "E-Bike Plates"
 weight: 101
 draft: false
-description: "E-Bike Plates"
+description: "Compliant 3D e-bike number plates (35mm x 25mm) for Singapore. Solid raised characters, UV-resistant acrylic, made locally."
 category: "Motorcycle & E-Bike Plates"
 tags: ["e-bike"]
 series_order: 1
