@@ -1,6 +1,6 @@
 ---
 title: "Catalogue"
-description: "Our range of car plates"
+description: "Browse custom 3D number plates for cars, motorcycles and e-bikes in Singapore - glossy, matte, pearl, metallic, carbon and specialty finishes, made to order."
 
 cascade:
   showDate: false

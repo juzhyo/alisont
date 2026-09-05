@@ -1,5 +1,6 @@
 ---
 title: "Contact Us"
+description: "Contact AlisonT Design for custom 3D number plates in Singapore. WhatsApp (+65) 8826 1189, email alisontdesign@gmail.com - open 24/7 by appointment."
 
 cascade:
   showReadingTime: false
