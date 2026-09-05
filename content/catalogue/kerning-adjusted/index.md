@@ -1,5 +1,5 @@
 ---
-title: "Kerning-Adjusted"
+title: "Kerning-adjusted (Example)"
 weight: 99
 draft: false
 description: "Kerning-adjusted 3D number plates with perfectly balanced character spacing for a premium, high-end finish. Made in Singapore."
