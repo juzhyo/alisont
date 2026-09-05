@@ -9,7 +9,7 @@ description = "Discover Singapore's first 3D-printed number plates."
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  logo = "img/alisont_logo.png"
+  logo = "img/alisont_logo.webp"
   description = "🇸🇬 Singapore's First 3D-Printed Number Plates 🇸🇬"
 
 [params.author]
