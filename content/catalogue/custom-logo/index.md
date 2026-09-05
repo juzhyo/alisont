@@ -5,6 +5,7 @@ draft: false
 description: "Custom number plates with your own logo or design. Contact AlisonT Design Singapore to personalise your car plate today."
 category: "Custom Work"
 tags: ["custom"]
+ltaCompliant: false
 series_order: 1
 
 cascade:

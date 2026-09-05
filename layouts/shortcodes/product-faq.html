@@ -11,8 +11,13 @@
 {{- $q3 := "How durable is it in Singapore's weather?" -}}
 {{- $q4 := printf "How do I order %s?" $t -}}
 
+{{- /* Road-use compliance: pages with ltaCompliant=false (custom work) get a strict answer */ -}}
+{{- $ltaCompliant := $.Page.Params.ltaCompliant | default true -}}
 {{- $a1 := "Most custom orders are produced within 24 hours (1 business day). Once your order is confirmed, we'll give you a precise ETA before we start." -}}
 {{- $a2 := "Our standard prints are precision-engineered to meet strict OneMotoring dimensional standards (70mm H \u00d7 50mm W \u00d7 10mm) and are VEP/ANPR friendly - readable by the camera systems at customs and condominium gantries. Full custom dimensions or track-spec styling are strictly for off-road, show or display use." -}}
+{{- if not $ltaCompliant -}}
+  {{- $a2 = "Customised plates are not LTA compliant and are intended for off-road, show, track or display use only. Need compliant plates for the road? Our standard range is precision-engineered to strict OneMotoring dimensional standards." -}}
+{{- end -}}
 {{- $a3 := "Built for daily driving - UV- and chemical-resistant coatings over 3mm laser-cut cast acrylic keep the characters sharp and fade-free through sun and rain." -}}
 {{- $a4 := "WhatsApp us at (+65) 8826 1189 with your registration number and preferred finish, or use the contact page - we'll confirm your specs and ETA before production." -}}
 

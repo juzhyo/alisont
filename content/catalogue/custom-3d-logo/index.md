@@ -5,6 +5,7 @@ draft: false
 description: "Put a raised 3D logo on your number plate. Fully custom car plates with solid printed emblems, made to order in Singapore."
 category: "Custom Work"
 tags: ["custom"]
+ltaCompliant: false
 series_order: 1
 
 cascade:
