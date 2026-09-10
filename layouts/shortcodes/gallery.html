@@ -25,7 +25,14 @@
   width: 100%;
   height: auto;
   display: block;
+  margin: 0;
   transition: transform 0.2s;
+}
+/* Kill Tailwind Typography's 2em top/bottom margins on img/picture/video,
+   which otherwise add a large vertical gap between gallery rows. */
+.insta-grid-{{ $id }} a picture {
+  display: block;
+  margin: 0;
 }
 .insta-grid-{{ $id }} a:hover img,
 .insta-grid-{{ $id }} a:hover video {
