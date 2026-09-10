@@ -28,6 +28,11 @@
   margin: 0;
   transition: transform 0.2s;
 }
+/* Videos have no intrinsic size until metadata loads; default to the
+   portrait ratio our clips are encoded at so space is reserved correctly. */
+.insta-grid-{{ $id }} a video {
+  aspect-ratio: 250 / 448;
+}
 /* Kill Tailwind Typography's 2em top/bottom margins on img/picture/video,
    which otherwise add a large vertical gap between gallery rows. */
 .insta-grid-{{ $id }} a picture {
@@ -37,6 +42,20 @@
 .insta-grid-{{ $id }} a:hover img,
 .insta-grid-{{ $id }} a:hover video {
   transform: scale(1.05);
+}
+/* Masonry, applied by gallery-masonry.js. Without JS the grid above still
+   renders normally, so this is a progressive enhancement. */
+.insta-grid-{{ $id }}.insta-masonry {
+  display: flex;
+  align-items: flex-start;
+  gap: 4px;
+}
+.insta-grid-{{ $id }}.insta-masonry > .insta-masonry-col {
+  flex: 1 1 0;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
 }
 @media (max-width: 640px) {
   .insta-grid-{{ $id }} {
@@ -49,7 +68,7 @@
   {{ range $ci, $clip := $clips }}
     {{ if eq .MediaType.SubType "gif" }}
       <a href="{{ .RelPermalink }}" class="insta-gallery-item" data-media="image">
-        <img src="{{ .RelPermalink }}" alt="{{ $.Page.Title }} animation {{ add $ci 1 }}" loading="lazy" class="nozoom">
+        <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="{{ $.Page.Title }} animation {{ add $ci 1 }}" loading="lazy" class="nozoom">
       </a>
     {{ else }}
       <a href="{{ .RelPermalink }}" class="insta-gallery-item" data-media="video" aria-label="{{ $.Page.Title }} video {{ add $ci 1 }}">
@@ -65,7 +84,7 @@
       <a href="{{ if $webpFull }}{{ $webpFull.RelPermalink }}{{ else }}{{ .RelPermalink }}{{ end }}" class="insta-gallery-item" data-media="image">
         <picture>
           <source srcset="{{ $thumb.RelPermalink }}" type="image/webp">
-          <img src="{{ $fallback.RelPermalink }}" alt="{{ $.Page.Title }} photo {{ add $pi 1 }}" loading="lazy" class="nozoom">
+          <img src="{{ $fallback.RelPermalink }}" width="{{ $thumb.Width }}" height="{{ $thumb.Height }}" alt="{{ $.Page.Title }} photo {{ add $pi 1 }}" loading="lazy" class="nozoom">
         </picture>
       </a>
     {{ end }}
