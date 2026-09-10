@@ -13,8 +13,12 @@
 
 {{- /* Road-use compliance: pages with ltaCompliant=false (custom work) get a strict answer */ -}}
 {{- $ltaCompliant := $.Page.Params.ltaCompliant | default true -}}
+{{- /* Dimensional standard differs per vehicle type. Car plates are 70H×50W×10mm broad;
+       motorcycle rear plates 50H×30W×5mm (LTA); e-bikes/PABs use the smaller e-bike spec.
+       Override per product via `plateDims` in frontmatter; defaults to car dimensions. */ -}}
+{{- $dims := $.Page.Params.plateDims | default "70mm H \u00d7 50mm W \u00d7 10mm" -}}
 {{- $a1 := "Most custom orders are produced within 24 hours (1 business day). Once your order is confirmed, we'll give you a precise ETA before we start." -}}
-{{- $a2 := "Our standard prints are precision-engineered to meet strict OneMotoring dimensional standards (70mm H \u00d7 50mm W \u00d7 10mm) and are VEP/ANPR friendly - readable by the camera systems at customs and condominium gantries. Full custom dimensions or track-spec styling are strictly for off-road, show or display use." -}}
+{{- $a2 := printf "Our standard prints are precision-engineered to meet strict OneMotoring dimensional standards (%s) and are VEP/ANPR friendly - readable by the camera systems at customs and condominium gantries. Full custom dimensions or track-spec styling are strictly for off-road, show or display use." $dims -}}
 {{- if not $ltaCompliant -}}
   {{- $a2 = "Customised plates are not LTA compliant and are intended for off-road, show, track or display use only. Need compliant plates for the road? Our standard range is precision-engineered to strict OneMotoring dimensional standards." -}}
 {{- end -}}

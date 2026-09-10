@@ -5,6 +5,7 @@ draft: false
 description: "Compliant 3D e-bike number plates (35mm x 25mm) for Singapore. Solid raised characters, UV-resistant acrylic, made locally."
 category: "Motorcycle & E-Bike Plates"
 tags: ["e-bike"]
+plateDims: "35mm × 25mm"
 series_order: 1
 
 cascade:
