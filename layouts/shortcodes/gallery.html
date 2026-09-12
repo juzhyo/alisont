@@ -1,4 +1,10 @@
-{{ $all := .Page.Resources.Match (.Get "images" | default "img/*") }}
+{{ $raw := .Page.Resources.Match (.Get "images" | default "img/*") }}
+{{/* Skip derived renditions (-grid.mp4 tiles, -poster.webp frames) so they
+     are not listed as gallery items of their own. */}}
+{{ $all := slice }}
+{{ range $raw }}
+  {{ if not (or (strings.HasSuffix .Name "-grid.mp4") (strings.HasSuffix .Name "-poster.webp")) }}{{ $all = $all | append . }}{{ end }}
+{{ end }}
 {{/* Clips (videos first, then any stray gifs) keep the old "GIFs on top" ordering */}}
 {{ $videos := where $all "MediaType.MainType" "video" }}
 {{ $gifs := where $all "MediaType.SubType" "gif" }}
@@ -71,8 +77,11 @@
         <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="{{ $.Page.Title }} animation {{ add $ci 1 }}" loading="lazy" class="nozoom">
       </a>
     {{ else }}
-      <a href="{{ .RelPermalink }}" class="insta-gallery-item" data-media="video" aria-label="{{ $.Page.Title }} video {{ add $ci 1 }}">
-        <video src="{{ .RelPermalink }}" autoplay loop muted playsinline preload="metadata" class="nozoom"></video>
+      {{ $stem := strings.TrimSuffix ".mp4" $clip.Name }}
+      {{ $grid := $.Page.Resources.GetMatch (printf "%s-grid.mp4" $stem) }}
+      {{ $poster := $.Page.Resources.GetMatch (printf "%s-poster.webp" $stem) }}
+      <a href="{{ $clip.RelPermalink }}" class="insta-gallery-item" data-media="video" aria-label="{{ $.Page.Title }} video {{ add $ci 1 }}">
+        <video src="{{ with $grid }}{{ .RelPermalink }}{{ else }}{{ $clip.RelPermalink }}{{ end }}"{{ with $poster }} poster="{{ .RelPermalink }}"{{ end }} loop muted playsinline preload="none" class="nozoom insta-autoplay-video"></video>
       </a>
     {{ end }}
   {{ end }}
@@ -97,3 +106,26 @@
     {{ end }}
   {{ end }}
 </div>
+{{ if gt (len $videos) 0 }}
+<script>
+  /* Autoplay tiles only while they are on screen. Tiles ship preload="none"
+     + a poster, so offscreen clips cost a few KB instead of megabytes; once
+     a tile scrolls into view its grid rendition starts playing. */
+  (function () {
+    var vids = document.querySelectorAll("#{{ $id }} video.insta-autoplay-video");
+    if (!vids.length) return;
+    function play(v) { var p = v.play(); if (p && p.catch) p.catch(function () {}); }
+    if (!("IntersectionObserver" in window)) {
+      Array.prototype.forEach.call(vids, play);
+      return;
+    }
+    var io = new IntersectionObserver(function (entries) {
+      entries.forEach(function (e) {
+        if (e.isIntersecting) play(e.target);
+        else e.target.pause();
+      });
+    }, { threshold: 0.25 });
+    Array.prototype.forEach.call(vids, function (v) { io.observe(v); });
+  })();
+</script>
+{{ end }}
