@@ -15,6 +15,10 @@ enableRobotsTXT = true
 summaryLength = 30
 hasCJKLanguage = true
 
+# CI runners are slow and product galleries need a lot of image processing;
+# the default 60s per-page render limit is too tight.
+timeout = "10m"
+
 buildDrafts = false
 buildFuture = false
 

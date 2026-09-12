@@ -87,16 +87,16 @@
   {{ end }}
   {{ range $pi, $photo := $photos }}
     {{ if ne .MediaType.SubType "webp" }}
-      {{ $thumb := .Resize "600x webp" }}
-      {{ $fallback := .Resize "600x" }}
-      {{/* Lightbox image is generated at build time and size-capped, instead
-           of shipping the raw original (3-5MB camera files) or relying on a
-           hand-made .webp twin. Mobile gets a 1200px variant when the
-           device would not benefit from the full 1600px. */}}
+      {{/* One decode per photo: process the big original once into the
+           lightbox rendition, then derive every smaller size from it.
+           Decoding a 5500px camera JPEG is the expensive part - doing it
+           once instead of 3-4x keeps CI inside its render timeout. */}}
       {{ $lbWidth := cond (gt .Width 1600) 1600 .Width }}
       {{ $lightbox := .Resize (printf "%dx q80 webp" $lbWidth) }}
+      {{ $thumb := $lightbox.Resize "600x webp" }}
+      {{ $fallback := $lightbox.Resize "600x jpg" }}
       {{ $mobileSrc := "" }}
-      {{ if gt .Width 1200 }}{{ $mobileSrc = (.Resize "1200x q78 webp").RelPermalink }}{{ end }}
+      {{ if gt $lightbox.Width 1200 }}{{ $mobileSrc = ($lightbox.Resize "1200x q78 webp").RelPermalink }}{{ end }}
       <a href="{{ $lightbox.RelPermalink }}"{{ with $mobileSrc }} data-src-mobile="{{ . }}"{{ end }} class="insta-gallery-item" data-media="image">
         <picture>
           <source srcset="{{ $thumb.RelPermalink }}" type="image/webp">

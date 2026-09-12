@@ -1,5 +1,5 @@
-languageCode = "en"
-languageName = "English"
+locale = "en"
+label = "English"
 weight = 1
 title = "AlisonT Design"
 description = "Discover Singapore's first 3D-printed number plates."
