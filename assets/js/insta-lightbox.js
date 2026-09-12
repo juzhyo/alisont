@@ -197,6 +197,16 @@
     return Math.max(lo, Math.min(hi, v));
   }
 
+  // Prefer the smaller mobile-sized variant when the device would not
+  // benefit from the full-size image (viewport x DPR <= 1200px).
+  function pickImageSrc(item) {
+    if (item.srcMobile) {
+      var dpr = window.devicePixelRatio || 1;
+      if (window.innerWidth * dpr <= 1200) return item.srcMobile;
+    }
+    return item.href;
+  }
+
   function renderMedia() {
     var img = document.getElementById("insta-lightbox-img");
     var video = document.getElementById("insta-lightbox-video");
@@ -227,7 +237,7 @@
       }
       if (img) {
         img.style.display = "";
-        img.src = item.href;
+        img.src = pickImageSrc(item);
         img.alt = "";
       }
     }
@@ -275,6 +285,7 @@
     var itemData = Array.prototype.map.call(items, function (item) {
       return {
         href: item.getAttribute("href"),
+        srcMobile: item.getAttribute("data-src-mobile"),
         media: item.getAttribute("data-media") || "image"
       };
     });

@@ -80,8 +80,15 @@
     {{ if ne .MediaType.SubType "webp" }}
       {{ $thumb := .Resize "600x webp" }}
       {{ $fallback := .Resize "600x" }}
-      {{ $webpFull := $.Page.Resources.GetMatch (replace .Name (path.Ext .Name) ".webp") }}
-      <a href="{{ if $webpFull }}{{ $webpFull.RelPermalink }}{{ else }}{{ .RelPermalink }}{{ end }}" class="insta-gallery-item" data-media="image">
+      {{/* Lightbox image is generated at build time and size-capped, instead
+           of shipping the raw original (3-5MB camera files) or relying on a
+           hand-made .webp twin. Mobile gets a 1200px variant when the
+           device would not benefit from the full 1600px. */}}
+      {{ $lbWidth := cond (gt .Width 1600) 1600 .Width }}
+      {{ $lightbox := .Resize (printf "%dx q80 webp" $lbWidth) }}
+      {{ $mobileSrc := "" }}
+      {{ if gt .Width 1200 }}{{ $mobileSrc = (.Resize "1200x q78 webp").RelPermalink }}{{ end }}
+      <a href="{{ $lightbox.RelPermalink }}"{{ with $mobileSrc }} data-src-mobile="{{ . }}"{{ end }} class="insta-gallery-item" data-media="image">
         <picture>
           <source srcset="{{ $thumb.RelPermalink }}" type="image/webp">
           <img src="{{ $fallback.RelPermalink }}" width="{{ $thumb.Width }}" height="{{ $thumb.Height }}" alt="{{ $.Page.Title }} photo {{ add $pi 1 }}" loading="lazy" class="nozoom">
