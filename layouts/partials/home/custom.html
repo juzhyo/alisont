@@ -36,5 +36,36 @@
 </video>
 <div id="video-overlay"></div>
 
-<div id="JFWebsiteWidget-01a08eb7cf7070008eff369056cc952153bb"></div>
-<script src="https://www.jotform.com/website-widgets/embed/01a08eb7cf7070008eff369056cc952153bb"></script>
+<div id="reviews" style="min-height:400px">
+  <div id="JFWebsiteWidget-01a08eb7cf7070008eff369056cc952153bb"></div>
+</div>
+<style>
+  #reviews iframe { max-width: 100% !important; width: 100% !important; }
+</style>
+<script>
+  /* Lazy-load the Google Reviews widget: only fetch JotForm's script when
+     the reviews section approaches the viewport. Saves 3rd-party JS on
+     first paint (mobile TBT/LCP) and the reserved min-height avoids CLS. */
+  (function () {
+    var WIDGET_ID = "01a08eb7cf7070008eff369056cc952153bb";
+    function loadWidget() {
+      if (document.getElementById("jotform-widget-script")) return;
+      var s = document.createElement("script");
+      s.id = "jotform-widget-script";
+      s.src = "https://www.jotform.com/website-widgets/embed/" + WIDGET_ID;
+      s.async = true;
+      document.body.appendChild(s);
+    }
+    var target = document.getElementById("reviews");
+    if (target && "IntersectionObserver" in window) {
+      var io = new IntersectionObserver(function (entries) {
+        entries.forEach(function (e) {
+          if (e.isIntersecting) { loadWidget(); io.disconnect(); }
+        });
+      }, { rootMargin: "300px 0px" });
+      io.observe(target);
+    } else {
+      loadWidget();
+    }
+  })();
+</script>
