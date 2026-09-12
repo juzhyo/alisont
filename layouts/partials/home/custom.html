@@ -36,18 +36,22 @@
 </video>
 <div id="video-overlay"></div>
 
+{{/* JotForm widget ID - SINGLE SOURCE. JotForm mounts into the div whose id
+     is "JFWebsiteWidget-<id>", so this value must be identical in the div and
+     in the loader below. Change it here only. */}}
+{{ $jotformID := "01a0941233c0700086b32cd152b724704007" }}
 <div id="reviews" style="min-height:400px">
-  <div id="JFWebsiteWidget-01a08eb7cf7070008eff369056cc952153bb"></div>
+  <div id="JFWebsiteWidget-{{ $jotformID }}"></div>
 </div>
 <style>
   #reviews iframe { max-width: 100% !important; width: 100% !important; }
 </style>
 <script>
-  /* Lazy-load the Google Reviews widget: only fetch JotForm's script when
-     the reviews section approaches the viewport. Saves 3rd-party JS on
-     first paint (mobile TBT/LCP) and the reserved min-height avoids CLS. */
+  /* Lazy-load the Google Reviews widget: fetch JotForm's script when the
+     reviews section approaches the viewport (keeps 3rd-party JS off first
+     paint). Safety nets guarantee it still loads if that never fires. */
   (function () {
-    var WIDGET_ID = "01a0941233c0700086b32cd152b724704007";
+    var WIDGET_ID = "{{ $jotformID }}";
     function loadWidget() {
       if (document.getElementById("jotform-widget-script")) return;
       var s = document.createElement("script");
@@ -67,5 +71,14 @@
     } else {
       loadWidget();
     }
+    // Safety nets: the widget must never end up missing.
+    // (a) first user interaction loads it, (b) a delayed fallback after
+    // window load covers pages where the section never intersects.
+    ["scroll", "pointerdown", "keydown"].forEach(function (ev) {
+      window.addEventListener(ev, loadWidget, { once: true, passive: true });
+    });
+    window.addEventListener("load", function () {
+      setTimeout(loadWidget, 8000);
+    });
   })();
 </script>
